@@ -1,0 +1,39 @@
+
+html, body {
+  margin:0;
+	padding:0;
+}
+
+table {
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+table,th,td {
+  border : 1px solid black;
+  border-collapse: collapse;
+}
+th,td {
+  padding: 5px;
+}
+
+
+.maintable {
+  position:relative;
+  top: 100px;
+  border : 3px solid black;
+}
+
+.control {
+  position:fixed;
+  top:0;
+  width:100%;
+  z-index:100;
+  padding: 25px;
+  /* height: 50px; */
+  background-color: #CCC;
+}
+
+
+#idlist {
+  width: 500px;
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+
+<link rel="stylesheet" href="css/main.css">
+
+<style>
+table,th,td {
+  border : 1px solid black;
+  border-collapse: collapse;
+}
+th,td {
+  padding: 5px;
+}
+</style>
+
+
+<script src="js/test3.js"></script>
+
+
+
+<body>
+
+  <div class = "control">
+
+  <select id="version" name="version">
+    <option value="0.2">0.2</option>
+  </select>
+
+  <select id="field" name="field">
+    <option value="1">NIRCam1</option>
+    <!-- <option value="2">NIRCam2</option>
+    <option value="3">NIRCam3</option>
+    <option value="4">NIRCam4</option> -->
+  </select>
+
+  <select id="subcat" name="subcat">
+    <option value="-highz">high-z</option>
+    <!-- <option value="2">NIRCam2</option>
+    <option value="3">NIRCam3</option>
+    <option value="4">NIRCam4</option> -->
+  </select>
+
+<button type="button" id="initialise_all" name="initialise_all">All Sources</button>
+
+<input type="text" id="idlist" name="idlist">
+<button type="button" id="initialise_list" name="initialise_list">Source list</button>
+
+</div>
+
+<!-- <p>Click on a row to display album information.</p> -->
+<!-- <p id='displayinfo'></p> -->
+<table id="table" class="maintable"></table>
+
+</body>
+</html>
