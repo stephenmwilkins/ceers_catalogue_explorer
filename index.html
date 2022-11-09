@@ -1,25 +1,20 @@
 <!DOCTYPE html>
 <html>
+<head>
 
 
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="js/test3.js"></script>
 <link rel="stylesheet" href="css/main.css">
 
-<style>
-table,th,td {
-  border : 1px solid black;
-  border-collapse: collapse;
-}
-th,td {
-  padding: 5px;
-}
-</style>
 
-
-<script src="js/test3.js"></script>
-
+</head>
 
 
 <body>
+
+
 
   <div class = "control">
 
@@ -29,13 +24,14 @@ th,td {
 
   <select id="field" name="field">
     <option value="1">NIRCam1</option>
-    <!-- <option value="2">NIRCam2</option>
+    <option value="2">NIRCam2</option>
     <option value="3">NIRCam3</option>
-    <option value="4">NIRCam4</option> -->
+    <option value="6">NIRCam6</option>
   </select>
 
   <select id="subcat" name="subcat">
-    <option value="-highz">high-z</option>
+    <option value="-high-z.v0.1">high-z</option>
+    <option value="-F22">F22</option>
     <!-- <option value="2">NIRCam2</option>
     <option value="3">NIRCam3</option>
     <option value="4">NIRCam4</option> -->
@@ -44,9 +40,12 @@ th,td {
 <button type="button" id="initialise_all" name="initialise_all">All Sources</button>
 
 <input type="text" id="idlist" name="idlist">
-<button type="button" id="initialise_list" name="initialise_list">Source list</button>
-
+<button type="button" id="initialise_list" name="initialise_list">Source list</button><br>
+<span>Marked as spurious: </span><span id="spuriouslist"></span>
 </div>
+
+
+
 
 <!-- <p>Click on a row to display album information.</p> -->
 <!-- <p id='displayinfo'></p> -->

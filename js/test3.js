@@ -8,19 +8,59 @@ function setup() {
 
   document.getElementById("initialise_list").addEventListener("click", initialise_list);
   document.getElementById("initialise_all").addEventListener("click", initialise_all);
+  $(".spuriouslist").html("test");
+}
 
+
+// $(document).ready(function(){
+//   $checkbox = $('.spurious');
+//   $checkbox.click(checkArray);
+//   function checkArray(){
+//       var chkArray = [];
+//       chkArray = $.map($checkbox, function(el){
+//           if(el.checked) { return el.id };
+//       });
+//       console.log(chkArray);
+//   };
+// });
+
+function copyToClipboard(text) {
+   const elem = document.createElement('textarea');
+   elem.value = text;
+   document.body.appendChild(elem);
+   elem.select();
+   document.execCommand('copy');
+   document.body.removeChild(elem);
+}
+
+
+function spurious_checker() {
+  $checkbox = $('.spurious');
+  $checkbox.click(checkArray);
+  function checkArray(){
+      var chkArray = [];
+      chkArray = $.map($checkbox, function(el){
+          if(el.checked) { return el.id };
+      });
+      console.log(chkArray);
+      $("#spuriouslist").html(chkArray.toString());
+      copyToClipboard(chkArray.toString());
+  };
 }
 
 
 function initialise_all() {
   const idlist = [];
   initialise(idlist);
+  spurious_checker();
 }
 
 function initialise_list() {
   var idlist = document.getElementById('idlist').value.split(',');
   initialise(idlist);
+  spurious_checker();
 }
+
 
 
 
@@ -59,15 +99,24 @@ function initialise(idlist) {
 
     i = item - 1;
 
-
-
     table += "<tr>";
+
+    id = x[i].getElementsByTagName("photom-ID")[0].childNodes[0].nodeValue;
+
+    // spurious check box
+
+    table += "<td><table><tr><td>";
+
+    table += '<input class="spurious" type="checkbox" id="'+id+'">Spurious?';
+
+    table += "</td></tr></table></td>";
+
 
     // info table
 
     table += "<td><table>";
 
-    id = x[i].getElementsByTagName("photom-ID")[0].childNodes[0].nodeValue;
+
     table += "<tr><td>ID</td><td>" + id + "</td></tr>";
 
     const infoarray = ["X", "Y", "RA", "DEC"]
@@ -82,8 +131,6 @@ function initialise(idlist) {
     href = "https://ned.ipac.caltech.edu/conesearch?in_csys=Equatorial&in_equinox=J2000&coordinates="+precise(parseFloat(ra),6)+"d%20%2B"+precise(parseFloat(dec),6)+"d&radius=0.02&hconst=67.8&omegam=0.308&omegav=0.692&wmap=4&corr_z=1&z_constraint=Unconstrained&z_unit=z&ot_include=ANY&nmp_op=ANY&search_type=Near%20Position%20Search&out_csys=Same%20as%20Input&out_equinox=Same%20as%20Input&obj_sort=Distance%20to%20search%20center"
 
     table += '<tr><td><a href="' + href + '">NED</a></td><td>'
-
-
 
     table += "</table></td>";
 
@@ -153,8 +200,8 @@ function initialise(idlist) {
 
     table += "</table></td>";
     table += "<td><img style='width:350px;' src='cats/"+cat+"/pz_"+id+".png'></td>";
-    table += "<td><img style='width:250px;' src='cats/"+cat+"/wide_significance_"+id+".png'></td>";
-    table += "<td><img style='width:250px;' src='cats/"+cat+"/significance_"+id+".png'></td>";
+    table += "<td><img style='width:250px;' src='cats/"+cat+"/detection_"+id+".png'></td>";
+    table += "<td><img style='width:250px;' src='cats/"+cat+"/segmentation_"+id+".png'></td>";
     table += "<td><img style='height:250px;' src='cats/"+cat+"/cutout_"+id+".png'></td>";
     table += "</tr>";
   });
