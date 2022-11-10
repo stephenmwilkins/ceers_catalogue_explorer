@@ -2,6 +2,12 @@
 <data>
   <row>
     <index>0</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.2303897296363594e+120</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'23740'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.299999999999931</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.2303897296363594e+120</matched-finkelstein22c-z>
     <photom-APCORR>1.3226969726020152</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9439846423118643</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.959</photom-A_IMAGE>
@@ -103,6 +109,12 @@
   </row>
   <row>
     <index>1</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.642291777047497e-146</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.642291777047497e-146</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.642291777047497e-146</matched-finkelstein22c-z>
     <photom-APCORR>1.1721947132561255</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9491712547788134</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.318</photom-A_IMAGE>
@@ -204,6 +216,12 @@
   </row>
   <row>
     <index>2</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>4.594789136976771e+178</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.594789136976771e+178</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>4.594789136976771e+178</matched-finkelstein22c-z>
     <photom-APCORR>1.2824356087068587</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5771147159450745</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.675</photom-A_IMAGE>
@@ -305,6 +323,12 @@
   </row>
   <row>
     <index>3</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.052807677668475e-126</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.052807677668475e-126</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.052807677668475e-126</matched-finkelstein22c-z>
     <photom-APCORR>1.0443828702480114</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3726481544480735</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.478</photom-A_IMAGE>
@@ -406,6 +430,12 @@
   </row>
   <row>
     <index>4</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-7.276732287724819e+282</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'24066'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.9100000000000006</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-7.276732287724819e+282</matched-finkelstein22c-z>
     <photom-APCORR>1.4445198893994151</photom-APCORR>
     <photom-APCORR_APER_0P3>2.3910015481172233</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.508</photom-A_IMAGE>
@@ -507,107 +537,12 @@
   </row>
   <row>
     <index>5</index>
-    <photom-APCORR>1.1764820468167232</photom-APCORR>
-    <photom-APCORR_APER_0P3>1.9846435876386201</photom-APCORR_APER_0P3>
-    <photom-A_IMAGE>6.566</photom-A_IMAGE>
-    <photom-B_IMAGE>1.684</photom-B_IMAGE>
-    <photom-DEC>52.86605068537277</photom-DEC>
-    <photom-DF105>22029866924689.062</photom-DF105>
-    <photom-DF115>4.326848876768785</photom-DF115>
-    <photom-DF125>10.227368416681568</photom-DF125>
-    <photom-DF140>13.237436855872414</photom-DF140>
-    <photom-DF150>4.8865121278794525</photom-DF150>
-    <photom-DF160>8.757344148939678</photom-DF160>
-    <photom-DF200>4.248989520683644</photom-DF200>
-    <photom-DF277>4.329209114687474</photom-DF277>
-    <photom-DF356>4.335276601309007</photom-DF356>
-    <photom-DF410>8.575220882832488</photom-DF410>
-    <photom-DF444>6.102832212906645</photom-DF444>
-    <photom-DF606>5.973544751908078</photom-DF606>
-    <photom-DF814>7.8494798777308</photom-DF814>
-    <photom-F105>0.0</photom-F105>
-    <photom-F115>36.206978158869944</photom-F115>
-    <photom-F125>64.89664222865314</photom-F125>
-    <photom-F140>52.64722124117714</photom-F140>
-    <photom-F150>56.07020846568846</photom-F150>
-    <photom-F160>94.50587916804592</photom-F160>
-    <photom-F200>97.51000974226315</photom-F200>
-    <photom-F277>75.4932806557064</photom-F277>
-    <photom-F356>111.09551251578695</photom-F356>
-    <photom-F410>140.16450871160438</photom-F410>
-    <photom-F444>193.09688117243314</photom-F444>
-    <photom-F606>8.909673165168284</photom-F606>
-    <photom-F814>22.3502670794475</photom-F814>
-    <photom-FWHM_F200W>19.95</photom-FWHM_F200W>
-    <photom-ID>140</photom-ID>
-    <photom-ISOAREA_IMAGE>96</photom-ISOAREA_IMAGE>
-    <photom-KRON_RADIUS>2.06</photom-KRON_RADIUS>
-    <photom-LW>b'AAAAA'</photom-LW>
-    <photom-RA>214.86419239632642</photom-RA>
-    <photom-RH_F200W>3.703</photom-RH_F200W>
-    <photom-STELLARITY>0.787</photom-STELLARITY>
-    <photom-SW>b'B2'</photom-SW>
-    <photom-THETA_IMAGE>-3.27</photom-THETA_IMAGE>
-    <photom-X>1758.6005</photom-X>
-    <photom-XMAX_IMAGE>1775</photom-XMAX_IMAGE>
-    <photom-XMIN_IMAGE>1743</photom-XMIN_IMAGE>
-    <photom-Y>4522.8013</photom-Y>
-    <photom-YMAX_IMAGE>4525</photom-YMAX_IMAGE>
-    <photom-YMIN_IMAGE>4518</photom-YMIN_IMAGE>
-    <pz-ceers-CHI2_HI>40.70883294236478</pz-ceers-CHI2_HI>
-    <pz-ceers-CHI2_LOW>49.285159919882304</pz-ceers-CHI2_LOW>
-    <pz-ceers-CHIA>40.70883294236478</pz-ceers-CHIA>
-    <pz-ceers-INT_PZ0>4.4860710829769816e-12</pz-ceers-INT_PZ0>
-    <pz-ceers-INT_PZ1>4.764268114855636e-10</pz-ceers-INT_PZ1>
-    <pz-ceers-INT_PZ10>4.90094073438356e-14</pz-ceers-INT_PZ10>
-    <pz-ceers-INT_PZ10_12>8.032436563215203e-16</pz-ceers-INT_PZ10_12>
-    <pz-ceers-INT_PZ11>2.8943869835935037e-16</pz-ceers-INT_PZ11>
-    <pz-ceers-INT_PZ12>2.4616865651888013e-20</pz-ceers-INT_PZ12>
-    <pz-ceers-INT_PZ12_15>1.4323190891889084e-32</pz-ceers-INT_PZ12_15>
-    <pz-ceers-INT_PZ13>1.7197392275770727e-49</pz-ceers-INT_PZ13>
-    <pz-ceers-INT_PZ14>7.11969931347574e-61</pz-ceers-INT_PZ14>
-    <pz-ceers-INT_PZ15>1.5023683557699219e-64</pz-ceers-INT_PZ15>
-    <pz-ceers-INT_PZ15_20>1.4323190891889084e-32</pz-ceers-INT_PZ15_20>
-    <pz-ceers-INT_PZ16>1.6650920627212533e-75</pz-ceers-INT_PZ16>
-    <pz-ceers-INT_PZ17>4.399101404669516e-94</pz-ceers-INT_PZ17>
-    <pz-ceers-INT_PZ18>2.3273297561420596e-108</pz-ceers-INT_PZ18>
-    <pz-ceers-INT_PZ19>3.3755908861680385e-108</pz-ceers-INT_PZ19>
-    <pz-ceers-INT_PZ2>0.003622147423068976</pz-ceers-INT_PZ2>
-    <pz-ceers-INT_PZ3>0.00033559092111219675</pz-ceers-INT_PZ3>
-    <pz-ceers-INT_PZ4>3.5832835770646167e-09</pz-ceers-INT_PZ4>
-    <pz-ceers-INT_PZ5>3.223135955474735e-12</pz-ceers-INT_PZ5>
-    <pz-ceers-INT_PZ6>9.725276696348344e-10</pz-ceers-INT_PZ6>
-    <pz-ceers-INT_PZ7>3.2196539136669975e-09</pz-ceers-INT_PZ7>
-    <pz-ceers-INT_PZ8>0.4128623811629758</pz-ceers-INT_PZ8>
-    <pz-ceers-INT_PZ8P5_10>0.5831798722332414</pz-ceers-INT_PZ8P5_10>
-    <pz-ceers-INT_PZ9>0.5831798722332414</pz-ceers-INT_PZ9>
-    <pz-ceers-INT_ZGT10>8.032436563215203e-16</pz-ceers-INT_ZGT10>
-    <pz-ceers-INT_ZGT11>6.234702268662771e-17</pz-ceers-INT_ZGT11>
-    <pz-ceers-INT_ZGT12>1.4323190891889084e-32</pz-ceers-INT_ZGT12>
-    <pz-ceers-INT_ZGT3>0.9960423343268392</pz-ceers-INT_ZGT3>
-    <pz-ceers-INT_ZGT4>0.9960422577073094</pz-ceers-INT_ZGT4>
-    <pz-ceers-INT_ZGT5>0.9960422575893206</pz-ceers-INT_ZGT5>
-    <pz-ceers-INT_ZGT6>0.9960422573693049</pz-ceers-INT_ZGT6>
-    <pz-ceers-INT_ZGT7>0.9960422562148068</pz-ceers-INT_ZGT7>
-    <pz-ceers-INT_ZGT8>0.9949862649894117</pz-ceers-INT_ZGT8>
-    <pz-ceers-INT_ZGT9>0.0011816170008990916</pz-ceers-INT_ZGT9>
-    <pz-ceers-SAMPLE>9</pz-ceers-SAMPLE>
-    <pz-ceers-ZA>8.590000000000009</pz-ceers-ZA>
-    <pz-ceers-ZHI>8.590000000000009</pz-ceers-ZHI>
-    <pz-ceers-ZL68>8.350000000000014</pz-ceers-ZL68>
-    <pz-ceers-ZL95>8.200000000000017</pz-ceers-ZL95>
-    <pz-ceers-ZLOW>2.349999999999999</pz-ceers-ZLOW>
-    <pz-ceers-ZPEAK>8.530765056426242</pz-ceers-ZPEAK>
-    <pz-ceers-ZU68>8.680000000000007</pz-ceers-ZU68>
-    <pz-ceers-ZU95>8.830000000000004</pz-ceers-ZU95>
-    <specz-catalogue>b'\xdb?\x98\x0b\xba\xcd\x12E\xdb?'</specz-catalogue>
-    <specz-quality>0.0</specz-quality>
-    <specz-z>0.0</specz-z>
-    <spurious>0.0</spurious>
-    <z>8.590000000000009</z>
-  </row>
-  <row>
-    <index>6</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-4.25386362518585e+292</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-4.25386362518585e+292</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-4.25386362518585e+292</matched-finkelstein22c-z>
     <photom-APCORR>1.7117108226883357</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6921814308865162</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.487</photom-A_IMAGE>
@@ -708,7 +643,13 @@
     <z>4.959999999999996</z>
   </row>
   <row>
-    <index>7</index>
+    <index>6</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.2456648809548202e+265</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'24335'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.7800000000000005</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.2456648809548202e+265</matched-finkelstein22c-z>
     <photom-APCORR>1.2470144151744802</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5293590569033435</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.031</photom-A_IMAGE>
@@ -809,7 +750,13 @@
     <z>4.929999999999996</z>
   </row>
   <row>
-    <index>8</index>
+    <index>7</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.0799952468841951e+43</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.0799952468841951e+43</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.0799952468841951e+43</matched-finkelstein22c-z>
     <photom-APCORR>1.5014520425312108</photom-APCORR>
     <photom-APCORR_APER_0P3>2.8400915950910246</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.131</photom-A_IMAGE>
@@ -910,7 +857,13 @@
     <z>5.500000000000001</z>
   </row>
   <row>
-    <index>9</index>
+    <index>8</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.880539776985385e-291</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.880539776985385e-291</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.880539776985385e-291</matched-finkelstein22c-z>
     <photom-APCORR>1.6702620206967276</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8868980763867413</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.963</photom-A_IMAGE>
@@ -1011,7 +964,13 @@
     <z>4.899999999999996</z>
   </row>
   <row>
-    <index>10</index>
+    <index>9</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.2628266897039057e+94</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.2628266897039057e+94</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.2628266897039057e+94</matched-finkelstein22c-z>
     <photom-APCORR>0.9502281450589211</photom-APCORR>
     <photom-APCORR_APER_0P3>0.8700567655511483</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.064</photom-A_IMAGE>
@@ -1112,7 +1071,13 @@
     <z>4.689999999999994</z>
   </row>
   <row>
-    <index>11</index>
+    <index>10</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-3.338266305719247e+79</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'24442'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.8200000000000014</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-3.338266305719247e+79</matched-finkelstein22c-z>
     <photom-APCORR>1.3024007902461257</photom-APCORR>
     <photom-APCORR_APER_0P3>2.3176388713300233</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.768</photom-A_IMAGE>
@@ -1213,7 +1178,13 @@
     <z>6.61000000000001</z>
   </row>
   <row>
-    <index>12</index>
+    <index>11</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-3.7268114866658197e+242</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'25386'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.209999999999933</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-3.7268114866658197e+242</matched-finkelstein22c-z>
     <photom-APCORR>1.6789377310991107</photom-APCORR>
     <photom-APCORR_APER_0P3>2.0693932781097284</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.928</photom-A_IMAGE>
@@ -1314,7 +1285,13 @@
     <z>5.470000000000001</z>
   </row>
   <row>
-    <index>13</index>
+    <index>12</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.3416864915530923e+119</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.3416864915530923e+119</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.3416864915530923e+119</matched-finkelstein22c-z>
     <photom-APCORR>1.2393057349461971</photom-APCORR>
     <photom-APCORR_APER_0P3>4.44488632111259</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>7.732</photom-A_IMAGE>
@@ -1415,7 +1392,13 @@
     <z>5.470000000000001</z>
   </row>
   <row>
-    <index>14</index>
+    <index>13</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.7850381665122864e-232</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.7850381665122864e-232</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.7850381665122864e-232</matched-finkelstein22c-z>
     <photom-APCORR>1.298755439278149</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3559628910201345</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.58</photom-A_IMAGE>
@@ -1516,108 +1499,13 @@
     <z>4.749999999999995</z>
   </row>
   <row>
-    <index>15</index>
-    <photom-APCORR>1.501607954590762</photom-APCORR>
-    <photom-APCORR_APER_0P3>1.4903286071555597</photom-APCORR_APER_0P3>
-    <photom-A_IMAGE>2.51</photom-A_IMAGE>
-    <photom-B_IMAGE>1.676</photom-B_IMAGE>
-    <photom-DEC>52.86547738416237</photom-DEC>
-    <photom-DF105>19824348031456.42</photom-DF105>
-    <photom-DF115>3.3954417384918347</photom-DF115>
-    <photom-DF125>7.998354479019199</photom-DF125>
-    <photom-DF140>13.04767038348787</photom-DF140>
-    <photom-DF150>3.700095233257049</photom-DF150>
-    <photom-DF160>7.164246714513957</photom-DF160>
-    <photom-DF200>3.448928728988895</photom-DF200>
-    <photom-DF277>2.7416014533563033</photom-DF277>
-    <photom-DF356>2.344776954086748</photom-DF356>
-    <photom-DF410>5.257247360646739</photom-DF410>
-    <photom-DF444>3.149314124736874</photom-DF444>
-    <photom-DF606>6.4723176866926035</photom-DF606>
-    <photom-DF814>6.731388360212558</photom-DF814>
-    <photom-F105>0.0</photom-F105>
-    <photom-F115>19.26797666438348</photom-F115>
-    <photom-F125>23.784845554926676</photom-F125>
-    <photom-F140>35.739063658821095</photom-F140>
-    <photom-F150>20.556608777764293</photom-F150>
-    <photom-F160>-12.917850080461243</photom-F160>
-    <photom-F200>17.904356860002988</photom-F200>
-    <photom-F277>38.76932506231745</photom-F277>
-    <photom-F356>25.15029959819248</photom-F356>
-    <photom-F410>21.57405884628425</photom-F410>
-    <photom-F444>14.446194931567938</photom-F444>
-    <photom-F606>11.146180857671402</photom-F606>
-    <photom-F814>16.403482830478666</photom-F814>
-    <photom-FWHM_F200W>7.39</photom-FWHM_F200W>
-    <photom-ID>331</photom-ID>
-    <photom-ISOAREA_IMAGE>11</photom-ISOAREA_IMAGE>
-    <photom-KRON_RADIUS>2.47</photom-KRON_RADIUS>
-    <photom-LW>b'BLONG'</photom-LW>
-    <photom-RA>214.865040765621</photom-RA>
-    <photom-RH_F200W>2.162</photom-RH_F200W>
-    <photom-STELLARITY>0.435</photom-STELLARITY>
-    <photom-SW>b'B2'</photom-SW>
-    <photom-THETA_IMAGE>-4.72</photom-THETA_IMAGE>
-    <photom-X>1771.2686</photom-X>
-    <photom-XMAX_IMAGE>1775</photom-XMAX_IMAGE>
-    <photom-XMIN_IMAGE>1765</photom-XMIN_IMAGE>
-    <photom-Y>4431.4258</photom-Y>
-    <photom-YMAX_IMAGE>4436</photom-YMAX_IMAGE>
-    <photom-YMIN_IMAGE>4430</photom-YMIN_IMAGE>
-    <pz-ceers-CHI2_HI>75.55829305263921</pz-ceers-CHI2_HI>
-    <pz-ceers-CHI2_LOW>29.285272271642867</pz-ceers-CHI2_LOW>
-    <pz-ceers-CHIA>29.285272271642867</pz-ceers-CHIA>
-    <pz-ceers-INT_PZ0>0.0034889544565209945</pz-ceers-INT_PZ0>
-    <pz-ceers-INT_PZ1>0.06587119482943876</pz-ceers-INT_PZ1>
-    <pz-ceers-INT_PZ10>2.9597974103955077e-19</pz-ceers-INT_PZ10>
-    <pz-ceers-INT_PZ10_12>1.6544781481151932e-17</pz-ceers-INT_PZ10_12>
-    <pz-ceers-INT_PZ11>4.149394276100962e-18</pz-ceers-INT_PZ11>
-    <pz-ceers-INT_PZ12>1.6495742910568275e-17</pz-ceers-INT_PZ12>
-    <pz-ceers-INT_PZ12_15>7.342716445292209e-14</pz-ceers-INT_PZ12_15>
-    <pz-ceers-INT_PZ13>9.931384429815585e-19</pz-ceers-INT_PZ13>
-    <pz-ceers-INT_PZ14>2.185628362712241e-16</pz-ceers-INT_PZ14>
-    <pz-ceers-INT_PZ15>2.6982751150827352e-14</pz-ceers-INT_PZ15>
-    <pz-ceers-INT_PZ15_20>7.342716445292209e-14</pz-ceers-INT_PZ15_20>
-    <pz-ceers-INT_PZ16>4.609641294532727e-14</pz-ceers-INT_PZ16>
-    <pz-ceers-INT_PZ17>1.240312440210595e-16</pz-ceers-INT_PZ17>
-    <pz-ceers-INT_PZ18>1.9125064196039311e-19</pz-ceers-INT_PZ18>
-    <pz-ceers-INT_PZ19>8.797791543330822e-20</pz-ceers-INT_PZ19>
-    <pz-ceers-INT_PZ2>1.1161003400504073e-05</pz-ceers-INT_PZ2>
-    <pz-ceers-INT_PZ3>0.00012577629118223313</pz-ceers-INT_PZ3>
-    <pz-ceers-INT_PZ4>0.3904347041394332</pz-ceers-INT_PZ4>
-    <pz-ceers-INT_PZ5>0.5400653625831926</pz-ceers-INT_PZ5>
-    <pz-ceers-INT_PZ6>2.8396356867843258e-06</pz-ceers-INT_PZ6>
-    <pz-ceers-INT_PZ7>7.057727370221444e-09</pz-ceers-INT_PZ7>
-    <pz-ceers-INT_PZ8>3.304719280057768e-12</pz-ceers-INT_PZ8>
-    <pz-ceers-INT_PZ8P5_10>4.079563191735346e-14</pz-ceers-INT_PZ8P5_10>
-    <pz-ceers-INT_PZ9>4.079563191735346e-14</pz-ceers-INT_PZ9>
-    <pz-ceers-INT_ZGT10>7.344370923440325e-14</pz-ceers-INT_ZGT10>
-    <pz-ceers-INT_ZGT11>7.344339125663992e-14</pz-ceers-INT_ZGT11>
-    <pz-ceers-INT_ZGT12>7.342716445292209e-14</pz-ceers-INT_ZGT12>
-    <pz-ceers-INT_ZGT3>0.9305781152528811</pz-ceers-INT_ZGT3>
-    <pz-ceers-INT_ZGT4>0.9111082588737377</pz-ceers-INT_ZGT4>
-    <pz-ceers-INT_ZGT5>5.978078457404937e-05</pz-ceers-INT_ZGT5>
-    <pz-ceers-INT_ZGT6>7.726886363444125e-08</pz-ceers-INT_ZGT6>
-    <pz-ceers-INT_ZGT7>2.382487663831745e-11</pz-ceers-INT_ZGT7>
-    <pz-ceers-INT_ZGT8>1.0135694943527491e-12</pz-ceers-INT_ZGT8>
-    <pz-ceers-INT_ZGT9>7.375179305851465e-14</pz-ceers-INT_ZGT9>
-    <pz-ceers-SAMPLE>5</pz-ceers-SAMPLE>
-    <pz-ceers-ZA>4.839999999999995</pz-ceers-ZA>
-    <pz-ceers-ZHI>7.000000000000013</pz-ceers-ZHI>
-    <pz-ceers-ZL68>4.14999999999999</pz-ceers-ZL68>
-    <pz-ceers-ZL95>0.5800000000000003</pz-ceers-ZL95>
-    <pz-ceers-ZLOW>4.839999999999995</pz-ceers-ZLOW>
-    <pz-ceers-ZPEAK>4.530264153527447</pz-ceers-ZPEAK>
-    <pz-ceers-ZU68>4.809999999999995</pz-ceers-ZU68>
-    <pz-ceers-ZU95>4.869999999999996</pz-ceers-ZU95>
-    <specz-catalogue>b'\xe3\x0c\xda?\xd8&amp;\xe1E\x92k'</specz-catalogue>
-    <specz-quality>0.0</specz-quality>
-    <specz-z>0.0</specz-z>
-    <spurious>0.0</spurious>
-    <z>4.839999999999995</z>
-  </row>
-  <row>
-    <index>16</index>
+    <index>14</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-9.683401586964848e-306</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-9.683401586964848e-306</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-9.683401586964848e-306</matched-finkelstein22c-z>
     <photom-APCORR>1.4931989293568304</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5659267816968983</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.266</photom-A_IMAGE>
@@ -1718,7 +1606,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>17</index>
+    <index>15</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>4.94242030690293e-241</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.94242030690293e-241</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>4.94242030690293e-241</matched-finkelstein22c-z>
     <photom-APCORR>2.042255906581436</photom-APCORR>
     <photom-APCORR_APER_0P3>1.975382173778351</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>1.713</photom-A_IMAGE>
@@ -1819,7 +1713,13 @@
     <z>6.64000000000001</z>
   </row>
   <row>
-    <index>18</index>
+    <index>16</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>4.8462766696537235e+209</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.8462766696537235e+209</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>4.8462766696537235e+209</matched-finkelstein22c-z>
     <photom-APCORR>1.754039538229945</photom-APCORR>
     <photom-APCORR_APER_0P3>2.5774032359243852</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.06</photom-A_IMAGE>
@@ -1920,7 +1820,13 @@
     <z>5.049999999999997</z>
   </row>
   <row>
-    <index>19</index>
+    <index>17</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.0347667306576926e-240</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'24974'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.599999999999925</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.0347667306576926e-240</matched-finkelstein22c-z>
     <photom-APCORR>1.489277191527532</photom-APCORR>
     <photom-APCORR_APER_0P3>3.1820799809545837</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.834</photom-A_IMAGE>
@@ -2021,7 +1927,13 @@
     <z>5.229999999999999</z>
   </row>
   <row>
-    <index>20</index>
+    <index>18</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-5.4542582957939186e-89</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-5.4542582957939186e-89</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-5.4542582957939186e-89</matched-finkelstein22c-z>
     <photom-APCORR>1.9048020291996215</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3258030499064364</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.213</photom-A_IMAGE>
@@ -2122,7 +2034,13 @@
     <z>5.470000000000001</z>
   </row>
   <row>
-    <index>21</index>
+    <index>19</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-6.88045837042698e-241</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-6.88045837042698e-241</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-6.88045837042698e-241</matched-finkelstein22c-z>
     <photom-APCORR>1.4280793858496665</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4024324360088902</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.605</photom-A_IMAGE>
@@ -2223,7 +2141,13 @@
     <z>6.700000000000011</z>
   </row>
   <row>
-    <index>22</index>
+    <index>20</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>6.942030516373951e-161</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>6.942030516373951e-161</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>6.942030516373951e-161</matched-finkelstein22c-z>
     <photom-APCORR>0.7376442822515386</photom-APCORR>
     <photom-APCORR_APER_0P3>0.8108812367293339</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.328</photom-A_IMAGE>
@@ -2324,7 +2248,13 @@
     <z>4.929999999999996</z>
   </row>
   <row>
-    <index>23</index>
+    <index>21</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-9.363110567674455e-100</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-9.363110567674455e-100</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-9.363110567674455e-100</matched-finkelstein22c-z>
     <photom-APCORR>1.9582764246623698</photom-APCORR>
     <photom-APCORR_APER_0P3>2.2613993641553116</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.815</photom-A_IMAGE>
@@ -2425,7 +2355,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>24</index>
+    <index>22</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>6.557232070290787e+198</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>6.557232070290787e+198</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>6.557232070290787e+198</matched-finkelstein22c-z>
     <photom-APCORR>1.9431069797668576</photom-APCORR>
     <photom-APCORR_APER_0P3>1.724245880241895</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.119</photom-A_IMAGE>
@@ -2526,7 +2462,13 @@
     <z>5.289999999999999</z>
   </row>
   <row>
-    <index>25</index>
+    <index>23</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>6.073071092623728e-264</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>6.073071092623728e-264</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>6.073071092623728e-264</matched-finkelstein22c-z>
     <photom-APCORR>1.6234681703414948</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5240397618675092</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.215</photom-A_IMAGE>
@@ -2627,7 +2569,13 @@
     <z>6.730000000000011</z>
   </row>
   <row>
-    <index>26</index>
+    <index>24</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-3.5594449948418727e-196</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-3.5594449948418727e-196</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-3.5594449948418727e-196</matched-finkelstein22c-z>
     <photom-APCORR>1.5940004032510668</photom-APCORR>
     <photom-APCORR_APER_0P3>2.1881913299117035</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.403</photom-A_IMAGE>
@@ -2728,7 +2676,13 @@
     <z>8.260000000000016</z>
   </row>
   <row>
-    <index>27</index>
+    <index>25</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-8.296973352170347e-147</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-8.296973352170347e-147</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-8.296973352170347e-147</matched-finkelstein22c-z>
     <photom-APCORR>1.387252424295863</photom-APCORR>
     <photom-APCORR_APER_0P3>2.0491467988352037</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.609</photom-A_IMAGE>
@@ -2829,7 +2783,13 @@
     <z>5.079999999999997</z>
   </row>
   <row>
-    <index>28</index>
+    <index>26</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.7905805864999962e-255</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.7905805864999962e-255</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.7905805864999962e-255</matched-finkelstein22c-z>
     <photom-APCORR>1.5282353813239815</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7422599979829951</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.552</photom-A_IMAGE>
@@ -2930,7 +2890,13 @@
     <z>4.839999999999995</z>
   </row>
   <row>
-    <index>29</index>
+    <index>27</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-6.887809564915217e+252</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-6.887809564915217e+252</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-6.887809564915217e+252</matched-finkelstein22c-z>
     <photom-APCORR>1.1717250264355865</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3397955792181007</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.788</photom-A_IMAGE>
@@ -3031,7 +2997,13 @@
     <z>5.049999999999997</z>
   </row>
   <row>
-    <index>30</index>
+    <index>28</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.8525323329506318e-145</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'26550'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.5300000000000002</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.8525323329506318e-145</matched-finkelstein22c-z>
     <photom-APCORR>1.2873104367496186</photom-APCORR>
     <photom-APCORR_APER_0P3>1.322161832107104</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.989</photom-A_IMAGE>
@@ -3132,7 +3104,13 @@
     <z>4.929999999999996</z>
   </row>
   <row>
-    <index>31</index>
+    <index>29</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.642772407214426e-82</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.642772407214426e-82</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.642772407214426e-82</matched-finkelstein22c-z>
     <photom-APCORR>1.5808122367529676</photom-APCORR>
     <photom-APCORR_APER_0P3>2.001105274674622</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.185</photom-A_IMAGE>
@@ -3233,7 +3211,13 @@
     <z>4.899999999999996</z>
   </row>
   <row>
-    <index>32</index>
+    <index>30</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.8499764612757198e+262</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'26716'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.460000000000001</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.8499764612757198e+262</matched-finkelstein22c-z>
     <photom-APCORR>1.4459977630666463</photom-APCORR>
     <photom-APCORR_APER_0P3>2.392645184489682</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.903</photom-A_IMAGE>
@@ -3334,108 +3318,13 @@
     <z>6.730000000000011</z>
   </row>
   <row>
-    <index>33</index>
-    <photom-APCORR>1.3388634512132769</photom-APCORR>
-    <photom-APCORR_APER_0P3>4.8094991524833395</photom-APCORR_APER_0P3>
-    <photom-A_IMAGE>10.118</photom-A_IMAGE>
-    <photom-B_IMAGE>3.546</photom-B_IMAGE>
-    <photom-DEC>52.81822942313055</photom-DEC>
-    <photom-DF105>42.223836211507155</photom-DF105>
-    <photom-DF115>8.853783507753114</photom-DF115>
-    <photom-DF125>27.194704727555674</photom-DF125>
-    <photom-DF140>42.66609669493989</photom-DF140>
-    <photom-DF150>9.512319426722673</photom-DF150>
-    <photom-DF160>20.304122370621702</photom-DF160>
-    <photom-DF200>8.035753941222312</photom-DF200>
-    <photom-DF277>6.912262308934746</photom-DF277>
-    <photom-DF356>6.691364222393259</photom-DF356>
-    <photom-DF410>11.092087999907362</photom-DF410>
-    <photom-DF444>9.225846842451121</photom-DF444>
-    <photom-DF606>17.031071159687468</photom-DF606>
-    <photom-DF814>19.35858542919735</photom-DF814>
-    <photom-F105>116.061108240159</photom-F105>
-    <photom-F115>90.88533222381078</photom-F115>
-    <photom-F125>68.59553653114523</photom-F125>
-    <photom-F140>182.95090920253236</photom-F140>
-    <photom-F150>96.25715696949088</photom-F150>
-    <photom-F160>71.80318243978112</photom-F160>
-    <photom-F200>95.00407188507853</photom-F200>
-    <photom-F277>111.45255236337873</photom-F277>
-    <photom-F356>137.6888325786967</photom-F356>
-    <photom-F410>82.50056295142439</photom-F410>
-    <photom-F444>140.20568034650452</photom-F444>
-    <photom-F606>4.000107681188636</photom-F606>
-    <photom-F814>42.64533587978142</photom-F814>
-    <photom-FWHM_F200W>35.96</photom-FWHM_F200W>
-    <photom-ID>1075</photom-ID>
-    <photom-ISOAREA_IMAGE>194</photom-ISOAREA_IMAGE>
-    <photom-KRON_RADIUS>2.16</photom-KRON_RADIUS>
-    <photom-LW>b'ALONG'</photom-LW>
-    <photom-RA>214.8085040849659</photom-RA>
-    <photom-RH_F200W>6.194</photom-RH_F200W>
-    <photom-STELLARITY>0.0</photom-STELLARITY>
-    <photom-SW>b'A1'</photom-SW>
-    <photom-THETA_IMAGE>-31.21</photom-THETA_IMAGE>
-    <photom-X>8745.7998</photom-X>
-    <photom-XMAX_IMAGE>8757</photom-XMAX_IMAGE>
-    <photom-XMIN_IMAGE>8721</photom-XMIN_IMAGE>
-    <photom-Y>3888.4783</photom-Y>
-    <photom-YMAX_IMAGE>3903</photom-YMAX_IMAGE>
-    <photom-YMIN_IMAGE>3880</photom-YMIN_IMAGE>
-    <pz-ceers-CHI2_HI>32.0541395648588</pz-ceers-CHI2_HI>
-    <pz-ceers-CHI2_LOW>9.014095972776799</pz-ceers-CHI2_LOW>
-    <pz-ceers-CHIA>9.014095972776799</pz-ceers-CHIA>
-    <pz-ceers-INT_PZ0>6.115407155533887e-08</pz-ceers-INT_PZ0>
-    <pz-ceers-INT_PZ1>0.00010805820394944537</pz-ceers-INT_PZ1>
-    <pz-ceers-INT_PZ10>1.0105488780534207e-28</pz-ceers-INT_PZ10>
-    <pz-ceers-INT_PZ10_12>2.4283541539360195e-28</pz-ceers-INT_PZ10_12>
-    <pz-ceers-INT_PZ11>1.94549805505884e-28</pz-ceers-INT_PZ11>
-    <pz-ceers-INT_PZ12>5.03968597889591e-33</pz-ceers-INT_PZ12>
-    <pz-ceers-INT_PZ12_15>3.6538494542340593e-38</pz-ceers-INT_PZ12_15>
-    <pz-ceers-INT_PZ13>1.3016029266419346e-44</pz-ceers-INT_PZ13>
-    <pz-ceers-INT_PZ14>2.1060693851706406e-48</pz-ceers-INT_PZ14>
-    <pz-ceers-INT_PZ15>1.902924503109634e-48</pz-ceers-INT_PZ15>
-    <pz-ceers-INT_PZ15_20>3.6538494542340593e-38</pz-ceers-INT_PZ15_20>
-    <pz-ceers-INT_PZ16>1.0467699489342278e-50</pz-ceers-INT_PZ16>
-    <pz-ceers-INT_PZ17>6.059649275154431e-61</pz-ceers-INT_PZ17>
-    <pz-ceers-INT_PZ18>4.136600026328282e-69</pz-ceers-INT_PZ18>
-    <pz-ceers-INT_PZ19>1.9453614859485825e-69</pz-ceers-INT_PZ19>
-    <pz-ceers-INT_PZ2>9.006834610483929e-05</pz-ceers-INT_PZ2>
-    <pz-ceers-INT_PZ3>3.0606757807017505e-08</pz-ceers-INT_PZ3>
-    <pz-ceers-INT_PZ4>2.3522428419628793e-05</pz-ceers-INT_PZ4>
-    <pz-ceers-INT_PZ5>5.380225747699604e-05</pz-ceers-INT_PZ5>
-    <pz-ceers-INT_PZ6>0.9913416708348869</pz-ceers-INT_PZ6>
-    <pz-ceers-INT_PZ7>0.00837883710608289</pz-ceers-INT_PZ7>
-    <pz-ceers-INT_PZ8>3.94899606029282e-06</pz-ceers-INT_PZ8>
-    <pz-ceers-INT_PZ8P5_10>6.619000155094349e-11</pz-ceers-INT_PZ8P5_10>
-    <pz-ceers-INT_PZ9>6.619000155094349e-11</pz-ceers-INT_PZ9>
-    <pz-ceers-INT_ZGT10>2.4283541543014046e-28</pz-ceers-INT_ZGT10>
-    <pz-ceers-INT_ZGT11>8.859387405357668e-30</pz-ceers-INT_ZGT11>
-    <pz-ceers-INT_ZGT12>3.6538494542340593e-38</pz-ceers-INT_ZGT12>
-    <pz-ceers-INT_ZGT3>0.9998017818617069</pz-ceers-INT_ZGT3>
-    <pz-ceers-INT_ZGT4>0.9998005211945891</pz-ceers-INT_ZGT4>
-    <pz-ceers-INT_ZGT5>0.9997321274405642</pz-ceers-INT_ZGT5>
-    <pz-ceers-INT_ZGT6>0.32037291062421624</pz-ceers-INT_ZGT6>
-    <pz-ceers-INT_ZGT7>3.968903553734671e-06</pz-ceers-INT_ZGT7>
-    <pz-ceers-INT_ZGT8>8.168660759326435e-07</pz-ceers-INT_ZGT8>
-    <pz-ceers-INT_ZGT9>1.5558351278430163e-17</pz-ceers-INT_ZGT9>
-    <pz-ceers-SAMPLE>6</pz-ceers-SAMPLE>
-    <pz-ceers-ZA>5.830000000000004</pz-ceers-ZA>
-    <pz-ceers-ZHI>7.900000000000021</pz-ceers-ZHI>
-    <pz-ceers-ZL68>5.740000000000003</pz-ceers-ZL68>
-    <pz-ceers-ZL95>5.650000000000002</pz-ceers-ZL95>
-    <pz-ceers-ZLOW>5.830000000000004</pz-ceers-ZLOW>
-    <pz-ceers-ZPEAK>5.936589416845082</pz-ceers-ZPEAK>
-    <pz-ceers-ZU68>6.130000000000006</pz-ceers-ZU68>
-    <pz-ceers-ZU95>6.400000000000008</pz-ceers-ZU95>
-    <specz-catalogue>b'\xa0\x88\xde?\x8b\xc3a\xdd\x13\xaa'</specz-catalogue>
-    <specz-quality>0.0</specz-quality>
-    <specz-z>0.0</specz-z>
-    <spurious>0.0</spurious>
-    <z>5.830000000000004</z>
-  </row>
-  <row>
-    <index>34</index>
+    <index>31</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.2954389870157523e-238</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.2954389870157523e-238</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.2954389870157523e-238</matched-finkelstein22c-z>
     <photom-APCORR>0.9544703174382149</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3473059197546031</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.127</photom-A_IMAGE>
@@ -3536,7 +3425,13 @@
     <z>4.899999999999996</z>
   </row>
   <row>
-    <index>35</index>
+    <index>32</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.2783323147301136e+164</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'27075'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.449999999999928</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.2783323147301136e+164</matched-finkelstein22c-z>
     <photom-APCORR>1.4767597558880077</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9971533928118177</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.0</photom-A_IMAGE>
@@ -3637,7 +3532,13 @@
     <z>5.049999999999997</z>
   </row>
   <row>
-    <index>36</index>
+    <index>33</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-4.588891995837899e+134</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-4.588891995837899e+134</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-4.588891995837899e+134</matched-finkelstein22c-z>
     <photom-APCORR>1.4799819358992703</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5817971111456255</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.577</photom-A_IMAGE>
@@ -3738,7 +3639,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>37</index>
+    <index>34</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.2636149929020715e+237</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.2636149929020715e+237</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.2636149929020715e+237</matched-finkelstein22c-z>
     <photom-APCORR>1.3694724354516004</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7903516718331056</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.876</photom-A_IMAGE>
@@ -3839,7 +3746,13 @@
     <z>4.809999999999995</z>
   </row>
   <row>
-    <index>38</index>
+    <index>35</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.9415334521988206e+177</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.9415334521988206e+177</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.9415334521988206e+177</matched-finkelstein22c-z>
     <photom-APCORR>1.7498255667288467</photom-APCORR>
     <photom-APCORR_APER_0P3>1.1652217344215237</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.513</photom-A_IMAGE>
@@ -3940,7 +3853,13 @@
     <z>5.139999999999998</z>
   </row>
   <row>
-    <index>39</index>
+    <index>36</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-5.512613446177951e+174</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-5.512613446177951e+174</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-5.512613446177951e+174</matched-finkelstein22c-z>
     <photom-APCORR>1.3746540395124527</photom-APCORR>
     <photom-APCORR_APER_0P3>3.6460643180899046</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.777</photom-A_IMAGE>
@@ -4041,7 +3960,13 @@
     <z>6.100000000000006</z>
   </row>
   <row>
-    <index>40</index>
+    <index>37</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>8.128494964273207e-163</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'27436'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>3.1299999999999772</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>8.128494964273207e-163</matched-finkelstein22c-z>
     <photom-APCORR>1.455436058520733</photom-APCORR>
     <photom-APCORR_APER_0P3>2.922550949299909</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.713</photom-A_IMAGE>
@@ -4142,108 +4067,13 @@
     <z>6.61000000000001</z>
   </row>
   <row>
-    <index>41</index>
-    <photom-APCORR>1.9662672181657617</photom-APCORR>
-    <photom-APCORR_APER_0P3>2.7736470699671636</photom-APCORR_APER_0P3>
-    <photom-A_IMAGE>2.625</photom-A_IMAGE>
-    <photom-B_IMAGE>2.183</photom-B_IMAGE>
-    <photom-DEC>52.858389393472926</photom-DEC>
-    <photom-DF105>39341648934091.5</photom-DF105>
-    <photom-DF115>13.72593005273713</photom-DF115>
-    <photom-DF125>19.73970161733414</photom-DF125>
-    <photom-DF140>24.481717059567796</photom-DF140>
-    <photom-DF150>29.327440905602675</photom-DF150>
-    <photom-DF160>15.55660429104065</photom-DF160>
-    <photom-DF200>7.6352373798276725</photom-DF200>
-    <photom-DF277>5.116968204131085</photom-DF277>
-    <photom-DF356>4.258020712207709</photom-DF356>
-    <photom-DF410>8.962399894076757</photom-DF410>
-    <photom-DF444>7.27821542000187</photom-DF444>
-    <photom-DF606>11.887782315935386</photom-DF606>
-    <photom-DF814>13.20995172771174</photom-DF814>
-    <photom-F105>0.0</photom-F105>
-    <photom-F115>136.12830306007336</photom-F115>
-    <photom-F125>42.28868823724704</photom-F125>
-    <photom-F140>44.1949415485571</photom-F140>
-    <photom-F150>34.218434778886696</photom-F150>
-    <photom-F160>30.967668589645235</photom-F160>
-    <photom-F200>58.48905567940139</photom-F200>
-    <photom-F277>35.92001490666463</photom-F277>
-    <photom-F356>43.51163433001367</photom-F356>
-    <photom-F410>29.23937278988971</photom-F410>
-    <photom-F444>39.6420919774016</photom-F444>
-    <photom-F606>4.4450273341531075</photom-F606>
-    <photom-F814>17.38691666982752</photom-F814>
-    <photom-FWHM_F200W>11.12</photom-FWHM_F200W>
-    <photom-ID>1403</photom-ID>
-    <photom-ISOAREA_IMAGE>40</photom-ISOAREA_IMAGE>
-    <photom-KRON_RADIUS>3.03</photom-KRON_RADIUS>
-    <photom-LW>b'BLONG'</photom-LW>
-    <photom-RA>214.8650156047617</photom-RA>
-    <photom-RH_F200W>4.413</photom-RH_F200W>
-    <photom-STELLARITY>0.298</photom-STELLARITY>
-    <photom-SW>b'B4'</photom-SW>
-    <photom-THETA_IMAGE>18.06</photom-THETA_IMAGE>
-    <photom-X>2420.8367</photom-X>
-    <photom-XMAX_IMAGE>2426</photom-XMAX_IMAGE>
-    <photom-XMIN_IMAGE>2416</photom-XMIN_IMAGE>
-    <photom-Y>3882.3213</photom-Y>
-    <photom-YMAX_IMAGE>3887</photom-YMAX_IMAGE>
-    <photom-YMIN_IMAGE>3878</photom-YMIN_IMAGE>
-    <pz-ceers-CHI2_HI>25.283036470620587</pz-ceers-CHI2_HI>
-    <pz-ceers-CHI2_LOW>22.842855836031653</pz-ceers-CHI2_LOW>
-    <pz-ceers-CHIA>22.842855836031653</pz-ceers-CHIA>
-    <pz-ceers-INT_PZ0>2.388192077416819e-05</pz-ceers-INT_PZ0>
-    <pz-ceers-INT_PZ1>8.132979597188219e-05</pz-ceers-INT_PZ1>
-    <pz-ceers-INT_PZ10>3.2214464001790736e-15</pz-ceers-INT_PZ10>
-    <pz-ceers-INT_PZ10_12>4.888793603469219e-15</pz-ceers-INT_PZ10_12>
-    <pz-ceers-INT_PZ11>2.874023894068183e-15</pz-ceers-INT_PZ11>
-    <pz-ceers-INT_PZ12>8.631273481787536e-16</pz-ceers-INT_PZ12>
-    <pz-ceers-INT_PZ12_15>2.8389151699938753e-16</pz-ceers-INT_PZ12_15>
-    <pz-ceers-INT_PZ13>7.692394852147988e-17</pz-ceers-INT_PZ13>
-    <pz-ceers-INT_PZ14>1.970007458668795e-17</pz-ceers-INT_PZ14>
-    <pz-ceers-INT_PZ15>8.13318908154483e-19</pz-ceers-INT_PZ15>
-    <pz-ceers-INT_PZ15_20>2.8389151699938753e-16</pz-ceers-INT_PZ15_20>
-    <pz-ceers-INT_PZ16>1.2800499260573736e-21</pz-ceers-INT_PZ16>
-    <pz-ceers-INT_PZ17>2.332843236590911e-25</pz-ceers-INT_PZ17>
-    <pz-ceers-INT_PZ18>2.114257723214251e-27</pz-ceers-INT_PZ18>
-    <pz-ceers-INT_PZ19>3.0647036435998444e-27</pz-ceers-INT_PZ19>
-    <pz-ceers-INT_PZ2>3.3320381342051875e-05</pz-ceers-INT_PZ2>
-    <pz-ceers-INT_PZ3>1.292901703479477e-08</pz-ceers-INT_PZ3>
-    <pz-ceers-INT_PZ4>1.0733652718922125e-07</pz-ceers-INT_PZ4>
-    <pz-ceers-INT_PZ5>0.00012122856099039533</pz-ceers-INT_PZ5>
-    <pz-ceers-INT_PZ6>0.5948769295683439</pz-ceers-INT_PZ6>
-    <pz-ceers-INT_PZ7>0.40237995014781214</pz-ceers-INT_PZ7>
-    <pz-ceers-INT_PZ8>0.0024832242817670125</pz-ceers-INT_PZ8>
-    <pz-ceers-INT_PZ8P5_10>1.5077447290887658e-08</pz-ceers-INT_PZ8P5_10>
-    <pz-ceers-INT_PZ9>1.5077447290887658e-08</pz-ceers-INT_PZ9>
-    <pz-ceers-INT_ZGT10>5.172685120468608e-15</pz-ceers-INT_ZGT10>
-    <pz-ceers-INT_ZGT11>2.416886580347262e-15</pz-ceers-INT_ZGT11>
-    <pz-ceers-INT_ZGT12>2.8389151699938753e-16</pz-ceers-INT_ZGT12>
-    <pz-ceers-INT_ZGT3>0.9998614558396689</pz-ceers-INT_ZGT3>
-    <pz-ceers-INT_ZGT4>0.9998614357777146</pz-ceers-INT_ZGT4>
-    <pz-ceers-INT_ZGT5>0.9998610212545719</pz-ceers-INT_ZGT5>
-    <pz-ceers-INT_ZGT6>0.8995007514704508</pz-ceers-INT_ZGT6>
-    <pz-ceers-INT_ZGT7>0.11876748266873882</pz-ceers-INT_ZGT7>
-    <pz-ceers-INT_ZGT8>1.0169865561073725e-05</pz-ceers-INT_ZGT8>
-    <pz-ceers-INT_ZGT9>3.208633746007313e-12</pz-ceers-INT_ZGT9>
-    <pz-ceers-SAMPLE>6</pz-ceers-SAMPLE>
-    <pz-ceers-ZA>6.310000000000008</pz-ceers-ZA>
-    <pz-ceers-ZHI>7.000000000000013</pz-ceers-ZHI>
-    <pz-ceers-ZL68>6.100000000000006</pz-ceers-ZL68>
-    <pz-ceers-ZL95>5.800000000000003</pz-ceers-ZL95>
-    <pz-ceers-ZLOW>6.310000000000008</pz-ceers-ZLOW>
-    <pz-ceers-ZPEAK>6.456141408017768</pz-ceers-ZPEAK>
-    <pz-ceers-ZU68>6.880000000000012</pz-ceers-ZU68>
-    <pz-ceers-ZU95>7.300000000000016</pz-ceers-ZU95>
-    <specz-catalogue>b'U\\\xdb?5\xbb\x11n!\xb7'</specz-catalogue>
-    <specz-quality>0.0</specz-quality>
-    <specz-z>0.0</specz-z>
-    <spurious>0.0</spurious>
-    <z>6.310000000000008</z>
-  </row>
-  <row>
-    <index>42</index>
+    <index>38</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.4831472465443185e+271</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>3.4831472465443185e+271</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.4831472465443185e+271</matched-finkelstein22c-z>
     <photom-APCORR>1.6561675213926463</photom-APCORR>
     <photom-APCORR_APER_0P3>3.0697276259474005</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.957</photom-A_IMAGE>
@@ -4344,7 +4174,13 @@
     <z>4.779999999999995</z>
   </row>
   <row>
-    <index>43</index>
+    <index>39</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.0177664578684657e-140</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-2.0177664578684657e-140</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.0177664578684657e-140</matched-finkelstein22c-z>
     <photom-APCORR>1.564778463545084</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9178634792591363</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.58</photom-A_IMAGE>
@@ -4445,7 +4281,13 @@
     <z>7.420000000000017</z>
   </row>
   <row>
-    <index>44</index>
+    <index>40</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-3.6799753042901535e+289</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-3.6799753042901535e+289</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-3.6799753042901535e+289</matched-finkelstein22c-z>
     <photom-APCORR>1.119705536331261</photom-APCORR>
     <photom-APCORR_APER_0P3>2.162720276400254</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.675</photom-A_IMAGE>
@@ -4546,7 +4388,13 @@
     <z>7.300000000000016</z>
   </row>
   <row>
-    <index>45</index>
+    <index>41</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-6.705097115644242e+126</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'27932'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>6.969999999999896</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-6.705097115644242e+126</matched-finkelstein22c-z>
     <photom-APCORR>1.4398169397058527</photom-APCORR>
     <photom-APCORR_APER_0P3>2.116950444419351</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.793</photom-A_IMAGE>
@@ -4647,7 +4495,13 @@
     <z>7.030000000000014</z>
   </row>
   <row>
-    <index>46</index>
+    <index>42</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-6.621740259886468e-33</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-6.621740259886468e-33</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-6.621740259886468e-33</matched-finkelstein22c-z>
     <photom-APCORR>1.9204136130037435</photom-APCORR>
     <photom-APCORR_APER_0P3>2.7912464985566756</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.528</photom-A_IMAGE>
@@ -4748,7 +4602,13 @@
     <z>6.64000000000001</z>
   </row>
   <row>
-    <index>47</index>
+    <index>43</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.721293075117244e-253</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.721293075117244e-253</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.721293075117244e-253</matched-finkelstein22c-z>
     <photom-APCORR>1.5290374641157343</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8277389733200888</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.59</photom-A_IMAGE>
@@ -4849,7 +4709,13 @@
     <z>6.310000000000008</z>
   </row>
   <row>
-    <index>48</index>
+    <index>44</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.8267471689438702e+94</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.8267471689438702e+94</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.8267471689438702e+94</matched-finkelstein22c-z>
     <photom-APCORR>1.3960335925731437</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7980941453868287</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.968</photom-A_IMAGE>
@@ -4950,7 +4816,13 @@
     <z>5.049999999999997</z>
   </row>
   <row>
-    <index>49</index>
+    <index>45</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>9.758621603187529e-262</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>9.758621603187529e-262</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>9.758621603187529e-262</matched-finkelstein22c-z>
     <photom-APCORR>1.4722995780829933</photom-APCORR>
     <photom-APCORR_APER_0P3>3.4918915611862573</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>7.11</photom-A_IMAGE>
@@ -5051,7 +4923,13 @@
     <z>4.899999999999996</z>
   </row>
   <row>
-    <index>50</index>
+    <index>46</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>9.466433891951183e+271</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>9.466433891951183e+271</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>9.466433891951183e+271</matched-finkelstein22c-z>
     <photom-APCORR>1.1582866091269797</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5926173409591722</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.922</photom-A_IMAGE>
@@ -5152,7 +5030,13 @@
     <z>5.019999999999997</z>
   </row>
   <row>
-    <index>51</index>
+    <index>47</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>5.301620776692047e+136</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.301620776692047e+136</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>5.301620776692047e+136</matched-finkelstein22c-z>
     <photom-APCORR>1.203572643134671</photom-APCORR>
     <photom-APCORR_APER_0P3>2.2202165647264316</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.92</photom-A_IMAGE>
@@ -5253,7 +5137,13 @@
     <z>5.500000000000001</z>
   </row>
   <row>
-    <index>52</index>
+    <index>48</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.7796776871577845e+200</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.7796776871577845e+200</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.7796776871577845e+200</matched-finkelstein22c-z>
     <photom-APCORR>1.6042943760329198</photom-APCORR>
     <photom-APCORR_APER_0P3>1.249087965547811</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.4</photom-A_IMAGE>
@@ -5354,7 +5244,13 @@
     <z>4.509999999999993</z>
   </row>
   <row>
-    <index>53</index>
+    <index>49</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.816912598605909e+123</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-2.816912598605909e+123</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.816912598605909e+123</matched-finkelstein22c-z>
     <photom-APCORR>1.298588219938946</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4069991075132302</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.068</photom-A_IMAGE>
@@ -5455,7 +5351,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>54</index>
+    <index>50</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.5737900504200627e-227</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>3.5737900504200627e-227</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.5737900504200627e-227</matched-finkelstein22c-z>
     <photom-APCORR>1.610499250595386</photom-APCORR>
     <photom-APCORR_APER_0P3>2.6177696777887904</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.622</photom-A_IMAGE>
@@ -5556,7 +5458,13 @@
     <z>7.000000000000013</z>
   </row>
   <row>
-    <index>55</index>
+    <index>51</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-3.644202361088633e-26</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'29041'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.460000000000001</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-3.644202361088633e-26</matched-finkelstein22c-z>
     <photom-APCORR>1.562445537764125</photom-APCORR>
     <photom-APCORR_APER_0P3>2.044907672350949</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.461</photom-A_IMAGE>
@@ -5657,7 +5565,13 @@
     <z>6.040000000000005</z>
   </row>
   <row>
-    <index>56</index>
+    <index>52</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.297172208947649e+106</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'29242'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.349999999999952</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.297172208947649e+106</matched-finkelstein22c-z>
     <photom-APCORR>1.5492120790945183</photom-APCORR>
     <photom-APCORR_APER_0P3>2.8750616979269497</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.971</photom-A_IMAGE>
@@ -5758,7 +5672,13 @@
     <z>4.839999999999995</z>
   </row>
   <row>
-    <index>57</index>
+    <index>53</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.8607335734856296e+300</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.8607335734856296e+300</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.8607335734856296e+300</matched-finkelstein22c-z>
     <photom-APCORR>1.4019955065348155</photom-APCORR>
     <photom-APCORR_APER_0P3>1.765133173602712</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.966</photom-A_IMAGE>
@@ -5859,7 +5779,13 @@
     <z>5.229999999999999</z>
   </row>
   <row>
-    <index>58</index>
+    <index>54</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-5.669475110307853e-48</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-5.669475110307853e-48</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-5.669475110307853e-48</matched-finkelstein22c-z>
     <photom-APCORR>1.4145114935548844</photom-APCORR>
     <photom-APCORR_APER_0P3>2.9978697784991772</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.405</photom-A_IMAGE>
@@ -5960,7 +5886,13 @@
     <z>5.500000000000001</z>
   </row>
   <row>
-    <index>59</index>
+    <index>55</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-7.728023174095462e+133</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'29330'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.350000000000001</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-7.728023174095462e+133</matched-finkelstein22c-z>
     <photom-APCORR>1.3729469288234073</photom-APCORR>
     <photom-APCORR_APER_0P3>3.1648133701037895</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>7.702</photom-A_IMAGE>
@@ -6061,7 +5993,13 @@
     <z>6.100000000000006</z>
   </row>
   <row>
-    <index>60</index>
+    <index>56</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.925607595982937e+107</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.925607595982937e+107</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.925607595982937e+107</matched-finkelstein22c-z>
     <photom-APCORR>2.087809273255372</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8928429127437016</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.053</photom-A_IMAGE>
@@ -6162,7 +6100,13 @@
     <z>4.869999999999996</z>
   </row>
   <row>
-    <index>61</index>
+    <index>57</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.213477474809386e+302</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'29560'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.6699999999999235</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.213477474809386e+302</matched-finkelstein22c-z>
     <photom-APCORR>1.3283373972886987</photom-APCORR>
     <photom-APCORR_APER_0P3>2.012197395366564</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.054</photom-A_IMAGE>
@@ -6263,7 +6207,13 @@
     <z>5.199999999999998</z>
   </row>
   <row>
-    <index>62</index>
+    <index>58</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.080918015248559e+279</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-2.080918015248559e+279</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.080918015248559e+279</matched-finkelstein22c-z>
     <photom-APCORR>1.4597814155757463</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9886460273461801</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.934</photom-A_IMAGE>
@@ -6364,7 +6314,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>63</index>
+    <index>59</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>5.285160414941685e+118</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.285160414941685e+118</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>5.285160414941685e+118</matched-finkelstein22c-z>
     <photom-APCORR>1.7164113734908262</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6666931095384947</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.357</photom-A_IMAGE>
@@ -6465,7 +6421,13 @@
     <z>4.839999999999995</z>
   </row>
   <row>
-    <index>64</index>
+    <index>60</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>4.509842964740513e-90</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.509842964740513e-90</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>4.509842964740513e-90</matched-finkelstein22c-z>
     <photom-APCORR>1.3772218536790473</photom-APCORR>
     <photom-APCORR_APER_0P3>1.858882860727312</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.714</photom-A_IMAGE>
@@ -6566,7 +6528,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>65</index>
+    <index>61</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-5.033482088432033e-28</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'30104'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.8600000000000005</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-5.033482088432033e-28</matched-finkelstein22c-z>
     <photom-APCORR>1.2427639215607846</photom-APCORR>
     <photom-APCORR_APER_0P3>1.449497281090091</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.489</photom-A_IMAGE>
@@ -6667,7 +6635,13 @@
     <z>4.779999999999995</z>
   </row>
   <row>
-    <index>66</index>
+    <index>62</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.788319765714787e-120</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>3.788319765714787e-120</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.788319765714787e-120</matched-finkelstein22c-z>
     <photom-APCORR>2.1644630067262236</photom-APCORR>
     <photom-APCORR_APER_0P3>3.2039361501071313</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.28</photom-A_IMAGE>
@@ -6768,7 +6742,13 @@
     <z>4.599999999999993</z>
   </row>
   <row>
-    <index>67</index>
+    <index>63</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>5.247519416018019e+104</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.247519416018019e+104</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>5.247519416018019e+104</matched-finkelstein22c-z>
     <photom-APCORR>1.701350190033404</photom-APCORR>
     <photom-APCORR_APER_0P3>1.847330402034574</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.514</photom-A_IMAGE>
@@ -6869,7 +6849,13 @@
     <z>6.55000000000001</z>
   </row>
   <row>
-    <index>68</index>
+    <index>64</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.9800047081016237e-10</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'30304'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.809999999999921</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.9800047081016237e-10</matched-finkelstein22c-z>
     <photom-APCORR>1.2673337790156212</photom-APCORR>
     <photom-APCORR_APER_0P3>1.434424242876793</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.105</photom-A_IMAGE>
@@ -6970,7 +6956,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>69</index>
+    <index>65</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.2415959253976136e+217</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.2415959253976136e+217</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.2415959253976136e+217</matched-finkelstein22c-z>
     <photom-APCORR>1.3588992311769366</photom-APCORR>
     <photom-APCORR_APER_0P3>1.826346418741051</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.3</photom-A_IMAGE>
@@ -7071,7 +7063,13 @@
     <z>6.160000000000006</z>
   </row>
   <row>
-    <index>70</index>
+    <index>66</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.7420206640928616e+58</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.7420206640928616e+58</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.7420206640928616e+58</matched-finkelstein22c-z>
     <photom-APCORR>1.8693554094817433</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6813552811675536</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>1.848</photom-A_IMAGE>
@@ -7172,7 +7170,13 @@
     <z>6.100000000000006</z>
   </row>
   <row>
-    <index>71</index>
+    <index>67</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.856137080354521e+300</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>3.856137080354521e+300</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.856137080354521e+300</matched-finkelstein22c-z>
     <photom-APCORR>1.6015970798272325</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7940008030983094</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.851</photom-A_IMAGE>
@@ -7273,7 +7277,13 @@
     <z>6.190000000000007</z>
   </row>
   <row>
-    <index>72</index>
+    <index>68</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.4582078261810379e+82</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'30529'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.929999999999939</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.4582078261810379e+82</matched-finkelstein22c-z>
     <photom-APCORR>1.3887524476396587</photom-APCORR>
     <photom-APCORR_APER_0P3>1.486502192336119</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.567</photom-A_IMAGE>
@@ -7374,7 +7384,13 @@
     <z>5.079999999999997</z>
   </row>
   <row>
-    <index>73</index>
+    <index>69</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.5171355107673866e-294</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'30575'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.8600000000000005</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.5171355107673866e-294</matched-finkelstein22c-z>
     <photom-APCORR>1.4624515016134387</photom-APCORR>
     <photom-APCORR_APER_0P3>3.040027487171946</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.996</photom-A_IMAGE>
@@ -7475,7 +7491,13 @@
     <z>5.199999999999998</z>
   </row>
   <row>
-    <index>74</index>
+    <index>70</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.3201373433493388e+98</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.3201373433493388e+98</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.3201373433493388e+98</matched-finkelstein22c-z>
     <photom-APCORR>1.288662986935631</photom-APCORR>
     <photom-APCORR_APER_0P3>3.5200093349989268</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>8.348</photom-A_IMAGE>
@@ -7576,7 +7598,13 @@
     <z>5.470000000000001</z>
   </row>
   <row>
-    <index>75</index>
+    <index>71</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.785525411146991e-294</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.785525411146991e-294</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.785525411146991e-294</matched-finkelstein22c-z>
     <photom-APCORR>1.1620791113519373</photom-APCORR>
     <photom-APCORR_APER_0P3>1.0145367209615646</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.596</photom-A_IMAGE>
@@ -7677,7 +7705,13 @@
     <z>5.38</z>
   </row>
   <row>
-    <index>76</index>
+    <index>72</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>8.266116077725368e-220</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>8.266116077725368e-220</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>8.266116077725368e-220</matched-finkelstein22c-z>
     <photom-APCORR>1.3259496298995117</photom-APCORR>
     <photom-APCORR_APER_0P3>1.866199165712519</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.404</photom-A_IMAGE>
@@ -7778,7 +7812,13 @@
     <z>4.689999999999994</z>
   </row>
   <row>
-    <index>77</index>
+    <index>73</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-5.272025700683872e-18</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-5.272025700683872e-18</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-5.272025700683872e-18</matched-finkelstein22c-z>
     <photom-APCORR>1.6034548752162816</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6132097101026264</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.339</photom-A_IMAGE>
@@ -7879,7 +7919,13 @@
     <z>4.869999999999996</z>
   </row>
   <row>
-    <index>78</index>
+    <index>74</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-7.241799028855737e+84</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-7.241799028855737e+84</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-7.241799028855737e+84</matched-finkelstein22c-z>
     <photom-APCORR>1.6923267250621885</photom-APCORR>
     <photom-APCORR_APER_0P3>2.2441410984932624</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.616</photom-A_IMAGE>
@@ -7980,7 +8026,13 @@
     <z>5.680000000000002</z>
   </row>
   <row>
-    <index>79</index>
+    <index>75</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.358670403467253e-132</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>3.358670403467253e-132</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.358670403467253e-132</matched-finkelstein22c-z>
     <photom-APCORR>1.2430007321548595</photom-APCORR>
     <photom-APCORR_APER_0P3>2.0125486661420164</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.208</photom-A_IMAGE>
@@ -8081,7 +8133,13 @@
     <z>4.869999999999996</z>
   </row>
   <row>
-    <index>80</index>
+    <index>76</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.3341076791754723e-119</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.3341076791754723e-119</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.3341076791754723e-119</matched-finkelstein22c-z>
     <photom-APCORR>1.4880631698822384</photom-APCORR>
     <photom-APCORR_APER_0P3>1.06576494143369</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.19</photom-A_IMAGE>
@@ -8182,7 +8240,13 @@
     <z>7.270000000000016</z>
   </row>
   <row>
-    <index>81</index>
+    <index>77</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>5.569964233613352e+71</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.569964233613352e+71</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>5.569964233613352e+71</matched-finkelstein22c-z>
     <photom-APCORR>2.9653423178809835</photom-APCORR>
     <photom-APCORR_APER_0P3>4.036601775073409</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.765</photom-A_IMAGE>
@@ -8283,7 +8347,13 @@
     <z>4.809999999999995</z>
   </row>
   <row>
-    <index>82</index>
+    <index>78</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.420611292188329e-239</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>3.420611292188329e-239</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.420611292188329e-239</matched-finkelstein22c-z>
     <photom-APCORR>1.6172277164583537</photom-APCORR>
     <photom-APCORR_APER_0P3>3.0499232412691115</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.91</photom-A_IMAGE>
@@ -8384,7 +8454,13 @@
     <z>5.950000000000005</z>
   </row>
   <row>
-    <index>83</index>
+    <index>79</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.1414429733034469e+42</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.1414429733034469e+42</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.1414429733034469e+42</matched-finkelstein22c-z>
     <photom-APCORR>1.6446023287941585</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5817464355765711</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.349</photom-A_IMAGE>
@@ -8485,7 +8561,13 @@
     <z>6.58000000000001</z>
   </row>
   <row>
-    <index>84</index>
+    <index>80</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.854931523493542e+247</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'30999'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>6.30999999999991</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.854931523493542e+247</matched-finkelstein22c-z>
     <photom-APCORR>1.6366926153093693</photom-APCORR>
     <photom-APCORR_APER_0P3>2.7868643329389124</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.962</photom-A_IMAGE>
@@ -8586,7 +8668,13 @@
     <z>6.61000000000001</z>
   </row>
   <row>
-    <index>85</index>
+    <index>81</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-3.9882531315898736e+64</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-3.9882531315898736e+64</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-3.9882531315898736e+64</matched-finkelstein22c-z>
     <photom-APCORR>1.5536541307630851</photom-APCORR>
     <photom-APCORR_APER_0P3>1.386336387088953</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.028</photom-A_IMAGE>
@@ -8687,7 +8775,13 @@
     <z>6.130000000000006</z>
   </row>
   <row>
-    <index>86</index>
+    <index>82</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.309302505597915e+54</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>3.309302505597915e+54</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.309302505597915e+54</matched-finkelstein22c-z>
     <photom-APCORR>2.035542995470002</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8710649077903878</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.428</photom-A_IMAGE>
@@ -8788,7 +8882,13 @@
     <z>4.689999999999994</z>
   </row>
   <row>
-    <index>87</index>
+    <index>83</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2244911603.5090637</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-2244911603.5090637</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2244911603.5090637</matched-finkelstein22c-z>
     <photom-APCORR>1.6941419454592308</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6730869668137804</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.303</photom-A_IMAGE>
@@ -8889,7 +8989,13 @@
     <z>6.64000000000001</z>
   </row>
   <row>
-    <index>88</index>
+    <index>84</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>5.122295044844463e-226</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.122295044844463e-226</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>5.122295044844463e-226</matched-finkelstein22c-z>
     <photom-APCORR>1.5045088792864703</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9532133623639014</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.275</photom-A_IMAGE>
@@ -8990,7 +9096,13 @@
     <z>6.940000000000013</z>
   </row>
   <row>
-    <index>89</index>
+    <index>85</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-8.862020118169862e-100</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-8.862020118169862e-100</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-8.862020118169862e-100</matched-finkelstein22c-z>
     <photom-APCORR>1.5157200013793533</photom-APCORR>
     <photom-APCORR_APER_0P3>2.930998215835638</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.997</photom-A_IMAGE>
@@ -9091,7 +9203,13 @@
     <z>5.079999999999997</z>
   </row>
   <row>
-    <index>90</index>
+    <index>86</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.5889990056236987e+139</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'31878'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.519999999999948</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.5889990056236987e+139</matched-finkelstein22c-z>
     <photom-APCORR>1.5360641253682976</photom-APCORR>
     <photom-APCORR_APER_0P3>2.2460350949081245</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.463</photom-A_IMAGE>
@@ -9192,7 +9310,13 @@
     <z>5.139999999999998</z>
   </row>
   <row>
-    <index>91</index>
+    <index>87</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.6100681180885615e-166</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.6100681180885615e-166</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.6100681180885615e-166</matched-finkelstein22c-z>
     <photom-APCORR>1.7186736204559245</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7284631631383318</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.482</photom-A_IMAGE>
@@ -9293,7 +9417,13 @@
     <z>5.289999999999999</z>
   </row>
   <row>
-    <index>92</index>
+    <index>88</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>4.0401442763975994e-225</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'31495'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.9100000000000006</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>4.0401442763975994e-225</matched-finkelstein22c-z>
     <photom-APCORR>1.5475919369227105</photom-APCORR>
     <photom-APCORR_APER_0P3>3.8318743967781526</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.572</photom-A_IMAGE>
@@ -9394,7 +9524,13 @@
     <z>5.139999999999998</z>
   </row>
   <row>
-    <index>93</index>
+    <index>89</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-11003.38102463365</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-11003.38102463365</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-11003.38102463365</matched-finkelstein22c-z>
     <photom-APCORR>1.3619672597572197</photom-APCORR>
     <photom-APCORR_APER_0P3>1.232835945578147</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>1.993</photom-A_IMAGE>
@@ -9495,7 +9631,13 @@
     <z>5.800000000000003</z>
   </row>
   <row>
-    <index>94</index>
+    <index>90</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1368390985585296.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1368390985585296.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1368390985585296.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2699481002086066</photom-APCORR>
     <photom-APCORR_APER_0P3>4.513790048801292</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>14.902</photom-A_IMAGE>
@@ -9596,7 +9738,13 @@
     <z>5.199999999999998</z>
   </row>
   <row>
-    <index>95</index>
+    <index>91</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-4.227815151683817e+19</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'33094'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.45000000000000023</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-4.227815151683817e+19</matched-finkelstein22c-z>
     <photom-APCORR>1.3221934892637632</photom-APCORR>
     <photom-APCORR_APER_0P3>2.1802795872022553</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.964</photom-A_IMAGE>
@@ -9697,7 +9845,13 @@
     <z>5.770000000000003</z>
   </row>
   <row>
-    <index>96</index>
+    <index>92</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.1333834653883348e+247</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'33567'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.949999999999918</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.1333834653883348e+247</matched-finkelstein22c-z>
     <photom-APCORR>1.5191630049309803</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8873823540327377</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.715</photom-A_IMAGE>
@@ -9798,7 +9952,13 @@
     <z>6.670000000000011</z>
   </row>
   <row>
-    <index>97</index>
+    <index>93</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1037561932671304.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1037561932671304.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1037561932671304.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2214514137460872</photom-APCORR>
     <photom-APCORR_APER_0P3>1.336508736234825</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.293</photom-A_IMAGE>
@@ -9899,7 +10059,13 @@
     <z>7.930000000000021</z>
   </row>
   <row>
-    <index>98</index>
+    <index>94</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.1486307860756498e-69</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-2.1486307860756498e-69</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.1486307860756498e-69</matched-finkelstein22c-z>
     <photom-APCORR>2.0665733287369945</photom-APCORR>
     <photom-APCORR_APER_0P3>3.0293665640888037</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.801</photom-A_IMAGE>
@@ -10000,7 +10166,13 @@
     <z>4.689999999999994</z>
   </row>
   <row>
-    <index>99</index>
+    <index>95</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-13.047723305678232</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-13.047723305678232</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-13.047723305678232</matched-finkelstein22c-z>
     <photom-APCORR>1.7276368878988142</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6873669451495572</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.017</photom-A_IMAGE>
@@ -10101,7 +10273,13 @@
     <z>4.719999999999994</z>
   </row>
   <row>
-    <index>100</index>
+    <index>96</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.9485986864784484e-99</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.9485986864784484e-99</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.9485986864784484e-99</matched-finkelstein22c-z>
     <photom-APCORR>1.6059683540447744</photom-APCORR>
     <photom-APCORR_APER_0P3>2.5190793570543373</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.666</photom-A_IMAGE>
@@ -10202,7 +10380,13 @@
     <z>6.160000000000006</z>
   </row>
   <row>
-    <index>101</index>
+    <index>97</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.6616277693764046e-274</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>3.6616277693764046e-274</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.6616277693764046e-274</matched-finkelstein22c-z>
     <photom-APCORR>1.8951198111433762</photom-APCORR>
     <photom-APCORR_APER_0P3>2.8978905031164386</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.108</photom-A_IMAGE>
@@ -10303,7 +10487,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>102</index>
+    <index>98</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>4.989195494249803e-98</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.989195494249803e-98</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>4.989195494249803e-98</matched-finkelstein22c-z>
     <photom-APCORR>1.005438733136895</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8706991394450443</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.065</photom-A_IMAGE>
@@ -10404,7 +10594,13 @@
     <z>6.010000000000005</z>
   </row>
   <row>
-    <index>103</index>
+    <index>99</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-3.3543995447137013e-69</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-3.3543995447137013e-69</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-3.3543995447137013e-69</matched-finkelstein22c-z>
     <photom-APCORR>1.277524098584504</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3906442581153122</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.324</photom-A_IMAGE>
@@ -10505,7 +10701,13 @@
     <z>6.58000000000001</z>
   </row>
   <row>
-    <index>104</index>
+    <index>100</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-9.343997407099757e-31</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-9.343997407099757e-31</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-9.343997407099757e-31</matched-finkelstein22c-z>
     <photom-APCORR>1.9214122324536913</photom-APCORR>
     <photom-APCORR_APER_0P3>2.12807595946518</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.359</photom-A_IMAGE>
@@ -10606,7 +10808,13 @@
     <z>6.670000000000011</z>
   </row>
   <row>
-    <index>105</index>
+    <index>101</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.1311987765763756e+27</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.1311987765763756e+27</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.1311987765763756e+27</matched-finkelstein22c-z>
     <photom-APCORR>1.3281879342327128</photom-APCORR>
     <photom-APCORR_APER_0P3>2.0947890598639076</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.177</photom-A_IMAGE>
@@ -10707,7 +10915,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>106</index>
+    <index>102</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>136230.4518628884</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'35132'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.279999999999932</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>136230.4518628884</matched-finkelstein22c-z>
     <photom-APCORR>1.3682044261851958</photom-APCORR>
     <photom-APCORR_APER_0P3>2.031228010382809</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.092</photom-A_IMAGE>
@@ -10808,7 +11022,13 @@
     <z>4.839999999999995</z>
   </row>
   <row>
-    <index>107</index>
+    <index>103</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>4.3567539833574694e-201</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.3567539833574694e-201</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>4.3567539833574694e-201</matched-finkelstein22c-z>
     <photom-APCORR>1.2610380100131462</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3489769445640591</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.672</photom-A_IMAGE>
@@ -10909,7 +11129,13 @@
     <z>6.790000000000012</z>
   </row>
   <row>
-    <index>108</index>
+    <index>104</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.291997778770772e-122</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.291997778770772e-122</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.291997778770772e-122</matched-finkelstein22c-z>
     <photom-APCORR>2.171049095959628</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4266979447418562</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.55</photom-A_IMAGE>
@@ -11010,7 +11236,13 @@
     <z>5.35</z>
   </row>
   <row>
-    <index>109</index>
+    <index>105</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.275790082062968e-249</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-2.275790082062968e-249</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.275790082062968e-249</matched-finkelstein22c-z>
     <photom-APCORR>2.503095984107282</photom-APCORR>
     <photom-APCORR_APER_0P3>3.4423077302142038</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.639</photom-A_IMAGE>
@@ -11111,7 +11343,13 @@
     <z>5.950000000000005</z>
   </row>
   <row>
-    <index>110</index>
+    <index>106</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-3.3188422247506077e-25</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-3.3188422247506077e-25</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-3.3188422247506077e-25</matched-finkelstein22c-z>
     <photom-APCORR>1.1993919964413289</photom-APCORR>
     <photom-APCORR_APER_0P3>1.2686126442574361</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.515</photom-A_IMAGE>
@@ -11212,7 +11450,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>111</index>
+    <index>107</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-5.3288145697917324e-257</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-5.3288145697917324e-257</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-5.3288145697917324e-257</matched-finkelstein22c-z>
     <photom-APCORR>1.7934990564453643</photom-APCORR>
     <photom-APCORR_APER_0P3>2.0781597247380494</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.702</photom-A_IMAGE>
@@ -11313,7 +11557,13 @@
     <z>6.160000000000006</z>
   </row>
   <row>
-    <index>112</index>
+    <index>108</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-5.853927414861736e-193</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-5.853927414861736e-193</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-5.853927414861736e-193</matched-finkelstein22c-z>
     <photom-APCORR>2.2282826205435646</photom-APCORR>
     <photom-APCORR_APER_0P3>2.804371683706484</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.45</photom-A_IMAGE>
@@ -11414,7 +11664,13 @@
     <z>5.710000000000003</z>
   </row>
   <row>
-    <index>113</index>
+    <index>109</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.1849782269114116e+114</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'36702'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>6.859999999999898</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.1849782269114116e+114</matched-finkelstein22c-z>
     <photom-APCORR>1.3602309682046385</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3839580046056554</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.337</photom-A_IMAGE>
@@ -11515,7 +11771,13 @@
     <z>7.330000000000016</z>
   </row>
   <row>
-    <index>114</index>
+    <index>110</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-282807383481.16016</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-282807383481.16016</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-282807383481.16016</matched-finkelstein22c-z>
     <photom-APCORR>1.4416631971099827</photom-APCORR>
     <photom-APCORR_APER_0P3>3.6965492713464516</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>8.003</photom-A_IMAGE>
@@ -11616,7 +11878,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>115</index>
+    <index>111</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.9097596283882528e+234</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-2.9097596283882528e+234</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.9097596283882528e+234</matched-finkelstein22c-z>
     <photom-APCORR>1.772406533920882</photom-APCORR>
     <photom-APCORR_APER_0P3>3.0992767712930664</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.481</photom-A_IMAGE>
@@ -11717,7 +11985,13 @@
     <z>4.749999999999995</z>
   </row>
   <row>
-    <index>116</index>
+    <index>112</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.1224328861264322e+73</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.1224328861264322e+73</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.1224328861264322e+73</matched-finkelstein22c-z>
     <photom-APCORR>1.1836263909781857</photom-APCORR>
     <photom-APCORR_APER_0P3>2.4919813119897416</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.199</photom-A_IMAGE>
@@ -11818,7 +12092,13 @@
     <z>4.869999999999996</z>
   </row>
   <row>
-    <index>117</index>
+    <index>113</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.1803818881344236e-13</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.1803818881344236e-13</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.1803818881344236e-13</matched-finkelstein22c-z>
     <photom-APCORR>1.2287134196846432</photom-APCORR>
     <photom-APCORR_APER_0P3>3.0920760198770854</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>12.521</photom-A_IMAGE>
@@ -11919,7 +12199,13 @@
     <z>4.839999999999995</z>
   </row>
   <row>
-    <index>118</index>
+    <index>114</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>7.04577920901903e+289</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>7.04577920901903e+289</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>7.04577920901903e+289</matched-finkelstein22c-z>
     <photom-APCORR>1.0731990390477746</photom-APCORR>
     <photom-APCORR_APER_0P3>3.8953303413101015</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>7.777</photom-A_IMAGE>
@@ -12020,7 +12306,13 @@
     <z>4.839999999999995</z>
   </row>
   <row>
-    <index>119</index>
+    <index>115</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.2222934051806773e-65</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'38895'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.5500000000000003</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.2222934051806773e-65</matched-finkelstein22c-z>
     <photom-APCORR>1.0304907513219759</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5535513451600738</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.48</photom-A_IMAGE>
@@ -12121,7 +12413,13 @@
     <z>4.899999999999996</z>
   </row>
   <row>
-    <index>120</index>
+    <index>116</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.220853296930477e-123</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'39204'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>6.689999999999902</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.220853296930477e-123</matched-finkelstein22c-z>
     <photom-APCORR>1.3404172065076563</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3797819587905693</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.925</photom-A_IMAGE>
@@ -12222,7 +12520,13 @@
     <z>6.760000000000011</z>
   </row>
   <row>
-    <index>121</index>
+    <index>117</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-7.459346642547085e-161</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-7.459346642547085e-161</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-7.459346642547085e-161</matched-finkelstein22c-z>
     <photom-APCORR>1.4155320419387456</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6422187716607632</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.4</photom-A_IMAGE>
@@ -12323,7 +12627,13 @@
     <z>5.650000000000002</z>
   </row>
   <row>
-    <index>122</index>
+    <index>118</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-4.09775041404704e+117</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'36955'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.05</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-4.09775041404704e+117</matched-finkelstein22c-z>
     <photom-APCORR>1.293925786268079</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7088540009855104</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.656</photom-A_IMAGE>
@@ -12424,7 +12734,13 @@
     <z>6.61000000000001</z>
   </row>
   <row>
-    <index>123</index>
+    <index>119</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>8.851730056369931e+220</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'36472'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.49000000000000027</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>8.851730056369931e+220</matched-finkelstein22c-z>
     <photom-APCORR>1.3207892800499872</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9723097736259196</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.784</photom-A_IMAGE>
@@ -12525,7 +12841,13 @@
     <z>4.899999999999996</z>
   </row>
   <row>
-    <index>124</index>
+    <index>120</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>9.067108261333704e-106</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'37122'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.339999999999931</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>9.067108261333704e-106</matched-finkelstein22c-z>
     <photom-APCORR>1.3739486845009197</photom-APCORR>
     <photom-APCORR_APER_0P3>3.6001805807387925</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>7.04</photom-A_IMAGE>
@@ -12626,7 +12948,13 @@
     <z>4.839999999999995</z>
   </row>
   <row>
-    <index>125</index>
+    <index>121</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-4.9654373150805906e-76</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-4.9654373150805906e-76</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-4.9654373150805906e-76</matched-finkelstein22c-z>
     <photom-APCORR>1.7220601539060532</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4002397078811168</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.177</photom-A_IMAGE>
@@ -12727,7 +13055,13 @@
     <z>6.64000000000001</z>
   </row>
   <row>
-    <index>126</index>
+    <index>122</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-6.98727272079647e-64</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-6.98727272079647e-64</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-6.98727272079647e-64</matched-finkelstein22c-z>
     <photom-APCORR>1.1891535838651854</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9288386676081393</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.315</photom-A_IMAGE>
@@ -12828,7 +13162,13 @@
     <z>6.61000000000001</z>
   </row>
   <row>
-    <index>127</index>
+    <index>123</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-9.98124614244078e+297</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-9.98124614244078e+297</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-9.98124614244078e+297</matched-finkelstein22c-z>
     <photom-APCORR>1.4180690280588955</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7896169180405883</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.772</photom-A_IMAGE>
@@ -12929,7 +13269,13 @@
     <z>4.959999999999996</z>
   </row>
   <row>
-    <index>128</index>
+    <index>124</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-3.1989343827720494e-247</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'37646'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.5899999999999888</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-3.1989343827720494e-247</matched-finkelstein22c-z>
     <photom-APCORR>1.5703235345960265</photom-APCORR>
     <photom-APCORR_APER_0P3>3.1052582712005523</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.638</photom-A_IMAGE>
@@ -13030,7 +13376,13 @@
     <z>6.160000000000006</z>
   </row>
   <row>
-    <index>129</index>
+    <index>125</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.0600337012512278e+68</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.0600337012512278e+68</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.0600337012512278e+68</matched-finkelstein22c-z>
     <photom-APCORR>2.085320717710301</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9310298087941442</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.438</photom-A_IMAGE>
@@ -13131,7 +13483,13 @@
     <z>4.719999999999994</z>
   </row>
   <row>
-    <index>130</index>
+    <index>126</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.629187698550869e-73</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.629187698550869e-73</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.629187698550869e-73</matched-finkelstein22c-z>
     <photom-APCORR>1.4285253532225257</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5800604173937527</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.906</photom-A_IMAGE>
@@ -13232,7 +13590,13 @@
     <z>6.070000000000006</z>
   </row>
   <row>
-    <index>131</index>
+    <index>127</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.9187641166530404e-08</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'38113'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.839999999999941</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.9187641166530404e-08</matched-finkelstein22c-z>
     <photom-APCORR>1.5286662569024585</photom-APCORR>
     <photom-APCORR_APER_0P3>2.498487879287931</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.814</photom-A_IMAGE>
@@ -13333,7 +13697,13 @@
     <z>4.839999999999995</z>
   </row>
   <row>
-    <index>132</index>
+    <index>128</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.192223823311338e-229</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.192223823311338e-229</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.192223823311338e-229</matched-finkelstein22c-z>
     <photom-APCORR>1.7477335300439103</photom-APCORR>
     <photom-APCORR_APER_0P3>1.1154437148152996</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.051</photom-A_IMAGE>
@@ -13434,7 +13804,13 @@
     <z>6.310000000000008</z>
   </row>
   <row>
-    <index>133</index>
+    <index>129</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.891215517568256e+30</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'41126'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.719999999999944</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.891215517568256e+30</matched-finkelstein22c-z>
     <photom-APCORR>1.3427037333775946</photom-APCORR>
     <photom-APCORR_APER_0P3>2.540437852315626</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.29</photom-A_IMAGE>
@@ -13535,7 +13911,13 @@
     <z>4.809999999999995</z>
   </row>
   <row>
-    <index>134</index>
+    <index>130</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>4.306661909009144e-137</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.306661909009144e-137</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>4.306661909009144e-137</matched-finkelstein22c-z>
     <photom-APCORR>1.4938715745099458</photom-APCORR>
     <photom-APCORR_APER_0P3>2.452440143437012</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.855</photom-A_IMAGE>
@@ -13636,7 +14018,13 @@
     <z>6.400000000000008</z>
   </row>
   <row>
-    <index>135</index>
+    <index>131</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>8.99009100635708e-71</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>8.99009100635708e-71</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>8.99009100635708e-71</matched-finkelstein22c-z>
     <photom-APCORR>1.40657548818438</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7123456614325319</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.061</photom-A_IMAGE>
@@ -13737,7 +14125,13 @@
     <z>4.899999999999996</z>
   </row>
   <row>
-    <index>136</index>
+    <index>132</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.1168369225407083e-228</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.1168369225407083e-228</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.1168369225407083e-228</matched-finkelstein22c-z>
     <photom-APCORR>1.412667511391194</photom-APCORR>
     <photom-APCORR_APER_0P3>2.016488711129658</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.789</photom-A_IMAGE>
@@ -13838,7 +14232,13 @@
     <z>6.670000000000011</z>
   </row>
   <row>
-    <index>137</index>
+    <index>133</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.9697161506487272e+202</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'39251'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.879999999999919</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.9697161506487272e+202</matched-finkelstein22c-z>
     <photom-APCORR>1.4645121774548178</photom-APCORR>
     <photom-APCORR_APER_0P3>2.41820614337072</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.225</photom-A_IMAGE>
@@ -13939,7 +14339,13 @@
     <z>6.160000000000006</z>
   </row>
   <row>
-    <index>138</index>
+    <index>134</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.0981432218068435e-65</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.0981432218068435e-65</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.0981432218068435e-65</matched-finkelstein22c-z>
     <photom-APCORR>1.5679683181781878</photom-APCORR>
     <photom-APCORR_APER_0P3>1.695343660449041</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.432</photom-A_IMAGE>
@@ -14040,7 +14446,13 @@
     <z>6.61000000000001</z>
   </row>
   <row>
-    <index>139</index>
+    <index>135</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>8.438816602676167e-45</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>8.438816602676167e-45</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>8.438816602676167e-45</matched-finkelstein22c-z>
     <photom-APCORR>1.486051303016591</photom-APCORR>
     <photom-APCORR_APER_0P3>1.556023466304779</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.259</photom-A_IMAGE>
@@ -14141,7 +14553,13 @@
     <z>6.430000000000009</z>
   </row>
   <row>
-    <index>140</index>
+    <index>136</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.008604588298557e+243</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.008604588298557e+243</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.008604588298557e+243</matched-finkelstein22c-z>
     <photom-APCORR>1.2394731672865698</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3061061366931102</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.349</photom-A_IMAGE>
@@ -14242,7 +14660,13 @@
     <z>6.790000000000012</z>
   </row>
   <row>
-    <index>141</index>
+    <index>137</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.8756688074814175e-164</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.8756688074814175e-164</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.8756688074814175e-164</matched-finkelstein22c-z>
     <photom-APCORR>2.951517428828008</photom-APCORR>
     <photom-APCORR_APER_0P3>3.87001347383058</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.418</photom-A_IMAGE>
@@ -14343,7 +14767,13 @@
     <z>4.719999999999994</z>
   </row>
   <row>
-    <index>142</index>
+    <index>138</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-7.983588615175495e+295</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'40342'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>6.929999999999897</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-7.983588615175495e+295</matched-finkelstein22c-z>
     <photom-APCORR>1.2410458181373014</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5121378067463098</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.356</photom-A_IMAGE>
@@ -14444,7 +14874,13 @@
     <z>6.970000000000013</z>
   </row>
   <row>
-    <index>143</index>
+    <index>139</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.6561922150833384e-111</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>3.6561922150833384e-111</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.6561922150833384e-111</matched-finkelstein22c-z>
     <photom-APCORR>2.1547705198778244</photom-APCORR>
     <photom-APCORR_APER_0P3>1.1507702549670322</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>1.872</photom-A_IMAGE>
@@ -14545,7 +14981,13 @@
     <z>4.839999999999995</z>
   </row>
   <row>
-    <index>144</index>
+    <index>140</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.34095245617833e+223</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'40675'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.2199999999999966</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.34095245617833e+223</matched-finkelstein22c-z>
     <photom-APCORR>1.8889206594121974</photom-APCORR>
     <photom-APCORR_APER_0P3>2.4735669841281807</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.737</photom-A_IMAGE>
@@ -14646,7 +15088,13 @@
     <z>6.64000000000001</z>
   </row>
   <row>
-    <index>145</index>
+    <index>141</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>6.543337941476082e-99</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>6.543337941476082e-99</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>6.543337941476082e-99</matched-finkelstein22c-z>
     <photom-APCORR>0.9967476855579265</photom-APCORR>
     <photom-APCORR_APER_0P3>2.149180206091005</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.324</photom-A_IMAGE>
@@ -14747,7 +15195,13 @@
     <z>6.61000000000001</z>
   </row>
   <row>
-    <index>146</index>
+    <index>142</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-7.744764841621566e-257</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'40687'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.899999999999919</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-7.744764841621566e-257</matched-finkelstein22c-z>
     <photom-APCORR>0.8721857385112938</photom-APCORR>
     <photom-APCORR_APER_0P3>0.8405105212310436</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>1.969</photom-A_IMAGE>
@@ -14848,7 +15302,13 @@
     <z>5.860000000000004</z>
   </row>
   <row>
-    <index>147</index>
+    <index>143</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.0071172062607283e-85</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'40898'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>8.759999999999858</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.0071172062607283e-85</matched-finkelstein22c-z>
     <photom-APCORR>1.503762232078074</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5191728777984337</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.246</photom-A_IMAGE>
@@ -14949,7 +15409,13 @@
     <z>8.110000000000019</z>
   </row>
   <row>
-    <index>148</index>
+    <index>144</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.762706387696676e+117</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.762706387696676e+117</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.762706387696676e+117</matched-finkelstein22c-z>
     <photom-APCORR>1.2339168062252521</photom-APCORR>
     <photom-APCORR_APER_0P3>1.171011946920959</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.025</photom-A_IMAGE>
@@ -15050,7 +15516,13 @@
     <z>4.839999999999995</z>
   </row>
   <row>
-    <index>149</index>
+    <index>145</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-9.921066650569578e-81</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'41448'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>6.519999999999905</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-9.921066650569578e-81</matched-finkelstein22c-z>
     <photom-APCORR>1.366660494809685</photom-APCORR>
     <photom-APCORR_APER_0P3>2.802142475604542</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.315</photom-A_IMAGE>
@@ -15151,7 +15623,13 @@
     <z>6.280000000000007</z>
   </row>
   <row>
-    <index>150</index>
+    <index>146</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.67681793406152e-268</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'41460'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.809999999999942</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.67681793406152e-268</matched-finkelstein22c-z>
     <photom-APCORR>1.1370280395042554</photom-APCORR>
     <photom-APCORR_APER_0P3>1.1617783415273353</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.331</photom-A_IMAGE>
@@ -15252,7 +15730,13 @@
     <z>4.869999999999996</z>
   </row>
   <row>
-    <index>151</index>
+    <index>147</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-4.564223642408666e+169</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-4.564223642408666e+169</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-4.564223642408666e+169</matched-finkelstein22c-z>
     <photom-APCORR>1.557259800340103</photom-APCORR>
     <photom-APCORR_APER_0P3>1.915210414103765</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.407</photom-A_IMAGE>
@@ -15353,7 +15837,13 @@
     <z>6.58000000000001</z>
   </row>
   <row>
-    <index>152</index>
+    <index>148</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>8.68479000390491e+273</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'40811'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>6.489999999999906</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>8.68479000390491e+273</matched-finkelstein22c-z>
     <photom-APCORR>1.5634651510558881</photom-APCORR>
     <photom-APCORR_APER_0P3>2.776819591032715</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.67</photom-A_IMAGE>
@@ -15454,7 +15944,13 @@
     <z>6.61000000000001</z>
   </row>
   <row>
-    <index>153</index>
+    <index>149</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.635939750062275e-236</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.635939750062275e-236</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.635939750062275e-236</matched-finkelstein22c-z>
     <photom-APCORR>1.4700844566936626</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6339577072859366</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.834</photom-A_IMAGE>
@@ -15555,7 +16051,13 @@
     <z>5.139999999999998</z>
   </row>
   <row>
-    <index>154</index>
+    <index>150</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.9162447966750583e-112</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>3.9162447966750583e-112</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.9162447966750583e-112</matched-finkelstein22c-z>
     <photom-APCORR>1.9604172717189245</photom-APCORR>
     <photom-APCORR_APER_0P3>2.168885330009566</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.519</photom-A_IMAGE>
@@ -15656,7 +16158,13 @@
     <z>6.61000000000001</z>
   </row>
   <row>
-    <index>155</index>
+    <index>151</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.2378924464689628e-133</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'42210'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.45000000000000023</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.2378924464689628e-133</matched-finkelstein22c-z>
     <photom-APCORR>1.5385547182365138</photom-APCORR>
     <photom-APCORR_APER_0P3>2.0406806356045215</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.672</photom-A_IMAGE>
@@ -15757,7 +16265,13 @@
     <z>4.779999999999995</z>
   </row>
   <row>
-    <index>156</index>
+    <index>152</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.5432308906716194e+110</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-2.5432308906716194e+110</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.5432308906716194e+110</matched-finkelstein22c-z>
     <photom-APCORR>1.6896685512802476</photom-APCORR>
     <photom-APCORR_APER_0P3>1.754747563296088</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.958</photom-A_IMAGE>
@@ -15858,7 +16372,13 @@
     <z>4.749999999999995</z>
   </row>
   <row>
-    <index>157</index>
+    <index>153</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-4.633730162603985e+32</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-4.633730162603985e+32</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-4.633730162603985e+32</matched-finkelstein22c-z>
     <photom-APCORR>1.4808629931367288</photom-APCORR>
     <photom-APCORR_APER_0P3>1.2111058232509253</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.069</photom-A_IMAGE>
@@ -15959,7 +16479,13 @@
     <z>5.530000000000001</z>
   </row>
   <row>
-    <index>158</index>
+    <index>154</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>5.615420638400967e+254</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.615420638400967e+254</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>5.615420638400967e+254</matched-finkelstein22c-z>
     <photom-APCORR>1.8606119899766997</photom-APCORR>
     <photom-APCORR_APER_0P3>3.288314794445142</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.013</photom-A_IMAGE>
@@ -16060,7 +16586,13 @@
     <z>8.260000000000016</z>
   </row>
   <row>
-    <index>159</index>
+    <index>155</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>3.323078082860577e-81</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'42950'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>9.54999999999984</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>3.323078082860577e-81</matched-finkelstein22c-z>
     <photom-APCORR>1.5177706678647682</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8607516002850297</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.561</photom-A_IMAGE>
@@ -16161,7 +16693,13 @@
     <z>7.240000000000015</z>
   </row>
   <row>
-    <index>160</index>
+    <index>156</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.3066934398638947e-05</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.3066934398638947e-05</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.3066934398638947e-05</matched-finkelstein22c-z>
     <photom-APCORR>1.2002739471662667</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3084654545729126</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.494</photom-A_IMAGE>
@@ -16262,7 +16800,13 @@
     <z>5.920000000000004</z>
   </row>
   <row>
-    <index>161</index>
+    <index>157</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.2532658176086927e+20</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.2532658176086927e+20</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.2532658176086927e+20</matched-finkelstein22c-z>
     <photom-APCORR>1.5300218447891698</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6397278975247098</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.312</photom-A_IMAGE>
@@ -16363,7 +16907,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>162</index>
+    <index>158</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-7.986405436481424e+30</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'43460'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.179999999999934</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-7.986405436481424e+30</matched-finkelstein22c-z>
     <photom-APCORR>1.4174740294999584</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7258580229701648</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.318</photom-A_IMAGE>
@@ -16464,7 +17014,13 @@
     <z>6.070000000000006</z>
   </row>
   <row>
-    <index>163</index>
+    <index>159</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-3.9734517485511645e+116</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'43380'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.999999999999938</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-3.9734517485511645e+116</matched-finkelstein22c-z>
     <photom-APCORR>1.4798073743702145</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5647371537147468</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.692</photom-A_IMAGE>
@@ -16565,7 +17121,13 @@
     <z>4.869999999999996</z>
   </row>
   <row>
-    <index>164</index>
+    <index>160</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>9.93115030284114e+108</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>9.93115030284114e+108</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>9.93115030284114e+108</matched-finkelstein22c-z>
     <photom-APCORR>2.3535426304462614</photom-APCORR>
     <photom-APCORR_APER_0P3>2.8918473141856085</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.264</photom-A_IMAGE>
@@ -16666,7 +17228,13 @@
     <z>4.659999999999994</z>
   </row>
   <row>
-    <index>165</index>
+    <index>161</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.0257663448999593e-95</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.0257663448999593e-95</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.0257663448999593e-95</matched-finkelstein22c-z>
     <photom-APCORR>1.7677703492679495</photom-APCORR>
     <photom-APCORR_APER_0P3>1.0696014798303735</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>1.96</photom-A_IMAGE>
@@ -16767,7 +17335,13 @@
     <z>5.049999999999997</z>
   </row>
   <row>
-    <index>166</index>
+    <index>162</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.4461731814499766e-27</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'43775'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>9.60999999999984</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.4461731814499766e-27</matched-finkelstein22c-z>
     <photom-APCORR>1.7128249135078795</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7694688360829054</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.301</photom-A_IMAGE>
@@ -16868,7 +17442,13 @@
     <z>7.330000000000016</z>
   </row>
   <row>
-    <index>167</index>
+    <index>163</index>
+    <matched-donnan22-v2-id>b'30585'</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>10.56</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-4.73738489234984e-77</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b'CEERS6-764'</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>8.95</matched-finkelstein22c-z>
     <photom-APCORR>1.6027929973314021</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6035375125823472</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>1.854</photom-A_IMAGE>
@@ -16969,7 +17549,13 @@
     <z>8.950000000000001</z>
   </row>
   <row>
-    <index>168</index>
+    <index>164</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-8.224735540936418e-45</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-8.224735540936418e-45</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-8.224735540936418e-45</matched-finkelstein22c-z>
     <photom-APCORR>1.5675928864632045</photom-APCORR>
     <photom-APCORR_APER_0P3>2.4214176714910973</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.532</photom-A_IMAGE>
@@ -17070,7 +17656,13 @@
     <z>5.139999999999998</z>
   </row>
   <row>
-    <index>169</index>
+    <index>165</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.316776695447238e-298</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'43985'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.5800000000000003</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.316776695447238e-298</matched-finkelstein22c-z>
     <photom-APCORR>1.0960615563277216</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3990761015060842</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.562</photom-A_IMAGE>
@@ -17171,7 +17763,13 @@
     <z>6.670000000000011</z>
   </row>
   <row>
-    <index>170</index>
+    <index>166</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>4.679582925642992e+27</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.679582925642992e+27</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>4.679582925642992e+27</matched-finkelstein22c-z>
     <photom-APCORR>1.1622460261432526</photom-APCORR>
     <photom-APCORR_APER_0P3>2.001547781484383</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.817</photom-A_IMAGE>
@@ -17272,7 +17870,13 @@
     <z>7.570000000000018</z>
   </row>
   <row>
-    <index>171</index>
+    <index>167</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.381354474674203e-246</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.381354474674203e-246</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.381354474674203e-246</matched-finkelstein22c-z>
     <photom-APCORR>2.2688681333057223</photom-APCORR>
     <photom-APCORR_APER_0P3>2.581712021000422</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.265</photom-A_IMAGE>
@@ -17373,7 +17977,13 @@
     <z>5.830000000000004</z>
   </row>
   <row>
-    <index>172</index>
+    <index>168</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-4.264347519577888e-45</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'44159'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.409999999999929</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-4.264347519577888e-45</matched-finkelstein22c-z>
     <photom-APCORR>1.3733709680105244</photom-APCORR>
     <photom-APCORR_APER_0P3>3.6423712513760087</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.137</photom-A_IMAGE>
@@ -17474,7 +18084,13 @@
     <z>5.38</z>
   </row>
   <row>
-    <index>173</index>
+    <index>169</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-8.412203109347913e+181</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-8.412203109347913e+181</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-8.412203109347913e+181</matched-finkelstein22c-z>
     <photom-APCORR>1.5189373189371453</photom-APCORR>
     <photom-APCORR_APER_0P3>2.133631470439818</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.035</photom-A_IMAGE>
@@ -17575,7 +18191,13 @@
     <z>6.61000000000001</z>
   </row>
   <row>
-    <index>174</index>
+    <index>170</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.7287310069571952e+273</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.7287310069571952e+273</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.7287310069571952e+273</matched-finkelstein22c-z>
     <photom-APCORR>1.5841525525784816</photom-APCORR>
     <photom-APCORR_APER_0P3>1.278687468505856</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.106</photom-A_IMAGE>
@@ -17676,7 +18298,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>175</index>
+    <index>171</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.1804130461471751e-250</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'44751'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.48000000000000026</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.1804130461471751e-250</matched-finkelstein22c-z>
     <photom-APCORR>1.4748781180541621</photom-APCORR>
     <photom-APCORR_APER_0P3>2.2635719924464737</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.179</photom-A_IMAGE>
@@ -17777,7 +18405,13 @@
     <z>4.719999999999994</z>
   </row>
   <row>
-    <index>176</index>
+    <index>172</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.271999825607494e-61</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-2.271999825607494e-61</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.271999825607494e-61</matched-finkelstein22c-z>
     <photom-APCORR>2.2151179750588623</photom-APCORR>
     <photom-APCORR_APER_0P3>3.480100515245181</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.921</photom-A_IMAGE>
@@ -17878,7 +18512,13 @@
     <z>4.689999999999994</z>
   </row>
   <row>
-    <index>177</index>
+    <index>173</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.0167637734077523e+89</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'45457'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.9000000000000006</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.0167637734077523e+89</matched-finkelstein22c-z>
     <photom-APCORR>1.2940199224566065</photom-APCORR>
     <photom-APCORR_APER_0P3>2.2858898386319555</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.375</photom-A_IMAGE>
@@ -17979,7 +18619,13 @@
     <z>5.199999999999998</z>
   </row>
   <row>
-    <index>178</index>
+    <index>174</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.6396576846038555e-98</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'45458'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.7900000000000014</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.6396576846038555e-98</matched-finkelstein22c-z>
     <photom-APCORR>1.542882946261414</photom-APCORR>
     <photom-APCORR_APER_0P3>2.6167312429411442</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.816</photom-A_IMAGE>
@@ -18080,108 +18726,13 @@
     <z>6.61000000000001</z>
   </row>
   <row>
-    <index>179</index>
-    <photom-APCORR>1.512334643233348</photom-APCORR>
-    <photom-APCORR_APER_0P3>1.4572505256726578</photom-APCORR_APER_0P3>
-    <photom-A_IMAGE>2.64</photom-A_IMAGE>
-    <photom-B_IMAGE>2.186</photom-B_IMAGE>
-    <photom-DEC>52.83322900553763</photom-DEC>
-    <photom-DF105>10.70694312143691</photom-DF105>
-    <photom-DF115>3.345405078339276</photom-DF115>
-    <photom-DF125>7.215463136316958</photom-DF125>
-    <photom-DF140>11.137565569515168</photom-DF140>
-    <photom-DF150>3.764505869501233</photom-DF150>
-    <photom-DF160>5.8269186782249145</photom-DF160>
-    <photom-DF200>2.9967874809377317</photom-DF200>
-    <photom-DF277>4.38117461426851</photom-DF277>
-    <photom-DF356>3.7104879432603606</photom-DF356>
-    <photom-DF410>6.825957430671085</photom-DF410>
-    <photom-DF444>5.616034501406371</photom-DF444>
-    <photom-DF606>5.383250030675659</photom-DF606>
-    <photom-DF814>6.620988898836084</photom-DF814>
-    <photom-F105>72.41620589177994</photom-F105>
-    <photom-F115>78.35549541596217</photom-F115>
-    <photom-F125>75.69062557773078</photom-F125>
-    <photom-F140>68.95436438174347</photom-F140>
-    <photom-F150>75.18157950796916</photom-F150>
-    <photom-F160>66.4220901871041</photom-F160>
-    <photom-F200>65.99699727221672</photom-F200>
-    <photom-F277>90.59639132200518</photom-F277>
-    <photom-F356>93.27818572926783</photom-F356>
-    <photom-F410>106.22535678708859</photom-F410>
-    <photom-F444>106.77073565485114</photom-F444>
-    <photom-F606>8.373436137469247</photom-F606>
-    <photom-F814>57.956121035569645</photom-F814>
-    <photom-FWHM_F200W>9.52</photom-FWHM_F200W>
-    <photom-ID>8353</photom-ID>
-    <photom-ISOAREA_IMAGE>63</photom-ISOAREA_IMAGE>
-    <photom-KRON_RADIUS>1.99</photom-KRON_RADIUS>
-    <photom-LW>b'AAAAA'</photom-LW>
-    <photom-RA>214.81621151272356</photom-RA>
-    <photom-RH_F200W>2.701</photom-RH_F200W>
-    <photom-STELLARITY>0.966</photom-STELLARITY>
-    <photom-SW>b'AA'</photom-SW>
-    <photom-THETA_IMAGE>8.24</photom-THETA_IMAGE>
-    <photom-X>7011.4419</photom-X>
-    <photom-XMAX_IMAGE>7018</photom-XMAX_IMAGE>
-    <photom-XMIN_IMAGE>7006</photom-XMIN_IMAGE>
-    <photom-Y>4626.1396</photom-Y>
-    <photom-YMAX_IMAGE>4629</photom-YMAX_IMAGE>
-    <photom-YMIN_IMAGE>4620</photom-YMIN_IMAGE>
-    <pz-ceers-CHI2_HI>75.6924447557381</pz-ceers-CHI2_HI>
-    <pz-ceers-CHI2_LOW>2.98162651108946</pz-ceers-CHI2_LOW>
-    <pz-ceers-CHIA>2.98162651108946</pz-ceers-CHIA>
-    <pz-ceers-INT_PZ0>4.082801301693243e-16</pz-ceers-INT_PZ0>
-    <pz-ceers-INT_PZ1>1.1021414649979252e-06</pz-ceers-INT_PZ1>
-    <pz-ceers-INT_PZ10>7.334080889679426e-82</pz-ceers-INT_PZ10>
-    <pz-ceers-INT_PZ10_12>3.14059689660929e-91</pz-ceers-INT_PZ10_12>
-    <pz-ceers-INT_PZ11>7.170376625508742e-101</pz-ceers-INT_PZ11>
-    <pz-ceers-INT_PZ12>1.6192360356812886e-115</pz-ceers-INT_PZ12>
-    <pz-ceers-INT_PZ12_15>1.2541113010317894e-131</pz-ceers-INT_PZ12_15>
-    <pz-ceers-INT_PZ13>6.287666097705936e-150</pz-ceers-INT_PZ13>
-    <pz-ceers-INT_PZ14>2.436060336106198e-164</pz-ceers-INT_PZ14>
-    <pz-ceers-INT_PZ15>8.757918113221953e-165</pz-ceers-INT_PZ15>
-    <pz-ceers-INT_PZ15_20>1.2541113010317894e-131</pz-ceers-INT_PZ15_20>
-    <pz-ceers-INT_PZ16>3.082128100060727e-168</pz-ceers-INT_PZ16>
-    <pz-ceers-INT_PZ17>1.2733578758419738e-187</pz-ceers-INT_PZ17>
-    <pz-ceers-INT_PZ18>7.312684340398708e-212</pz-ceers-INT_PZ18>
-    <pz-ceers-INT_PZ19>9.479939631244283e-212</pz-ceers-INT_PZ19>
-    <pz-ceers-INT_PZ2>3.738071116806159e-08</pz-ceers-INT_PZ2>
-    <pz-ceers-INT_PZ3>1.849463146154352e-23</pz-ceers-INT_PZ3>
-    <pz-ceers-INT_PZ4>1.7262234709600092e-08</pz-ceers-INT_PZ4>
-    <pz-ceers-INT_PZ5>0.8175581025720307</pz-ceers-INT_PZ5>
-    <pz-ceers-INT_PZ6>0.18244074064313542</pz-ceers-INT_PZ6>
-    <pz-ceers-INT_PZ7>4.2206159951518516e-13</pz-ceers-INT_PZ7>
-    <pz-ceers-INT_PZ8>2.852362275681058e-20</pz-ceers-INT_PZ8>
-    <pz-ceers-INT_PZ8P5_10>2.4620912107631338e-36</pz-ceers-INT_PZ8P5_10>
-    <pz-ceers-INT_PZ9>2.4620912107631338e-36</pz-ceers-INT_PZ9>
-    <pz-ceers-INT_ZGT10>3.14059689660929e-91</pz-ceers-INT_ZGT10>
-    <pz-ceers-INT_ZGT11>1.1231964873500844e-105</pz-ceers-INT_ZGT11>
-    <pz-ceers-INT_ZGT12>1.2541113010317894e-131</pz-ceers-INT_ZGT12>
-    <pz-ceers-INT_ZGT3>0.9999988604778226</pz-ceers-INT_ZGT3>
-    <pz-ceers-INT_ZGT4>0.9999988604778226</pz-ceers-INT_ZGT4>
-    <pz-ceers-INT_ZGT5>0.9934206428528413</pz-ceers-INT_ZGT5>
-    <pz-ceers-INT_ZGT6>2.6867414835553193e-06</pz-ceers-INT_ZGT6>
-    <pz-ceers-INT_ZGT7>4.940850700903729e-17</pz-ceers-INT_ZGT7>
-    <pz-ceers-INT_ZGT8>2.225555532427014e-25</pz-ceers-INT_ZGT8>
-    <pz-ceers-INT_ZGT9>2.743695518507569e-56</pz-ceers-INT_ZGT9>
-    <pz-ceers-SAMPLE>5</pz-ceers-SAMPLE>
-    <pz-ceers-ZA>5.38</pz-ceers-ZA>
-    <pz-ceers-ZHI>7.000000000000013</pz-ceers-ZHI>
-    <pz-ceers-ZL68>5.259999999999999</pz-ceers-ZL68>
-    <pz-ceers-ZL95>5.079999999999997</pz-ceers-ZL95>
-    <pz-ceers-ZLOW>5.38</pz-ceers-ZLOW>
-    <pz-ceers-ZPEAK>5.378237052841175</pz-ceers-ZPEAK>
-    <pz-ceers-ZU68>5.500000000000001</pz-ceers-ZU68>
-    <pz-ceers-ZU95>5.620000000000002</pz-ceers-ZU95>
-    <specz-catalogue>b'\xb0ZA0\x01\x00\x00\x00\xf0['</specz-catalogue>
-    <specz-quality>0.0</specz-quality>
-    <specz-z>0.0</specz-z>
-    <spurious>0.0</spurious>
-    <z>5.38</z>
-  </row>
-  <row>
-    <index>180</index>
+    <index>175</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>2.3525550425907854e-241</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.3525550425907854e-241</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>2.3525550425907854e-241</matched-finkelstein22c-z>
     <photom-APCORR>1.4895716200773892</photom-APCORR>
     <photom-APCORR_APER_0P3>1.506033336230709</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.895</photom-A_IMAGE>
@@ -18282,7 +18833,13 @@
     <z>5.650000000000002</z>
   </row>
   <row>
-    <index>181</index>
+    <index>176</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-6.177875639440072e-164</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-6.177875639440072e-164</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-6.177875639440072e-164</matched-finkelstein22c-z>
     <photom-APCORR>1.3557210914666913</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7773451279917312</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.273</photom-A_IMAGE>
@@ -18383,7 +18940,13 @@
     <z>5.289999999999999</z>
   </row>
   <row>
-    <index>182</index>
+    <index>177</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-9.523223538998263e+88</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-9.523223538998263e+88</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-9.523223538998263e+88</matched-finkelstein22c-z>
     <photom-APCORR>1.5633792114651324</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5913608440243976</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.361</photom-A_IMAGE>
@@ -18484,7 +19047,13 @@
     <z>6.160000000000006</z>
   </row>
   <row>
-    <index>183</index>
+    <index>178</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-4.94327445277237e+145</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-4.94327445277237e+145</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-4.94327445277237e+145</matched-finkelstein22c-z>
     <photom-APCORR>1.2102085418397543</photom-APCORR>
     <photom-APCORR_APER_0P3>2.4198106081044624</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.184</photom-A_IMAGE>
@@ -18585,7 +19154,13 @@
     <z>5.500000000000001</z>
   </row>
   <row>
-    <index>184</index>
+    <index>179</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>5.942331072711063e+137</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.942331072711063e+137</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>5.942331072711063e+137</matched-finkelstein22c-z>
     <photom-APCORR>1.4632534582734074</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4127761060091006</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.719</photom-A_IMAGE>
@@ -18686,7 +19261,13 @@
     <z>6.61000000000001</z>
   </row>
   <row>
-    <index>185</index>
+    <index>180</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.8781984123605758e+194</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'45849'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.8800000000000006</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.8781984123605758e+194</matched-finkelstein22c-z>
     <photom-APCORR>1.642722418581808</photom-APCORR>
     <photom-APCORR_APER_0P3>1.0660230052342696</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.005</photom-A_IMAGE>
@@ -18787,7 +19368,13 @@
     <z>5.920000000000004</z>
   </row>
   <row>
-    <index>186</index>
+    <index>181</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-4.0914305177716786e+301</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-4.0914305177716786e+301</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-4.0914305177716786e+301</matched-finkelstein22c-z>
     <photom-APCORR>1.6258459467184374</photom-APCORR>
     <photom-APCORR_APER_0P3>1.1387061928267677</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.035</photom-A_IMAGE>
@@ -18888,7 +19475,13 @@
     <z>5.590000000000002</z>
   </row>
   <row>
-    <index>187</index>
+    <index>182</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.189078420725049e+108</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-1.189078420725049e+108</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.189078420725049e+108</matched-finkelstein22c-z>
     <photom-APCORR>1.180905986402147</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3700643478248364</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.214</photom-A_IMAGE>
@@ -18989,7 +19582,13 @@
     <z>6.61000000000001</z>
   </row>
   <row>
-    <index>188</index>
+    <index>183</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>8.80016881418817e+208</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'46506'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.649999999999945</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>8.80016881418817e+208</matched-finkelstein22c-z>
     <photom-APCORR>1.4972558882127505</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6076746574316294</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.707</photom-A_IMAGE>
@@ -19090,7 +19689,13 @@
     <z>4.839999999999995</z>
   </row>
   <row>
-    <index>189</index>
+    <index>184</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-2.4310198354478828e+163</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-2.4310198354478828e+163</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-2.4310198354478828e+163</matched-finkelstein22c-z>
     <photom-APCORR>1.4628407816942257</photom-APCORR>
     <photom-APCORR_APER_0P3>1.935470243575073</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.829</photom-A_IMAGE>
@@ -19191,7 +19796,13 @@
     <z>5.139999999999998</z>
   </row>
   <row>
-    <index>190</index>
+    <index>185</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-5.5526230487041054e+147</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>-5.5526230487041054e+147</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-5.5526230487041054e+147</matched-finkelstein22c-z>
     <photom-APCORR>1.095241575857392</photom-APCORR>
     <photom-APCORR_APER_0P3>1.09454968770454</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.136</photom-A_IMAGE>
@@ -19292,7 +19903,13 @@
     <z>4.839999999999995</z>
   </row>
   <row>
-    <index>191</index>
+    <index>186</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>-1.917072872643111e-243</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'44734'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.329999999999931</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>-1.917072872643111e-243</matched-finkelstein22c-z>
     <photom-APCORR>1.4391677423245608</photom-APCORR>
     <photom-APCORR_APER_0P3>2.921064895658687</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.016</photom-A_IMAGE>
@@ -19393,7 +20010,13 @@
     <z>4.839999999999995</z>
   </row>
   <row>
-    <index>192</index>
+    <index>187</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>1.3638194465330295e+178</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.3638194465330295e+178</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>1.3638194465330295e+178</matched-finkelstein22c-z>
     <photom-APCORR>1.6627812260610502</photom-APCORR>
     <photom-APCORR_APER_0P3>1.0180342261690583</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>1.246</photom-A_IMAGE>
@@ -19494,7 +20117,13 @@
     <z>5.169999999999998</z>
   </row>
   <row>
-    <index>193</index>
+    <index>188</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>8.653303040836227e+291</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'47039'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.609999999999925</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>8.653303040836227e+291</matched-finkelstein22c-z>
     <photom-APCORR>1.3805160581524216</photom-APCORR>
     <photom-APCORR_APER_0P3>2.2610292069270725</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.227</photom-A_IMAGE>
@@ -19593,106 +20222,5 @@
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
     <z>5.169999999999998</z>
-  </row>
-  <row>
-    <index>194</index>
-    <photom-APCORR>1.8354166865092054</photom-APCORR>
-    <photom-APCORR_APER_0P3>3.297658176093326</photom-APCORR_APER_0P3>
-    <photom-A_IMAGE>5.226</photom-A_IMAGE>
-    <photom-B_IMAGE>3.102</photom-B_IMAGE>
-    <photom-DEC>52.79324899276882</photom-DEC>
-    <photom-DF105>38822189015895.97</photom-DF105>
-    <photom-DF115>8.811575689933536</photom-DF115>
-    <photom-DF125>15.179251786899185</photom-DF125>
-    <photom-DF140>30.225796498965014</photom-DF140>
-    <photom-DF150>10.013025929490063</photom-DF150>
-    <photom-DF160>14.26269079189452</photom-DF160>
-    <photom-DF200>9.431166299956034</photom-DF200>
-    <photom-DF277>14.755611908074586</photom-DF277>
-    <photom-DF356>13.541964122319262</photom-DF356>
-    <photom-DF410>15.04694755764097</photom-DF410>
-    <photom-DF444>13.334226486065313</photom-DF444>
-    <photom-DF606>10.347238236831878</photom-DF606>
-    <photom-DF814>12.368104765410628</photom-DF814>
-    <photom-F105>0.0</photom-F105>
-    <photom-F115>226.084182946893</photom-F115>
-    <photom-F125>187.6092413294703</photom-F125>
-    <photom-F140>159.47567071560067</photom-F140>
-    <photom-F150>210.01960205773196</photom-F150>
-    <photom-F160>184.21751214570352</photom-F160>
-    <photom-F200>196.7225468324349</photom-F200>
-    <photom-F277>253.35084744443657</photom-F277>
-    <photom-F356>268.72471654304513</photom-F356>
-    <photom-F410>261.72610350705645</photom-F410>
-    <photom-F444>243.49167165146204</photom-F444>
-    <photom-F606>13.041289603509982</photom-F606>
-    <photom-F814>163.715782622209</photom-F814>
-    <photom-FWHM_F200W>15.92</photom-FWHM_F200W>
-    <photom-ID>9042</photom-ID>
-    <photom-ISOAREA_IMAGE>160</photom-ISOAREA_IMAGE>
-    <photom-KRON_RADIUS>1.89</photom-KRON_RADIUS>
-    <photom-LW>b'ALONG'</photom-LW>
-    <photom-RA>214.8385138393034</photom-RA>
-    <photom-RH_F200W>4.024</photom-RH_F200W>
-    <photom-STELLARITY>0.247</photom-STELLARITY>
-    <photom-SW>b'A2'</photom-SW>
-    <photom-THETA_IMAGE>-27.84</photom-THETA_IMAGE>
-    <photom-X>9624.042</photom-X>
-    <photom-XMAX_IMAGE>9639</photom-XMAX_IMAGE>
-    <photom-XMIN_IMAGE>9614</photom-XMIN_IMAGE>
-    <photom-Y>289.3342</photom-Y>
-    <photom-YMAX_IMAGE>297</photom-YMAX_IMAGE>
-    <photom-YMIN_IMAGE>282</photom-YMIN_IMAGE>
-    <pz-ceers-CHI2_HI>137.44469147172953</pz-ceers-CHI2_HI>
-    <pz-ceers-CHI2_LOW>9.851904832811684</pz-ceers-CHI2_LOW>
-    <pz-ceers-CHIA>9.851904832811684</pz-ceers-CHIA>
-    <pz-ceers-INT_PZ0>1.7676960363848476e-17</pz-ceers-INT_PZ0>
-    <pz-ceers-INT_PZ1>1.4168534830307615e-07</pz-ceers-INT_PZ1>
-    <pz-ceers-INT_PZ10>6.792020550401732e-89</pz-ceers-INT_PZ10>
-    <pz-ceers-INT_PZ10_12>1.4469063923095507e-99</pz-ceers-INT_PZ10_12>
-    <pz-ceers-INT_PZ11>2.2974765570093633e-111</pz-ceers-INT_PZ11>
-    <pz-ceers-INT_PZ12>2.059554121709964e-123</pz-ceers-INT_PZ12>
-    <pz-ceers-INT_PZ12_15>8.330546152596528e-141</pz-ceers-INT_PZ12_15>
-    <pz-ceers-INT_PZ13>1.0211747838842482e-161</pz-ceers-INT_PZ13>
-    <pz-ceers-INT_PZ14>4.330617531931205e-180</pz-ceers-INT_PZ14>
-    <pz-ceers-INT_PZ15>1.8181528329176148e-180</pz-ceers-INT_PZ15>
-    <pz-ceers-INT_PZ15_20>8.330546152596528e-141</pz-ceers-INT_PZ15_20>
-    <pz-ceers-INT_PZ16>4.5849802324268666e-184</pz-ceers-INT_PZ16>
-    <pz-ceers-INT_PZ17>2.3953814574587743e-202</pz-ceers-INT_PZ17>
-    <pz-ceers-INT_PZ18>6.280573796072507e-225</pz-ceers-INT_PZ18>
-    <pz-ceers-INT_PZ19>1.132922089671635e-224</pz-ceers-INT_PZ19>
-    <pz-ceers-INT_PZ2>1.9071697927679462e-13</pz-ceers-INT_PZ2>
-    <pz-ceers-INT_PZ3>2.1301625612926843e-30</pz-ceers-INT_PZ3>
-    <pz-ceers-INT_PZ4>3.164063862446418e-10</pz-ceers-INT_PZ4>
-    <pz-ceers-INT_PZ5>0.771748836949341</pz-ceers-INT_PZ5>
-    <pz-ceers-INT_PZ6>0.22825102104871353</pz-ceers-INT_PZ6>
-    <pz-ceers-INT_PZ7>5.356293050833604e-21</pz-ceers-INT_PZ7>
-    <pz-ceers-INT_PZ8>7.514242336274275e-32</pz-ceers-INT_PZ8>
-    <pz-ceers-INT_PZ8P5_10>1.3081319161477057e-44</pz-ceers-INT_PZ8P5_10>
-    <pz-ceers-INT_PZ9>1.3081319161477057e-44</pz-ceers-INT_PZ9>
-    <pz-ceers-INT_ZGT10>1.4469063923095507e-99</pz-ceers-INT_ZGT10>
-    <pz-ceers-INT_ZGT11>1.1399725970978285e-114</pz-ceers-INT_ZGT11>
-    <pz-ceers-INT_ZGT12>8.330546152596528e-141</pz-ceers-INT_ZGT12>
-    <pz-ceers-INT_ZGT3>0.9999998583144609</pz-ceers-INT_ZGT3>
-    <pz-ceers-INT_ZGT4>0.9999998583144609</pz-ceers-INT_ZGT4>
-    <pz-ceers-INT_ZGT5>0.9920992305039835</pz-ceers-INT_ZGT5>
-    <pz-ceers-INT_ZGT6>3.2875340599405625e-09</pz-ceers-INT_ZGT6>
-    <pz-ceers-INT_ZGT7>5.411392856422362e-29</pz-ceers-INT_ZGT7>
-    <pz-ceers-INT_ZGT8>1.0680460807561216e-36</pz-ceers-INT_ZGT8>
-    <pz-ceers-INT_ZGT9>2.163613110182e-61</pz-ceers-INT_ZGT9>
-    <pz-ceers-SAMPLE>5</pz-ceers-SAMPLE>
-    <pz-ceers-ZA>5.41</pz-ceers-ZA>
-    <pz-ceers-ZHI>7.000000000000013</pz-ceers-ZHI>
-    <pz-ceers-ZL68>5.319999999999999</pz-ceers-ZL68>
-    <pz-ceers-ZL95>5.199999999999998</pz-ceers-ZL95>
-    <pz-ceers-ZLOW>5.41</pz-ceers-ZLOW>
-    <pz-ceers-ZPEAK>5.416917753059669</pz-ceers-ZPEAK>
-    <pz-ceers-ZU68>5.530000000000001</pz-ceers-ZU68>
-    <pz-ceers-ZU95>5.620000000000002</pz-ceers-ZU95>
-    <specz-catalogue>b'E0\x01\x00\x00\x00p\x94E0'</specz-catalogue>
-    <specz-quality>0.0</specz-quality>
-    <specz-z>0.0</specz-z>
-    <spurious>0.0</spurious>
-    <z>5.41</z>
   </row>
 </data>

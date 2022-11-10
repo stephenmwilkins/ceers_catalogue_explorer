@@ -2,6 +2,12 @@
 <data>
   <row>
     <index>0</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3741560138183093</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5106339710090095</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.807</photom-A_IMAGE>
@@ -95,7 +101,7 @@
     <pz-ceers-ZPEAK>7.044704426137516</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.180000000000015</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.450000000000017</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0\x83\x0e0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -103,6 +109,12 @@
   </row>
   <row>
     <index>1</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6977255336309889</photom-APCORR>
     <photom-APCORR_APER_0P3>1.672993293779035</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.748</photom-A_IMAGE>
@@ -196,7 +208,7 @@
     <pz-ceers-ZPEAK>4.472462001345209</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.719999999999994</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.809999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xb0\x9b\x0e0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -204,6 +216,12 @@
   </row>
   <row>
     <index>2</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4884056369381742</photom-APCORR>
     <photom-APCORR_APER_0P3>1.047465242166125</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.09</photom-A_IMAGE>
@@ -297,7 +315,7 @@
     <pz-ceers-ZPEAK>4.52417562797463</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.749999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.839999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xb0y\x0f0\x01\x00\x00\x00\xf0z'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -305,6 +323,12 @@
   </row>
   <row>
     <index>3</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.1599131455529543</photom-APCORR>
     <photom-APCORR_APER_0P3>1.331361291664093</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.667</photom-A_IMAGE>
@@ -398,7 +422,7 @@
     <pz-ceers-ZPEAK>6.883385191471356</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.910000000000013</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.970000000000013</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x0f0\x01\x00\x00\x00\xb0\x82\x0f0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -406,6 +430,12 @@
   </row>
   <row>
     <index>4</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5727373430550455</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7186990447446373</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.369</photom-A_IMAGE>
@@ -499,7 +529,7 @@
     <pz-ceers-ZPEAK>6.5860538486296365</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.670000000000011</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.700000000000011</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x0f0\x01\x00\x00\x000\xa8\x0f0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -507,6 +537,12 @@
   </row>
   <row>
     <index>5</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>2.471128337736176</photom-APCORR>
     <photom-APCORR_APER_0P3>2.3831462671270036</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.228</photom-A_IMAGE>
@@ -600,7 +636,7 @@
     <pz-ceers-ZPEAK>4.818076564282647</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.899999999999996</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.259999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xb0\xaf\x0f0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -608,6 +644,12 @@
   </row>
   <row>
     <index>6</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'51937'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.289999999999932</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4313866988016282</photom-APCORR>
     <photom-APCORR_APER_0P3>2.314269996535915</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.688</photom-A_IMAGE>
@@ -701,7 +743,7 @@
     <pz-ceers-ZPEAK>4.937880485117158</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.019999999999997</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.199999999999998</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'p\xcb\x0f0\x01\x00\x00\x00\xb0\xcc'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -709,6 +751,12 @@
   </row>
   <row>
     <index>7</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6441645587633862</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5873520796298832</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.537</photom-A_IMAGE>
@@ -802,7 +850,7 @@
     <pz-ceers-ZPEAK>5.400844112738002</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.620000000000002</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.460000000000009</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xb0`\x100\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -810,6 +858,12 @@
   </row>
   <row>
     <index>8</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.7184947813428753</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5108419459178484</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.945</photom-A_IMAGE>
@@ -903,7 +957,7 @@
     <pz-ceers-ZPEAK>4.4418349861925055</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.719999999999994</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.809999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00p\x9a\x110\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -911,6 +965,12 @@
   </row>
   <row>
     <index>9</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.699378947646608</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3030389408625755</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>1.979</photom-A_IMAGE>
@@ -1004,7 +1064,7 @@
     <pz-ceers-ZPEAK>7.450065437192065</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.600000000000018</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.320000000000014</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x120\x01\x00\x00\x00\xb0\xea\x120'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -1012,6 +1072,12 @@
   </row>
   <row>
     <index>10</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'53129'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.5500000000000003</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>0.5968924168594077</photom-APCORR>
     <photom-APCORR_APER_0P3>3.6737006424488934</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>12.857</photom-A_IMAGE>
@@ -1105,7 +1171,7 @@
     <pz-ceers-ZPEAK>6.359040793784595</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.64000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.700000000000011</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xf0\xfa\x120\x01\x00\x00\x000\xfc'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -1113,6 +1179,12 @@
   </row>
   <row>
     <index>11</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6154986040385488</photom-APCORR>
     <photom-APCORR_APER_0P3>2.429707383571986</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.701</photom-A_IMAGE>
@@ -1206,7 +1278,7 @@
     <pz-ceers-ZPEAK>7.640158143379083</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.170000000000018</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.410000000000013</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00p\x8a\x130\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -1214,6 +1286,12 @@
   </row>
   <row>
     <index>12</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3564400586286873</photom-APCORR>
     <photom-APCORR_APER_0P3>3.3259638044988487</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.022</photom-A_IMAGE>
@@ -1307,7 +1385,7 @@
     <pz-ceers-ZPEAK>7.411836124764864</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.540000000000018</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.570000000000018</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xb0\x8b\x130\x01\x00\x00\x00\xf0\x8c'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -1315,6 +1393,12 @@
   </row>
   <row>
     <index>13</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3278090287128683</photom-APCORR>
     <photom-APCORR_APER_0P3>2.0477179272790016</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.522</photom-A_IMAGE>
@@ -1408,7 +1492,7 @@
     <pz-ceers-ZPEAK>7.987535300236653</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.05000000000002</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.110000000000019</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xf0\x91\x130\x01\x00\x00\x000\x93'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -1416,6 +1500,12 @@
   </row>
   <row>
     <index>14</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'53415'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.90999999999994</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.291657573537435</photom-APCORR>
     <photom-APCORR_APER_0P3>2.499171515984369</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.449</photom-A_IMAGE>
@@ -1509,7 +1599,7 @@
     <pz-ceers-ZPEAK>4.802134356575201</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.929999999999996</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.019999999999997</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xb0F\x140\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -1517,6 +1607,12 @@
   </row>
   <row>
     <index>15</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'53554'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>8.319999999999867</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4075121186767068</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3985860721828467</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.483</photom-A_IMAGE>
@@ -1610,7 +1706,7 @@
     <pz-ceers-ZPEAK>7.211394458734205</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.360000000000016</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.450000000000017</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xb0\x9f\x140\x01\x00\x00\x00\xf0\xa0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -1618,6 +1714,12 @@
   </row>
   <row>
     <index>16</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2270814985039458</photom-APCORR>
     <photom-APCORR_APER_0P3>2.6924613153856685</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.656</photom-A_IMAGE>
@@ -1711,7 +1813,7 @@
     <pz-ceers-ZPEAK>5.144222945160261</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.259999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xb0\xbd\x140\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -1719,6 +1821,12 @@
   </row>
   <row>
     <index>17</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4721723471631416</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4990483655276217</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.517</photom-A_IMAGE>
@@ -1812,7 +1920,7 @@
     <pz-ceers-ZPEAK>5.070920086197365</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.229999999999999</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.44</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xf0\x07\x150\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -1820,6 +1928,12 @@
   </row>
   <row>
     <index>18</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2546632923548946</photom-APCORR>
     <photom-APCORR_APER_0P3>2.103762494887358</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.832</photom-A_IMAGE>
@@ -1913,7 +2027,7 @@
     <pz-ceers-ZPEAK>4.878543519318043</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.899999999999996</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.929999999999996</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xb0)\x150\x01\x00\x00\x00\xf0*'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -1921,6 +2035,12 @@
   </row>
   <row>
     <index>19</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>0.7835321598892792</photom-APCORR>
     <photom-APCORR_APER_0P3>0.7671266268353898</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.67</photom-A_IMAGE>
@@ -2014,7 +2134,7 @@
     <pz-ceers-ZPEAK>5.107366423825125</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.169999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0y\x150\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -2022,6 +2142,12 @@
   </row>
   <row>
     <index>20</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.289696275047878</photom-APCORR>
     <photom-APCORR_APER_0P3>2.5318689733723416</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.372</photom-A_IMAGE>
@@ -2115,7 +2241,7 @@
     <pz-ceers-ZPEAK>5.176982245567027</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.38</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.680000000000002</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xb0\x86\x150\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -2123,6 +2249,12 @@
   </row>
   <row>
     <index>21</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'54818'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.4399999999999284</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>0.4612772289999683</photom-APCORR>
     <photom-APCORR_APER_0P3>0.9121504472504023</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>10.516</photom-A_IMAGE>
@@ -2216,7 +2348,7 @@
     <pz-ceers-ZPEAK>5.126801859311299</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'p\xf2\x150\x01\x00\x00\x00\xb0\xf3'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -2224,6 +2356,12 @@
   </row>
   <row>
     <index>22</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.9466431580273043</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8815583883616374</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.333</photom-A_IMAGE>
@@ -2317,7 +2455,7 @@
     <pz-ceers-ZPEAK>5.14903767376849</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.289999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0\xb9\x160\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -2325,6 +2463,12 @@
   </row>
   <row>
     <index>23</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4296376257751373</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9836271682304092</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.444</photom-A_IMAGE>
@@ -2418,7 +2562,7 @@
     <pz-ceers-ZPEAK>4.655708620432119</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.779999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.839999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xb0\x06\x170\x01\x00\x00\x00\xf0\x07'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -2426,6 +2570,12 @@
   </row>
   <row>
     <index>24</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.8605483154135392</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8372254021713994</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.423</photom-A_IMAGE>
@@ -2519,7 +2669,7 @@
     <pz-ceers-ZPEAK>4.609086113418355</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.749999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.809999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00pJ\x170\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -2527,6 +2677,12 @@
   </row>
   <row>
     <index>25</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.8954236834352174</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4988648419465567</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.708</photom-A_IMAGE>
@@ -2620,7 +2776,7 @@
     <pz-ceers-ZPEAK>5.156955966835378</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.38</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.650000000000002</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00p\x8f\x170\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -2628,6 +2784,12 @@
   </row>
   <row>
     <index>26</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'55065'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.179999999999934</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4249123438788618</photom-APCORR>
     <photom-APCORR_APER_0P3>2.212223226406434</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.877</photom-A_IMAGE>
@@ -2721,7 +2883,7 @@
     <pz-ceers-ZPEAK>5.095343148725888</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.139999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.169999999999998</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00p\xc0\x170\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -2729,6 +2891,12 @@
   </row>
   <row>
     <index>27</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'54938'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>9.409999999999844</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5115729056818143</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7885450404232701</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.417</photom-A_IMAGE>
@@ -2822,7 +2990,7 @@
     <pz-ceers-ZPEAK>6.528850506471112</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.64000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.700000000000011</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x170\x01\x00\x00\x00\xf0\xea\x170'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -2830,6 +2998,12 @@
   </row>
   <row>
     <index>28</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'55612'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.419999999999929</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2748922336671382</photom-APCORR>
     <photom-APCORR_APER_0P3>2.8123464395377287</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>9.226</photom-A_IMAGE>
@@ -2923,7 +3097,7 @@
     <pz-ceers-ZPEAK>5.161177638084094</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x180\x01\x00\x00\x00p\xd9\x180'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -2931,6 +3105,12 @@
   </row>
   <row>
     <index>29</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'55739'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.589999999999925</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3554673023567945</photom-APCORR>
     <photom-APCORR_APER_0P3>2.94115381383232</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.846</photom-A_IMAGE>
@@ -3024,7 +3204,7 @@
     <pz-ceers-ZPEAK>5.289697974890016</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.38</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.470000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xb0\xda\x180\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -3032,6 +3212,12 @@
   </row>
   <row>
     <index>30</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'55469'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.480000000000001</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.339699454737545</photom-APCORR>
     <photom-APCORR_APER_0P3>3.4987385305016425</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>8.49</photom-A_IMAGE>
@@ -3125,7 +3311,7 @@
     <pz-ceers-ZPEAK>5.177804437108903</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.229999999999999</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.259999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0\xdb\x180\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -3133,6 +3319,12 @@
   </row>
   <row>
     <index>31</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.8108842153947584</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9891619323683682</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.788</photom-A_IMAGE>
@@ -3226,7 +3418,7 @@
     <pz-ceers-ZPEAK>8.258928782159396</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.50000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.710000000000006</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x000,\x190\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -3234,6 +3426,12 @@
   </row>
   <row>
     <index>32</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5877589579263576</photom-APCORR>
     <photom-APCORR_APER_0P3>1.798259203707985</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.53</photom-A_IMAGE>
@@ -3327,7 +3525,7 @@
     <pz-ceers-ZPEAK>5.136721413773017</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x190\x01\x00\x00\x000v\x190'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -3335,6 +3533,12 @@
   </row>
   <row>
     <index>33</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3424050790829898</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3024976259199559</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.778</photom-A_IMAGE>
@@ -3428,7 +3632,7 @@
     <pz-ceers-ZPEAK>6.435151421228993</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.520000000000009</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.58000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x000\x9d\x190\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -3436,6 +3640,12 @@
   </row>
   <row>
     <index>34</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'55695'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.34999999999993</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.564709694120556</photom-APCORR>
     <photom-APCORR_APER_0P3>3.1123773890323925</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>7.782</photom-A_IMAGE>
@@ -3529,7 +3739,7 @@
     <pz-ceers-ZPEAK>5.004669171877382</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.109999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.259999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xf0\xa5\x190\x01\x00\x00\x000\xa7'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -3537,6 +3747,12 @@
   </row>
   <row>
     <index>35</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'55713'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>8.509999999999863</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.264540207867321</photom-APCORR>
     <photom-APCORR_APER_0P3>1.0714999931185565</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.101</photom-A_IMAGE>
@@ -3630,7 +3846,7 @@
     <pz-ceers-ZPEAK>7.457264652187832</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.8700000000000205</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.320000000000014</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xb0\xd5\x190\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -3638,6 +3854,12 @@
   </row>
   <row>
     <index>36</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.219958243271189</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5224258604976078</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.5</photom-A_IMAGE>
@@ -3731,7 +3953,7 @@
     <pz-ceers-ZPEAK>5.252568387959303</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.500000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.860000000000004</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x1a0\x01\x00\x00\x000,\x1a0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -3739,6 +3961,12 @@
   </row>
   <row>
     <index>37</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.7795246131172993</photom-APCORR>
     <photom-APCORR_APER_0P3>2.0408696462624922</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.193</photom-A_IMAGE>
@@ -3832,7 +4060,7 @@
     <pz-ceers-ZPEAK>4.653025402165933</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.779999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.839999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xb0\x81\x1a0\x01\x00\x00\x00\xf0\x82'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -3840,6 +4068,12 @@
   </row>
   <row>
     <index>38</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'56154'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.759999999999943</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3972127830292722</photom-APCORR>
     <photom-APCORR_APER_0P3>2.008186388219963</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.068</photom-A_IMAGE>
@@ -3933,7 +4167,7 @@
     <pz-ceers-ZPEAK>4.890617545566822</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.929999999999996</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.929999999999996</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00p\xca\x1a0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -3941,6 +4175,12 @@
   </row>
   <row>
     <index>39</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'56206'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.7700000000000005</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.7671129550465294</photom-APCORR>
     <photom-APCORR_APER_0P3>2.3272854568174366</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.883</photom-A_IMAGE>
@@ -4034,7 +4274,7 @@
     <pz-ceers-ZPEAK>6.3845944203525775</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.55000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.61000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xb0\xe4\x1a0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -4042,6 +4282,12 @@
   </row>
   <row>
     <index>40</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'56460'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.01</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.541454684524143</photom-APCORR>
     <photom-APCORR_APER_0P3>3.269504767269104</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.62</photom-A_IMAGE>
@@ -4135,7 +4381,7 @@
     <pz-ceers-ZPEAK>7.230074655985107</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.3900000000000166</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.5100000000000176</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0\x87\x1b0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -4143,6 +4389,12 @@
   </row>
   <row>
     <index>41</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.33540864102013</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3134098130460865</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.665</photom-A_IMAGE>
@@ -4236,7 +4488,7 @@
     <pz-ceers-ZPEAK>6.120986290894238</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.370000000000008</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.520000000000009</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x1b0\x01\x00\x00\x00p\x9e\x1b0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -4244,6 +4496,12 @@
   </row>
   <row>
     <index>42</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2582481783520076</photom-APCORR>
     <photom-APCORR_APER_0P3>1.710385740952772</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.067</photom-A_IMAGE>
@@ -4337,7 +4595,7 @@
     <pz-ceers-ZPEAK>4.855874539877918</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.109999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.35</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0\xfe\x1b0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -4345,6 +4603,12 @@
   </row>
   <row>
     <index>43</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5735150013134</photom-APCORR>
     <photom-APCORR_APER_0P3>4.009570751875397</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.842</photom-A_IMAGE>
@@ -4438,7 +4702,7 @@
     <pz-ceers-ZPEAK>8.069880805594362</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.53000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.800000000000004</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x1c0\x01\x00\x00\x00p(\x1c0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -4446,6 +4710,12 @@
   </row>
   <row>
     <index>44</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'56749'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.339999999999994</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.286216628458173</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6465238311634152</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.265</photom-A_IMAGE>
@@ -4539,7 +4809,7 @@
     <pz-ceers-ZPEAK>8.33075012574098</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.620000000000008</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.920000000000002</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xb0)\x1c0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -4547,6 +4817,12 @@
   </row>
   <row>
     <index>45</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.8358440621984071</photom-APCORR>
     <photom-APCORR_APER_0P3>2.327556606628196</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.201</photom-A_IMAGE>
@@ -4640,7 +4916,7 @@
     <pz-ceers-ZPEAK>7.313611271180337</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.6300000000000185</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.200000000000017</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xb0}\x1c0\x01\x00\x00\x00\xf0~'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -4648,6 +4924,12 @@
   </row>
   <row>
     <index>46</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>0.9552571302553876</photom-APCORR>
     <photom-APCORR_APER_0P3>1.2936744177829989</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.106</photom-A_IMAGE>
@@ -4741,7 +5023,7 @@
     <pz-ceers-ZPEAK>5.110219934628549</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.44</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.650000000000002</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x1c0\x01\x00\x00\x00p\x80\x1c0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -4749,6 +5031,12 @@
   </row>
   <row>
     <index>47</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'56972'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.84999999999992</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4001156263801793</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6899538108047136</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.933</photom-A_IMAGE>
@@ -4842,7 +5130,7 @@
     <pz-ceers-ZPEAK>5.522070329916396</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.560000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.560000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x1c0\x01\x00\x00\x00\xf0\xd1\x1c0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -4850,6 +5138,12 @@
   </row>
   <row>
     <index>48</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.427128475818543</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4882573035833673</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.382</photom-A_IMAGE>
@@ -4943,7 +5237,7 @@
     <pz-ceers-ZPEAK>5.086409730557788</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.169999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'p\xe8\x1c0\x01\x00\x00\x00\xb0\xe9'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -4951,6 +5245,12 @@
   </row>
   <row>
     <index>49</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'57035'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>3.149999999999977</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3288962767054286</photom-APCORR>
     <photom-APCORR_APER_0P3>2.030947045589703</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.244</photom-A_IMAGE>
@@ -5044,7 +5344,7 @@
     <pz-ceers-ZPEAK>4.56824560629826</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.749999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.839999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00p\x05\x1d0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -5052,6 +5352,12 @@
   </row>
   <row>
     <index>50</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6929436738667718</photom-APCORR>
     <photom-APCORR_APER_0P3>2.1724675724866485</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.328</photom-A_IMAGE>
@@ -5145,7 +5451,7 @@
     <pz-ceers-ZPEAK>5.129220609896377</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.229999999999999</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.41</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xb0\x06\x1e0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -5153,6 +5459,12 @@
   </row>
   <row>
     <index>51</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'57431'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.330000000000001</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.509162025424089</photom-APCORR>
     <photom-APCORR_APER_0P3>1.646020515034498</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.838</photom-A_IMAGE>
@@ -5246,7 +5558,7 @@
     <pz-ceers-ZPEAK>6.1715462225334825</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.370000000000008</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.61000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x1e0\x01\x00\x00\x00\xf0\x11\x1e0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -5254,6 +5566,12 @@
   </row>
   <row>
     <index>52</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>2.0111582450176426</photom-APCORR>
     <photom-APCORR_APER_0P3>2.0002699702174804</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.19</photom-A_IMAGE>
@@ -5347,7 +5665,7 @@
     <pz-ceers-ZPEAK>6.6975408147323465</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.3900000000000166</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.900000000000021</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00p\xe3\x1e0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -5355,6 +5673,12 @@
   </row>
   <row>
     <index>53</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.338645079285506</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7204716541203116</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.053</photom-A_IMAGE>
@@ -5448,7 +5772,7 @@
     <pz-ceers-ZPEAK>5.141865488522442</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf04\x1f0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -5456,6 +5780,12 @@
   </row>
   <row>
     <index>54</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3960698205477247</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3376517709655382</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.664</photom-A_IMAGE>
@@ -5549,7 +5879,7 @@
     <pz-ceers-ZPEAK>5.74467106457253</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.830000000000004</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.010000000000005</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00pT\x1f0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -5557,6 +5887,12 @@
   </row>
   <row>
     <index>55</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>2.154937277708353</photom-APCORR>
     <photom-APCORR_APER_0P3>1.542618389193048</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.46</photom-A_IMAGE>
@@ -5650,7 +5986,7 @@
     <pz-ceers-ZPEAK>4.679561045877969</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.779999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.839999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x000\x1d 0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -5658,6 +5994,12 @@
   </row>
   <row>
     <index>56</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.7450580436152026</photom-APCORR>
     <photom-APCORR_APER_0P3>4.82068105477923</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.461</photom-A_IMAGE>
@@ -5751,7 +6093,7 @@
     <pz-ceers-ZPEAK>5.497800027105386</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.800000000000003</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.160000000000006</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'!0\x01\x00\x00\x00\xf0G!0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -5759,6 +6101,12 @@
   </row>
   <row>
     <index>57</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.9737904708635206</photom-APCORR>
     <photom-APCORR_APER_0P3>2.3798528319535874</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.459</photom-A_IMAGE>
@@ -5852,7 +6200,7 @@
     <pz-ceers-ZPEAK>4.705387329706258</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.869999999999996</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.259999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xb0\x1f&quot;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -5860,6 +6208,12 @@
   </row>
   <row>
     <index>58</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>4.134686168442006</photom-APCORR>
     <photom-APCORR_APER_0P3>3.214767621553914</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.497</photom-A_IMAGE>
@@ -5953,7 +6307,7 @@
     <pz-ceers-ZPEAK>4.46826671099066</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.689999999999994</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.779999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'p\xb7&quot;0\x01\x00\x00\x00\xb0\xb8'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -5961,6 +6315,12 @@
   </row>
   <row>
     <index>59</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.32217239215778</photom-APCORR>
     <photom-APCORR_APER_0P3>2.9406867372270367</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.816</photom-A_IMAGE>
@@ -6054,7 +6414,7 @@
     <pz-ceers-ZPEAK>4.539915550753555</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.779999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.869999999999996</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xb0\xd5#0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -6062,6 +6422,12 @@
   </row>
   <row>
     <index>60</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>2.123807424278429</photom-APCORR>
     <photom-APCORR_APER_0P3>2.685160335368503</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.573</photom-A_IMAGE>
@@ -6155,7 +6521,7 @@
     <pz-ceers-ZPEAK>6.616450837454703</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.670000000000011</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.700000000000011</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xb0\x01$0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -6163,6 +6529,12 @@
   </row>
   <row>
     <index>61</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'60568'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.8900000000000015</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b'CEERS1-385'</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>8.95</matched-finkelstein22c-z>
     <photom-APCORR>1.8592497587346417</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8093261063652286</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.231</photom-A_IMAGE>
@@ -6256,7 +6628,7 @@
     <pz-ceers-ZPEAK>8.936771668026317</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>9.099999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>9.219999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'%0\x01\x00\x00\x00\xb0\xd0%0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -6264,6 +6636,12 @@
   </row>
   <row>
     <index>62</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.1226917898505455</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3735197900564404</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.187</photom-A_IMAGE>
@@ -6357,7 +6735,7 @@
     <pz-ceers-ZPEAK>4.735448905155469</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.929999999999996</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.139999999999998</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'%0\x01\x00\x00\x000\xf6%0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -6365,6 +6743,12 @@
   </row>
   <row>
     <index>63</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'60663'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.9100000000000006</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.0784714631090968</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3862596821260178</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.07</photom-A_IMAGE>
@@ -6458,7 +6842,7 @@
     <pz-ceers-ZPEAK>4.6000189404792025</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.779999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.839999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xb0\x10&amp;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -6466,6 +6850,12 @@
   </row>
   <row>
     <index>64</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3500588685696904</photom-APCORR>
     <photom-APCORR_APER_0P3>2.0419358612839638</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.863</photom-A_IMAGE>
@@ -6559,7 +6949,7 @@
     <pz-ceers-ZPEAK>4.805936760769258</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.109999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.44</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00p#&amp;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -6567,6 +6957,12 @@
   </row>
   <row>
     <index>65</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.436986922202728</photom-APCORR>
     <photom-APCORR_APER_0P3>1.1509148856599167</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.377</photom-A_IMAGE>
@@ -6660,7 +7056,7 @@
     <pz-ceers-ZPEAK>5.315213003204989</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.470000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.500000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x000D&amp;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -6668,6 +7064,12 @@
   </row>
   <row>
     <index>66</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4339538944086723</photom-APCORR>
     <photom-APCORR_APER_0P3>2.1895656121528035</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.402</photom-A_IMAGE>
@@ -6761,7 +7163,7 @@
     <pz-ceers-ZPEAK>4.547101385905252</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.659999999999994</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.749999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xf0\xfe&amp;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -6769,6 +7171,12 @@
   </row>
   <row>
     <index>67</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'61083'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.9000000000000015</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>3.48682349807149</photom-APCORR>
     <photom-APCORR_APER_0P3>3.6663446421355896</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.14</photom-A_IMAGE>
@@ -6862,7 +7270,7 @@
     <pz-ceers-ZPEAK>4.473105181692433</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.689999999999994</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.809999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b&quot;'0\x01\x00\x00\x00p&lt;'0&quot;</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -6870,6 +7278,12 @@
   </row>
   <row>
     <index>68</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3487157802883978</photom-APCORR>
     <photom-APCORR_APER_0P3>2.4122748955355666</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.98</photom-A_IMAGE>
@@ -6963,7 +7377,7 @@
     <pz-ceers-ZPEAK>8.566800729229303</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.890000000000002</pz-ceers-ZU68>
     <pz-ceers-ZU95>9.129999999999997</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b&quot;\xf0L'0\x01\x00\x00\x000N&quot;</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -6971,6 +7385,12 @@
   </row>
   <row>
     <index>69</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'61398'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.7799999999999425</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.307656725227456</photom-APCORR>
     <photom-APCORR_APER_0P3>3.509177155383004</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>8.123</photom-A_IMAGE>
@@ -7064,7 +7484,7 @@
     <pz-ceers-ZPEAK>4.762185835643794</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.809999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.869999999999996</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf09(0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -7072,6 +7492,12 @@
   </row>
   <row>
     <index>70</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'61482'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.969999999999917</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.384102473386191</photom-APCORR>
     <photom-APCORR_APER_0P3>2.9950800662876564</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.726</photom-A_IMAGE>
@@ -7165,7 +7591,7 @@
     <pz-ceers-ZPEAK>5.439378043232352</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.500000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.530000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'(0\x01\x00\x00\x00\xf0o(0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -7173,6 +7599,12 @@
   </row>
   <row>
     <index>71</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'61615'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>6.819999999999899</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5994976074882716</photom-APCORR>
     <photom-APCORR_APER_0P3>2.5469611469028077</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.985</photom-A_IMAGE>
@@ -7266,7 +7698,7 @@
     <pz-ceers-ZPEAK>6.840334081363657</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.880000000000012</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.910000000000013</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'(0\x01\x00\x00\x00\xf0\x82(0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -7274,6 +7706,12 @@
   </row>
   <row>
     <index>72</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'61935'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.729999999999944</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6454465633841249</photom-APCORR>
     <photom-APCORR_APER_0P3>3.136099134223196</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.308</photom-A_IMAGE>
@@ -7367,7 +7805,7 @@
     <pz-ceers-ZPEAK>5.302687037325493</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.500000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.650000000000002</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xf0\x8c(0\x01\x00\x00\x000\x8e'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -7375,6 +7813,12 @@
   </row>
   <row>
     <index>73</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4957166977216472</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6593696354693852</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.903</photom-A_IMAGE>
@@ -7468,7 +7912,7 @@
     <pz-ceers-ZPEAK>5.121051418750193</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.169999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'(0\x01\x00\x00\x00p\x8f(0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -7476,6 +7920,12 @@
   </row>
   <row>
     <index>74</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2344503772759894</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9926471508672532</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.887</photom-A_IMAGE>
@@ -7569,7 +8019,7 @@
     <pz-ceers-ZPEAK>5.313227149207324</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.590000000000002</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.830000000000004</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'0\x04)0\x01\x00\x00\x00p\x05'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -7577,6 +8027,12 @@
   </row>
   <row>
     <index>75</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4942683678398991</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9248914487337343</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.941</photom-A_IMAGE>
@@ -7670,7 +8126,7 @@
     <pz-ceers-ZPEAK>5.87917451680776</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.100000000000006</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.430000000000009</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b')0\x01\x00\x00\x000q)0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -7678,6 +8134,12 @@
   </row>
   <row>
     <index>76</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.284375743063259</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5044571905901885</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.958</photom-A_IMAGE>
@@ -7771,7 +8233,7 @@
     <pz-ceers-ZPEAK>4.732030359158592</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.839999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.899999999999996</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b')0\x01\x00\x00\x00pw)0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -7779,6 +8241,12 @@
   </row>
   <row>
     <index>77</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'62660'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.01</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2667584811930066</photom-APCORR>
     <photom-APCORR_APER_0P3>2.350825001227413</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.219</photom-A_IMAGE>
@@ -7872,7 +8340,7 @@
     <pz-ceers-ZPEAK>7.931071653806757</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.05000000000002</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.200000000000017</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00p\xb7)0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -7880,6 +8348,12 @@
   </row>
   <row>
     <index>78</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'62261'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.8600000000000005</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5450137852121062</photom-APCORR>
     <photom-APCORR_APER_0P3>1.978822940230526</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.6</photom-A_IMAGE>
@@ -7973,7 +8447,7 @@
     <pz-ceers-ZPEAK>5.160167407385462</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00p\x0f*0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -7981,6 +8455,12 @@
   </row>
   <row>
     <index>79</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'62950'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.509999999999927</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4516086291197923</photom-APCORR>
     <photom-APCORR_APER_0P3>2.2215326370720305</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.643</photom-A_IMAGE>
@@ -8074,7 +8554,7 @@
     <pz-ceers-ZPEAK>4.867260785325943</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.899999999999996</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.929999999999996</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xb0\xae*0\x01\x00\x00\x00\xf0\xaf'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -8082,6 +8562,12 @@
   </row>
   <row>
     <index>80</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>2.0956773189346003</photom-APCORR>
     <photom-APCORR_APER_0P3>2.7978644224186917</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.807</photom-A_IMAGE>
@@ -8175,7 +8661,7 @@
     <pz-ceers-ZPEAK>4.637627966097761</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.809999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.869999999999996</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0\xfe*0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -8183,6 +8669,12 @@
   </row>
   <row>
     <index>81</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'62496'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>8.60999999999986</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3937928464587246</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5911305042784212</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.516</photom-A_IMAGE>
@@ -8276,7 +8768,7 @@
     <pz-ceers-ZPEAK>7.085699871691435</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.270000000000016</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.480000000000017</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b',0\x01\x00\x00\x00\xb0\x10,0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -8284,6 +8776,12 @@
   </row>
   <row>
     <index>82</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3416419262396806</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5958218546486993</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.083</photom-A_IMAGE>
@@ -8377,7 +8875,7 @@
     <pz-ceers-ZPEAK>5.419408913391483</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.470000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.530000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00p7,0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -8385,6 +8883,12 @@
   </row>
   <row>
     <index>83</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'63242'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.4100000000000002</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5067824566480685</photom-APCORR>
     <photom-APCORR_APER_0P3>1.587970256449666</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.792</photom-A_IMAGE>
@@ -8478,7 +8982,7 @@
     <pz-ceers-ZPEAK>7.307301288365897</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.450000000000017</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.5100000000000176</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0j,0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -8486,6 +8990,12 @@
   </row>
   <row>
     <index>84</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.574648950445701</photom-APCORR>
     <photom-APCORR_APER_0P3>1.1813310035064253</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.038</photom-A_IMAGE>
@@ -8579,7 +9089,7 @@
     <pz-ceers-ZPEAK>4.576798388765046</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.689999999999994</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.779999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'-0\x01\x00\x00\x00p|-0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -8587,6 +9097,12 @@
   </row>
   <row>
     <index>85</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.444193678803301</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8538333616983602</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.597</photom-A_IMAGE>
@@ -8680,7 +9196,7 @@
     <pz-ceers-ZPEAK>6.486460986531377</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.61000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.64000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xb0\xe4-0\x01\x00\x00\x00\xf0\xe5'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -8688,6 +9204,12 @@
   </row>
   <row>
     <index>86</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>2.9039997247133815</photom-APCORR>
     <photom-APCORR_APER_0P3>2.8469671778588905</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.186</photom-A_IMAGE>
@@ -8781,7 +9303,7 @@
     <pz-ceers-ZPEAK>6.293776202317135</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.58000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.700000000000011</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xb0\xe9-0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -8789,6 +9311,12 @@
   </row>
   <row>
     <index>87</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6097386367504305</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8085183809969074</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.099</photom-A_IMAGE>
@@ -8882,7 +9410,7 @@
     <pz-ceers-ZPEAK>4.47225460001038</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.749999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.869999999999996</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xb0\xee-0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -8890,6 +9418,12 @@
   </row>
   <row>
     <index>88</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3508149521470298</photom-APCORR>
     <photom-APCORR_APER_0P3>2.1441061213896173</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>7.12</photom-A_IMAGE>
@@ -8983,7 +9517,7 @@
     <pz-ceers-ZPEAK>6.133395417421339</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.220000000000007</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.370000000000008</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x000\xf6-0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -8991,6 +9525,12 @@
   </row>
   <row>
     <index>89</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'63992'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.5300000000000002</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>0.9592763751969849</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6310986935684129</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.174</photom-A_IMAGE>
@@ -9084,7 +9624,7 @@
     <pz-ceers-ZPEAK>5.14226500060056</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.169999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xf0/.0\x01\x00\x00\x0001'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -9092,6 +9632,12 @@
   </row>
   <row>
     <index>90</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5946339876254407</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6440302320126978</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.353</photom-A_IMAGE>
@@ -9185,7 +9731,7 @@
     <pz-ceers-ZPEAK>7.288223060246728</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.450000000000017</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.540000000000018</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'.0\x01\x00\x00\x00\xf0&gt;.0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -9193,6 +9739,12 @@
   </row>
   <row>
     <index>91</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.7441182760686906</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8245201561621363</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.522</photom-A_IMAGE>
@@ -9286,7 +9838,7 @@
     <pz-ceers-ZPEAK>7.119035323750445</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.05000000000002</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.290000000000015</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'.0\x01\x00\x00\x00\xf0j.0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -9294,6 +9846,12 @@
   </row>
   <row>
     <index>92</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.170557718557888</photom-APCORR>
     <photom-APCORR_APER_0P3>1.88821087045468</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.157</photom-A_IMAGE>
@@ -9387,7 +9945,7 @@
     <pz-ceers-ZPEAK>7.40767832977649</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.6300000000000185</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.380000000000013</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xb0s.0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -9395,6 +9953,12 @@
   </row>
   <row>
     <index>93</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5866333763517289</photom-APCORR>
     <photom-APCORR_APER_0P3>2.361357658228153</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.609</photom-A_IMAGE>
@@ -9488,7 +10052,7 @@
     <pz-ceers-ZPEAK>4.69638224845268</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.809999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.839999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00p\xfc.0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -9496,6 +10060,12 @@
   </row>
   <row>
     <index>94</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'64502'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.429999999999929</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4264950332854194</photom-APCORR>
     <photom-APCORR_APER_0P3>2.978424214720528</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.457</photom-A_IMAGE>
@@ -9589,7 +10159,7 @@
     <pz-ceers-ZPEAK>5.1581533008101</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0[/0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -9597,6 +10167,12 @@
   </row>
   <row>
     <index>95</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5276913236623333</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5963215851780876</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.357</photom-A_IMAGE>
@@ -9690,7 +10266,7 @@
     <pz-ceers-ZPEAK>7.304775030590267</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.480000000000017</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.540000000000018</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0t/0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -9698,6 +10274,12 @@
   </row>
   <row>
     <index>96</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b'CEERS1-553'</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>8.62</matched-finkelstein22c-z>
     <photom-APCORR>1.8788008097426177</photom-APCORR>
     <photom-APCORR_APER_0P3>2.0574725424759417</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.43</photom-A_IMAGE>
@@ -9791,7 +10373,7 @@
     <pz-ceers-ZPEAK>8.605319335188033</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.920000000000002</pz-ceers-ZU68>
     <pz-ceers-ZU95>9.96999999999998</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'00\x01\x00\x00\x00\xb0\x1500'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -9799,6 +10381,12 @@
   </row>
   <row>
     <index>97</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'65108'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.269999999999932</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4685406506214889</photom-APCORR>
     <photom-APCORR_APER_0P3>4.551584975507448</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.808</photom-A_IMAGE>
@@ -9892,7 +10480,7 @@
     <pz-ceers-ZPEAK>5.159521350215854</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0\xe000\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -9900,6 +10488,12 @@
   </row>
   <row>
     <index>98</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'64928'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.7799999999999425</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3024660179580427</photom-APCORR>
     <photom-APCORR_APER_0P3>1.2630668348296354</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.733</photom-A_IMAGE>
@@ -9993,7 +10587,7 @@
     <pz-ceers-ZPEAK>4.68389363446006</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.809999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.839999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'00\x01\x00\x00\x00\xf0\xea00'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -10001,6 +10595,12 @@
   </row>
   <row>
     <index>99</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'65218'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.269999999999932</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6012570364951546</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8111093806779839</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.557</photom-A_IMAGE>
@@ -10094,7 +10694,7 @@
     <pz-ceers-ZPEAK>5.066463380121391</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.41</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.500000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'00\x01\x00\x00\x00p\xf700'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -10102,6 +10702,12 @@
   </row>
   <row>
     <index>100</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'65222'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.9500000000000006</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6850979338283143</photom-APCORR>
     <photom-APCORR_APER_0P3>3.2967446662347597</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.977</photom-A_IMAGE>
@@ -10195,7 +10801,7 @@
     <pz-ceers-ZPEAK>5.2515386734681595</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.41</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.590000000000002</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'0\x0e10\x01\x00\x00\x00p\x0f'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -10203,6 +10809,12 @@
   </row>
   <row>
     <index>101</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5191284593750014</photom-APCORR>
     <photom-APCORR_APER_0P3>1.403774251503594</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.081</photom-A_IMAGE>
@@ -10296,7 +10908,7 @@
     <pz-ceers-ZPEAK>7.253760201329609</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.420000000000017</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.540000000000018</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'10\x01\x00\x00\x00p#10'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -10304,6 +10916,12 @@
   </row>
   <row>
     <index>102</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.1451372465433032</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4465844934484702</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.512</photom-A_IMAGE>
@@ -10397,7 +11015,7 @@
     <pz-ceers-ZPEAK>5.91004341789998</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.05000000000002</pz-ceers-ZU68>
     <pz-ceers-ZU95>15.459999999999862</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'10\x01\x00\x00\x00\xf0B10'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -10405,6 +11023,12 @@
   </row>
   <row>
     <index>103</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>2.0397419305412288</photom-APCORR>
     <photom-APCORR_APER_0P3>3.3643507198578964</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.936</photom-A_IMAGE>
@@ -10498,7 +11122,7 @@
     <pz-ceers-ZPEAK>4.686891786709843</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.779999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.839999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'10\x01\x00\x00\x000I10'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -10506,6 +11130,12 @@
   </row>
   <row>
     <index>104</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2156258474927129</photom-APCORR>
     <photom-APCORR_APER_0P3>1.2457085260272198</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.397</photom-A_IMAGE>
@@ -10599,7 +11229,7 @@
     <pz-ceers-ZPEAK>5.1436659573880075</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xf0L10\x01\x00\x00\x000N'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -10607,6 +11237,12 @@
   </row>
   <row>
     <index>105</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6261702714709554</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6605031070398741</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.126</photom-A_IMAGE>
@@ -10700,7 +11336,7 @@
     <pz-ceers-ZPEAK>6.005437037809739</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.310000000000008</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.61000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x000\x8910\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -10708,6 +11344,12 @@
   </row>
   <row>
     <index>106</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3440058040669702</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3876680395855316</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.413</photom-A_IMAGE>
@@ -10801,7 +11443,7 @@
     <pz-ceers-ZPEAK>5.257692028800151</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.38</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.500000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x000\xb610\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -10809,6 +11451,12 @@
   </row>
   <row>
     <index>107</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'65564'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.289999999999932</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2937694818802958</photom-APCORR>
     <photom-APCORR_APER_0P3>2.9630913923085482</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.601</photom-A_IMAGE>
@@ -10902,7 +11550,7 @@
     <pz-ceers-ZPEAK>5.320803126475653</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.560000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.740000000000003</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xb0\x0120\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -10910,6 +11558,12 @@
   </row>
   <row>
     <index>108</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'65657'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.259999999999932</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4860358932892992</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7975828219044991</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.766</photom-A_IMAGE>
@@ -11003,7 +11657,7 @@
     <pz-ceers-ZPEAK>5.523806206495247</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.560000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.560000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0 20\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -11011,6 +11665,12 @@
   </row>
   <row>
     <index>109</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'65652'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.01</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.597767361945092</photom-APCORR>
     <photom-APCORR_APER_0P3>2.4064671048059276</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.542</photom-A_IMAGE>
@@ -11104,7 +11764,7 @@
     <pz-ceers-ZPEAK>5.429528642296831</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.470000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.530000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0e20\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -11112,6 +11772,12 @@
   </row>
   <row>
     <index>110</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.0863788162869654</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9459829425212303</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.297</photom-A_IMAGE>
@@ -11205,7 +11871,7 @@
     <pz-ceers-ZPEAK>4.623100195438242</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.749999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.809999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xf0j20\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -11213,6 +11879,12 @@
   </row>
   <row>
     <index>111</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5247587070968964</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7514606959902281</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.711</photom-A_IMAGE>
@@ -11306,7 +11978,7 @@
     <pz-ceers-ZPEAK>4.580533239072894</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.749999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.809999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xb0\xe920\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -11314,6 +11986,12 @@
   </row>
   <row>
     <index>112</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b'CEERS1-605'</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>9.01</matched-finkelstein22c-z>
     <photom-APCORR>1.7724191712492297</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4600519372153415</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.724</photom-A_IMAGE>
@@ -11407,7 +12085,7 @@
     <pz-ceers-ZPEAK>9.006497131100902</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>9.069999999999999</pz-ceers-ZU68>
     <pz-ceers-ZU95>9.159999999999997</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xf0L30\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -11415,6 +12093,12 @@
   </row>
   <row>
     <index>113</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'66887'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.5799999999999255</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3682405838979672</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6468915686781878</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.06</photom-A_IMAGE>
@@ -11508,7 +12192,7 @@
     <pz-ceers-ZPEAK>5.161246189925415</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00pY30\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -11516,6 +12200,12 @@
   </row>
   <row>
     <index>114</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5238112407612034</photom-APCORR>
     <photom-APCORR_APER_0P3>1.496002617724203</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>1.978</photom-A_IMAGE>
@@ -11609,7 +12299,7 @@
     <pz-ceers-ZPEAK>4.5228597329169435</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.749999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.839999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xb0=40\x01\x00\x00\x00\xf0&gt;'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -11617,6 +12307,12 @@
   </row>
   <row>
     <index>115</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'67650'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.360000000000001</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3856529317257236</photom-APCORR>
     <photom-APCORR_APER_0P3>3.080173326480002</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.795</photom-A_IMAGE>
@@ -11710,7 +12406,7 @@
     <pz-ceers-ZPEAK>8.234486249153191</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.380000000000013</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.50000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'0\xa240\x01\x00\x00\x00p\xa3'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -11718,6 +12414,12 @@
   </row>
   <row>
     <index>116</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'66763'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>9.869999999999834</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4807621001316351</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7594760413474806</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.501</photom-A_IMAGE>
@@ -11811,7 +12513,7 @@
     <pz-ceers-ZPEAK>7.230111071346231</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.420000000000017</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.540000000000018</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xf0\xa540\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -11819,6 +12521,12 @@
   </row>
   <row>
     <index>117</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'67043'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.759999999999922</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.451004803429072</photom-APCORR>
     <photom-APCORR_APER_0P3>5.501182601870941</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>9.269</photom-A_IMAGE>
@@ -11912,7 +12620,7 @@
     <pz-ceers-ZPEAK>5.426181271771939</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.500000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.560000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'p\x8a50\x01\x00\x00\x00\xb0\x8b'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -11920,6 +12628,12 @@
   </row>
   <row>
     <index>118</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.7419682628332296</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9766862691660194</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.7</photom-A_IMAGE>
@@ -12013,7 +12727,7 @@
     <pz-ceers-ZPEAK>5.145900204347165</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.259999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xf0\xdb50\x01\x00\x00\x000\xdd'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -12021,6 +12735,12 @@
   </row>
   <row>
     <index>119</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6642501280594966</photom-APCORR>
     <photom-APCORR_APER_0P3>1.9250060003121285</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.126</photom-A_IMAGE>
@@ -12114,7 +12834,7 @@
     <pz-ceers-ZPEAK>6.364129101420177</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.64000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.700000000000011</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xf0V60\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -12122,6 +12842,12 @@
   </row>
   <row>
     <index>120</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'67267'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.009999999999938</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.435935581930574</photom-APCORR>
     <photom-APCORR_APER_0P3>1.362948723831499</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.409</photom-A_IMAGE>
@@ -12215,7 +12941,7 @@
     <pz-ceers-ZPEAK>5.15499383717461</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.199999999999998</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'60\x01\x00\x00\x000\xa760'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -12223,6 +12949,12 @@
   </row>
   <row>
     <index>121</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'67466'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.49000000000000027</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5046177278237804</photom-APCORR>
     <photom-APCORR_APER_0P3>2.6693571210294254</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.151</photom-A_IMAGE>
@@ -12316,7 +13048,7 @@
     <pz-ceers-ZPEAK>4.531166269829093</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.719999999999994</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.809999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x000\xe760\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -12324,6 +13056,12 @@
   </row>
   <row>
     <index>122</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>2.0157535342652366</photom-APCORR>
     <photom-APCORR_APER_0P3>2.3007683577668097</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.391</photom-A_IMAGE>
@@ -12417,7 +13155,7 @@
     <pz-ceers-ZPEAK>6.060255531972456</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.310000000000008</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.55000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'0g70\x01\x00\x00\x00ph'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -12425,6 +13163,12 @@
   </row>
   <row>
     <index>123</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.461929490577859</photom-APCORR>
     <photom-APCORR_APER_0P3>3.018011986907997</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.656</photom-A_IMAGE>
@@ -12518,7 +13262,7 @@
     <pz-ceers-ZPEAK>4.669559610035277</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.809999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.869999999999996</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0\x9170\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -12526,6 +13270,12 @@
   </row>
   <row>
     <index>124</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.9200435649086465</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5177441913355267</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.508</photom-A_IMAGE>
@@ -12619,7 +13369,7 @@
     <pz-ceers-ZPEAK>6.814722905022896</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.880000000000012</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.910000000000013</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'70\x01\x00\x00\x00\xb0\xc170'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -12627,6 +13377,12 @@
   </row>
   <row>
     <index>125</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>0.8900934386876068</photom-APCORR>
     <photom-APCORR_APER_0P3>0.9342320710156667</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.852</photom-A_IMAGE>
@@ -12720,7 +13476,7 @@
     <pz-ceers-ZPEAK>6.417857584470571</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.64000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.670000000000011</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xf0\xd170\x01\x00\x00\x000\xd3'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -12728,6 +13484,12 @@
   </row>
   <row>
     <index>126</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>2.708647137629478</photom-APCORR>
     <photom-APCORR_APER_0P3>2.799723364932673</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.367</photom-A_IMAGE>
@@ -12821,7 +13583,7 @@
     <pz-ceers-ZPEAK>5.3933229170705514</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.500000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.880000000000012</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'80\x01\x00\x00\x000\x1380'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -12829,6 +13591,12 @@
   </row>
   <row>
     <index>127</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'68049'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.01</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.192695920524295</photom-APCORR>
     <photom-APCORR_APER_0P3>1.593803757485173</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.654</photom-A_IMAGE>
@@ -12922,7 +13690,7 @@
     <pz-ceers-ZPEAK>5.1439787345548265</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'0680\x01\x00\x00\x00p7'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -12930,6 +13698,12 @@
   </row>
   <row>
     <index>128</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'68235'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.009999999999938</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6967796899621963</photom-APCORR>
     <photom-APCORR_APER_0P3>1.975898582816602</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.792</photom-A_IMAGE>
@@ -13023,7 +13797,7 @@
     <pz-ceers-ZPEAK>5.120177823197562</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.229999999999999</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.470000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'80\x01\x00\x00\x00p\xbc80'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -13031,6 +13805,12 @@
   </row>
   <row>
     <index>129</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.8410797282803002</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6185635645359757</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.059</photom-A_IMAGE>
@@ -13124,7 +13904,7 @@
     <pz-ceers-ZPEAK>5.785096455581222</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.950000000000005</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.130000000000006</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'90\x01\x00\x00\x00\xb0_90'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -13132,6 +13912,12 @@
   </row>
   <row>
     <index>130</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5598499595994544</photom-APCORR>
     <photom-APCORR_APER_0P3>2.0637455739483075</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.135</photom-A_IMAGE>
@@ -13225,7 +14011,7 @@
     <pz-ceers-ZPEAK>5.81869292378049</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.980000000000005</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.190000000000007</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xf0`90\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -13233,6 +14019,12 @@
   </row>
   <row>
     <index>131</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'69662'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.599999999999925</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.1811837331511872</photom-APCORR>
     <photom-APCORR_APER_0P3>9.432996013702938</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>10.357</photom-A_IMAGE>
@@ -13326,7 +14118,7 @@
     <pz-ceers-ZPEAK>5.255656232311484</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.470000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.590000000000002</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xb0\x9a90\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -13334,6 +14126,12 @@
   </row>
   <row>
     <index>132</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'68329'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.039999999999937</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.399166366067111</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7196939895125862</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.987</photom-A_IMAGE>
@@ -13427,7 +14225,7 @@
     <pz-ceers-ZPEAK>5.141955610855565</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.169999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'90\x01\x00\x00\x00\xb0\xa490'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -13435,6 +14233,12 @@
   </row>
   <row>
     <index>133</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.586043051972263</photom-APCORR>
     <photom-APCORR_APER_0P3>1.62176629172842</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.116</photom-A_IMAGE>
@@ -13528,7 +14332,7 @@
     <pz-ceers-ZPEAK>6.487412120330839</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.330000000000016</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.540000000000018</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\xb0\xda90\x01\x00\x00\x00\xf0\xdb'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -13536,6 +14340,12 @@
   </row>
   <row>
     <index>134</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.1140109318905331</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6618040736880992</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.165</photom-A_IMAGE>
@@ -13629,7 +14439,7 @@
     <pz-ceers-ZPEAK>5.302129521327667</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.560000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.800000000000003</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'p\x19:0\x01\x00\x00\x00\xb0\x1a'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -13637,6 +14447,12 @@
   </row>
   <row>
     <index>135</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>2.027769510113016</photom-APCORR>
     <photom-APCORR_APER_0P3>2.0956329268449387</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.073</photom-A_IMAGE>
@@ -13730,7 +14546,7 @@
     <pz-ceers-ZPEAK>5.288684947540421</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.560000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.330000000000016</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b':0\x01\x00\x00\x00\xf0G:0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -13738,6 +14554,12 @@
   </row>
   <row>
     <index>136</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'69102'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.749999999999943</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.444059825591518</photom-APCORR>
     <photom-APCORR_APER_0P3>2.31395863780552</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.825</photom-A_IMAGE>
@@ -13831,7 +14653,7 @@
     <pz-ceers-ZPEAK>4.685409803861897</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.779999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.809999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0\x82:0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -13839,6 +14661,12 @@
   </row>
   <row>
     <index>137</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'69805'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.069999999999936</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6083204355534677</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8136311652806334</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.903</photom-A_IMAGE>
@@ -13932,7 +14760,7 @@
     <pz-ceers-ZPEAK>5.1604271334669205</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b';0\x01\x00\x00\x00pO;0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -13940,6 +14768,12 @@
   </row>
   <row>
     <index>138</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3152803913290712</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4045842771625983</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.196</photom-A_IMAGE>
@@ -14033,7 +14867,7 @@
     <pz-ceers-ZPEAK>6.273615614578291</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.460000000000009</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.520000000000009</pz-ceers-ZU95>
-    <specz-catalogue>b''</specz-catalogue>
+    <specz-catalogue>b'0S;0\x01\x00\x00\x00pT'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -14041,6 +14875,12 @@
   </row>
   <row>
     <index>139</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.414119481514514</photom-APCORR>
     <photom-APCORR_APER_0P3>2.726011590707818</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.302</photom-A_IMAGE>
@@ -14134,7 +14974,7 @@
     <pz-ceers-ZPEAK>5.169495541370683</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b'\x00\x000?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x00\x000\xe2;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -14142,6 +14982,12 @@
   </row>
   <row>
     <index>140</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6885146881794355</photom-APCORR>
     <photom-APCORR_APER_0P3>6.690085938473036</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>9.62</photom-A_IMAGE>
@@ -14235,7 +15081,7 @@
     <pz-ceers-ZPEAK>5.1700578658983645</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b'\x15\x0c\x01\x00\x00\x00\xb0?\x15\x0c'</specz-catalogue>
+    <specz-catalogue>b';0\x01\x00\x00\x00\xf0\xe5;0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -14243,6 +15089,12 @@
   </row>
   <row>
     <index>141</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'69827'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.289999999999932</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6003489830233018</photom-APCORR>
     <photom-APCORR_APER_0P3>2.6345917663913045</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.715</photom-A_IMAGE>
@@ -14336,7 +15188,7 @@
     <pz-ceers-ZPEAK>5.158410236893538</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b'\x01\x00\x00\x00\xb0?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x000\xe7;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -14344,6 +15196,12 @@
   </row>
   <row>
     <index>142</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>2.2897151389386505</photom-APCORR>
     <photom-APCORR_APER_0P3>1.755973551181265</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.227</photom-A_IMAGE>
@@ -14437,7 +15295,7 @@
     <pz-ceers-ZPEAK>5.179539962493929</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.500000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.860000000000004</pz-ceers-ZU95>
-    <specz-catalogue>b'\x15\x0c\x01\x00\x00\x00\xb0?\x15\x0c'</specz-catalogue>
+    <specz-catalogue>b';0\x01\x00\x00\x000\xec;0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -14445,6 +15303,12 @@
   </row>
   <row>
     <index>143</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'69871'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>4.979999999999938</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3158328172446518</photom-APCORR>
     <photom-APCORR_APER_0P3>3.321447627007661</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>8.697</photom-A_IMAGE>
@@ -14538,7 +15402,7 @@
     <pz-ceers-ZPEAK>4.668214645902647</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.749999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.809999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b'\x00\x00\xb0?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x00\x00p\x14&lt;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -14546,6 +15410,12 @@
   </row>
   <row>
     <index>144</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.303184426187889</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8577039532084099</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.49</photom-A_IMAGE>
@@ -14639,7 +15509,7 @@
     <pz-ceers-ZPEAK>5.125329117758252</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.169999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.199999999999998</pz-ceers-ZU95>
-    <specz-catalogue>b'\xb0?\x15\x0c\x01\x00\x00\x000?'</specz-catalogue>
+    <specz-catalogue>b'\xb0s&lt;0\x01\x00\x00\x00\xf0t'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -14647,6 +15517,12 @@
   </row>
   <row>
     <index>145</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.039456749597803</photom-APCORR>
     <photom-APCORR_APER_0P3>2.01288953189695</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.195</photom-A_IMAGE>
@@ -14740,7 +15616,7 @@
     <pz-ceers-ZPEAK>5.168131426446147</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.229999999999999</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.38</pz-ceers-ZU95>
-    <specz-catalogue>b'\x15\x0c\x01\x00\x00\x000?\x15\x0c'</specz-catalogue>
+    <specz-catalogue>b'&lt;0\x01\x00\x00\x00\xf0\x82&lt;0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -14748,6 +15624,12 @@
   </row>
   <row>
     <index>146</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'70359'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.799999999999921</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2857016865513526</photom-APCORR>
     <photom-APCORR_APER_0P3>1.5072401068371761</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.108</photom-A_IMAGE>
@@ -14841,7 +15723,7 @@
     <pz-ceers-ZPEAK>5.977129836823209</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.130000000000006</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.310000000000008</pz-ceers-ZU95>
-    <specz-catalogue>b'\xb0?\x15\x0c\x01\x00\x00\x000?'</specz-catalogue>
+    <specz-catalogue>b'\xb0\xfd&lt;0\x01\x00\x00\x00\xf0\xfe'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -14849,6 +15731,12 @@
   </row>
   <row>
     <index>147</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5462843684224952</photom-APCORR>
     <photom-APCORR_APER_0P3>1.510261295640888</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.333</photom-A_IMAGE>
@@ -14942,7 +15830,7 @@
     <pz-ceers-ZPEAK>5.145054681858098</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b'\xb0?\x15\x0c\x01\x00\x00\x000?'</specz-catalogue>
+    <specz-catalogue>b'\xb0\x10=0\x01\x00\x00\x00\xf0\x11'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -14950,6 +15838,12 @@
   </row>
   <row>
     <index>148</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'70288'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.5400000000000003</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4886776771062225</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3406166108750996</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.256</photom-A_IMAGE>
@@ -15043,7 +15937,7 @@
     <pz-ceers-ZPEAK>5.7880608685244415</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.920000000000004</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.130000000000006</pz-ceers-ZU95>
-    <specz-catalogue>b'\x15\x0c\x01\x00\x00\x00\xb0?\x15\x0c'</specz-catalogue>
+    <specz-catalogue>b'=0\x01\x00\x00\x00\xf0%=0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -15051,6 +15945,12 @@
   </row>
   <row>
     <index>149</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4640890083831217</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3299474242194769</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.093</photom-A_IMAGE>
@@ -15144,7 +16044,7 @@
     <pz-ceers-ZPEAK>7.314151990860866</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.450000000000017</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.540000000000018</pz-ceers-ZU95>
-    <specz-catalogue>b'\x00\x00\xb0?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xb0\x10&gt;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -15152,6 +16052,12 @@
   </row>
   <row>
     <index>150</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.117898345588493</photom-APCORR>
     <photom-APCORR_APER_0P3>1.1998266654718852</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.637</photom-A_IMAGE>
@@ -15245,7 +16151,7 @@
     <pz-ceers-ZPEAK>5.568703646815403</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.920000000000004</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.58000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b'\xb0?\x15\x0c\x01\x00\x00\x000?'</specz-catalogue>
+    <specz-catalogue>b'\xb0$&gt;0\x01\x00\x00\x00\xf0%'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -15253,6 +16159,12 @@
   </row>
   <row>
     <index>151</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'70849'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.209999999999933</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3826465067857185</photom-APCORR>
     <photom-APCORR_APER_0P3>2.292510383501634</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.098</photom-A_IMAGE>
@@ -15346,7 +16258,7 @@
     <pz-ceers-ZPEAK>5.159127554736561</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.259999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b'\x15\x0c\x01\x00\x00\x000?\x15\x0c'</specz-catalogue>
+    <specz-catalogue>b&quot;&gt;0\x01\x00\x00\x000'&gt;0&quot;</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -15354,6 +16266,12 @@
   </row>
   <row>
     <index>152</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'70914'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>9.14999999999985</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.1826606010441658</photom-APCORR>
     <photom-APCORR_APER_0P3>2.628774649600331</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.376</photom-A_IMAGE>
@@ -15447,7 +16365,7 @@
     <pz-ceers-ZPEAK>7.3068969786544935</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.450000000000017</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.540000000000018</pz-ceers-ZU95>
-    <specz-catalogue>b'\x01\x00\x00\x000?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x000;&gt;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -15455,6 +16373,12 @@
   </row>
   <row>
     <index>153</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4238336655787385</photom-APCORR>
     <photom-APCORR_APER_0P3>1.3119358340141154</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.441</photom-A_IMAGE>
@@ -15548,7 +16472,7 @@
     <pz-ceers-ZPEAK>4.6343131099956</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.749999999999995</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.809999999999995</pz-ceers-ZU95>
-    <specz-catalogue>b'0?\x15\x0c\x01\x00\x00\x00\xb0?'</specz-catalogue>
+    <specz-catalogue>b'\xb0=&gt;0\x01\x00\x00\x00\xf0&gt;'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -15556,6 +16480,12 @@
   </row>
   <row>
     <index>154</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3532266537094209</photom-APCORR>
     <photom-APCORR_APER_0P3>1.6339895882271058</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.476</photom-A_IMAGE>
@@ -15649,7 +16579,7 @@
     <pz-ceers-ZPEAK>5.453398837470606</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.530000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.560000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b'\x15\x0c\x01\x00\x00\x00\xb0?\x15\x0c'</specz-catalogue>
+    <specz-catalogue>b'&gt;0\x01\x00\x00\x00\xb0F&gt;0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -15657,6 +16587,12 @@
   </row>
   <row>
     <index>155</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.798437416786566</photom-APCORR>
     <photom-APCORR_APER_0P3>1.8142541968815054</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.484</photom-A_IMAGE>
@@ -15750,7 +16686,7 @@
     <pz-ceers-ZPEAK>7.6663811979984</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.53000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>9.279999999999994</pz-ceers-ZU95>
-    <specz-catalogue>b'\x00\x00\xb0?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x00\x000I&gt;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -15758,6 +16694,12 @@
   </row>
   <row>
     <index>156</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'70976'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.279999999999932</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3414082126277938</photom-APCORR>
     <photom-APCORR_APER_0P3>2.9564389493833745</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.262</photom-A_IMAGE>
@@ -15851,7 +16793,7 @@
     <pz-ceers-ZPEAK>5.0507073761662244</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.169999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.259999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b'\x01\x00\x00\x000?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x000N&gt;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -15859,6 +16801,12 @@
   </row>
   <row>
     <index>157</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'21199'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.499999999999927</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.3750728633611342</photom-APCORR>
     <photom-APCORR_APER_0P3>2.1302251280561135</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.761</photom-A_IMAGE>
@@ -15952,7 +16900,7 @@
     <pz-ceers-ZPEAK>5.360330296071961</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.470000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.560000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b'\x00\x00\xb0?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0\x87&gt;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -15960,6 +16908,12 @@
   </row>
   <row>
     <index>158</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'21171'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>6.979999999999896</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2594666885030696</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4254936623897012</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.402</photom-A_IMAGE>
@@ -16053,7 +17007,7 @@
     <pz-ceers-ZPEAK>7.912070540514841</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.230000000000016</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.380000000000013</pz-ceers-ZU95>
-    <specz-catalogue>b'\x01\x00\x00\x000?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x000\xac&gt;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -16061,6 +17015,12 @@
   </row>
   <row>
     <index>159</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.0662336518387983</photom-APCORR>
     <photom-APCORR_APER_0P3>1.321802241673709</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.55</photom-A_IMAGE>
@@ -16154,7 +17114,7 @@
     <pz-ceers-ZPEAK>7.337267943146777</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.480000000000017</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.570000000000018</pz-ceers-ZU95>
-    <specz-catalogue>b'\x15\x0c\x01\x00\x00\x000?\x15\x0c'</specz-catalogue>
+    <specz-catalogue>b'&gt;0\x01\x00\x00\x000\xb1&gt;0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -16162,6 +17122,12 @@
   </row>
   <row>
     <index>160</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'21173'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>1.7900000000000014</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.1273028973358838</photom-APCORR>
     <photom-APCORR_APER_0P3>1.94896292204128</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.924</photom-A_IMAGE>
@@ -16255,7 +17221,7 @@
     <pz-ceers-ZPEAK>7.4087934856685544</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.540000000000018</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.570000000000018</pz-ceers-ZU95>
-    <specz-catalogue>b'\x01\x00\x00\x000?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00p\xb2&gt;0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -16263,6 +17229,12 @@
   </row>
   <row>
     <index>161</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'21233'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.699999999999923</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.387293576433228</photom-APCORR>
     <photom-APCORR_APER_0P3>2.114918412411341</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.325</photom-A_IMAGE>
@@ -16356,7 +17328,7 @@
     <pz-ceers-ZPEAK>5.457859947731035</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.500000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.560000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b'\x15\x0c\x01\x00\x00\x000?\x15\x0c'</specz-catalogue>
+    <specz-catalogue>b'&gt;0\x01\x00\x00\x00p\xe3&gt;0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -16364,6 +17336,12 @@
   </row>
   <row>
     <index>162</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'21261'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.019999999999937</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.248515465744926</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4052663629033895</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.921</photom-A_IMAGE>
@@ -16457,7 +17435,7 @@
     <pz-ceers-ZPEAK>5.160459968557705</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.470000000000001</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.740000000000003</pz-ceers-ZU95>
-    <specz-catalogue>b'\xb0?\x15\x0c\x01\x00\x00\x000?'</specz-catalogue>
+    <specz-catalogue>b'p\xed&gt;0\x01\x00\x00\x00\xb0\xee'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -16465,6 +17443,12 @@
   </row>
   <row>
     <index>163</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'21417'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.6699999999999235</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2004059797332152</photom-APCORR>
     <photom-APCORR_APER_0P3>1.790933844368317</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.022</photom-A_IMAGE>
@@ -16558,7 +17542,7 @@
     <pz-ceers-ZPEAK>5.547906458303035</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.680000000000002</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.800000000000003</pz-ceers-ZU95>
-    <specz-catalogue>b'\x00\x000?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x00\x00\xf0V?0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -16566,6 +17550,12 @@
   </row>
   <row>
     <index>164</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'21555'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>8.279999999999868</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.446585484238037</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7458601585122984</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.047</photom-A_IMAGE>
@@ -16659,7 +17649,7 @@
     <pz-ceers-ZPEAK>8.017814315689835</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.320000000000014</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.56000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b'\x01\x00\x00\x000?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x000\xa7?0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -16667,6 +17657,12 @@
   </row>
   <row>
     <index>165</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.0342828348439932</photom-APCORR>
     <photom-APCORR_APER_0P3>1.0261162739907488</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.364</photom-A_IMAGE>
@@ -16760,7 +17756,7 @@
     <pz-ceers-ZPEAK>6.68100091214031</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.700000000000011</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.730000000000011</pz-ceers-ZU95>
-    <specz-catalogue>b'\x15\x0c\x01\x00\x00\x00\xb0?\x15\x0c'</specz-catalogue>
+    <specz-catalogue>b'@0\x01\x00\x00\x000\x1d@0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -16768,6 +17764,12 @@
   </row>
   <row>
     <index>166</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'21785'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>9.10999999999985</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4858254617972422</photom-APCORR>
     <photom-APCORR_APER_0P3>2.3614453093547003</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.155</photom-A_IMAGE>
@@ -16861,7 +17863,7 @@
     <pz-ceers-ZPEAK>6.615285215177557</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.670000000000011</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.730000000000011</pz-ceers-ZU95>
-    <specz-catalogue>b'\x00\x00\xb0?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x00\x00pE@0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -16869,6 +17871,12 @@
   </row>
   <row>
     <index>167</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.705948059460201</photom-APCORR>
     <photom-APCORR_APER_0P3>2.1199604790208086</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.755</photom-A_IMAGE>
@@ -16962,7 +17970,7 @@
     <pz-ceers-ZPEAK>5.125898099242912</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.169999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.229999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b'\xb0?\x15\x0c\x01\x00\x00\x000?'</specz-catalogue>
+    <specz-catalogue>b'\xf0L@0\x01\x00\x00\x000N'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -16970,6 +17978,12 @@
   </row>
   <row>
     <index>168</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.678521721203229</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4192633767615739</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.25</photom-A_IMAGE>
@@ -17063,7 +18077,7 @@
     <pz-ceers-ZPEAK>7.263560041803012</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.450000000000017</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.540000000000018</pz-ceers-ZU95>
-    <specz-catalogue>b'\x01\x00\x00\x00\xb0?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xf0QA0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -17071,6 +18085,12 @@
   </row>
   <row>
     <index>169</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'22580'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>2.959999999999981</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.1824185895352617</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7672400896078586</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>5.929</photom-A_IMAGE>
@@ -17164,7 +18184,7 @@
     <pz-ceers-ZPEAK>5.245563817613459</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.38</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.500000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b'\x15\x0c\x01\x00\x00\x000?\x15\x0c'</specz-catalogue>
+    <specz-catalogue>b'A0\x01\x00\x00\x00\xf0VA0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -17172,6 +18192,12 @@
   </row>
   <row>
     <index>170</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4206699841802701</photom-APCORR>
     <photom-APCORR_APER_0P3>2.9029985840219865</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.96</photom-A_IMAGE>
@@ -17265,7 +18291,7 @@
     <pz-ceers-ZPEAK>5.825556446413411</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>6.160000000000006</pz-ceers-ZU68>
     <pz-ceers-ZU95>6.850000000000012</pz-ceers-ZU95>
-    <specz-catalogue>b'\x01\x00\x00\x00\xb0?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xf0jA0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -17273,6 +18299,12 @@
   </row>
   <row>
     <index>171</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5372794528177007</photom-APCORR>
     <photom-APCORR_APER_0P3>2.95336102262188</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>6.111</photom-A_IMAGE>
@@ -17366,7 +18398,7 @@
     <pz-ceers-ZPEAK>5.094502713971911</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.289999999999999</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.470000000000001</pz-ceers-ZU95>
-    <specz-catalogue>b'\x01\x00\x00\x000?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xf0\x96A0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -17374,6 +18406,12 @@
   </row>
   <row>
     <index>172</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'22652'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.7800000000000005</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2340852796357766</photom-APCORR>
     <photom-APCORR_APER_0P3>2.06997273445089</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>4.855</photom-A_IMAGE>
@@ -17467,7 +18505,7 @@
     <pz-ceers-ZPEAK>5.2062749888717885</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.590000000000002</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.740000000000003</pz-ceers-ZU95>
-    <specz-catalogue>b'\x15\x0c\x01\x00\x00\x00\xb0?\x15\x0c'</specz-catalogue>
+    <specz-catalogue>b'B0\x01\x00\x00\x000,B0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -17475,6 +18513,12 @@
   </row>
   <row>
     <index>173</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.6520901300425592</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4200807005710143</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.953</photom-A_IMAGE>
@@ -17568,7 +18612,7 @@
     <pz-ceers-ZPEAK>7.157638182840859</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.450000000000017</pz-ceers-ZU68>
     <pz-ceers-ZU95>7.78000000000002</pz-ceers-ZU95>
-    <specz-catalogue>b'\xb0?\x15\x0c\x01\x00\x00\x00\xb0?'</specz-catalogue>
+    <specz-catalogue>b'\xf0\x87B0\x01\x00\x00\x000\x89'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -17576,6 +18620,12 @@
   </row>
   <row>
     <index>174</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'23009'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.45000000000000023</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.1588086895250633</photom-APCORR>
     <photom-APCORR_APER_0P3>1.2586376715289058</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.369</photom-A_IMAGE>
@@ -17669,7 +18719,7 @@
     <pz-ceers-ZPEAK>5.142417660946225</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.199999999999998</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.259999999999999</pz-ceers-ZU95>
-    <specz-catalogue>b'\x00\x000?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x00\x00p\nC0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -17677,6 +18727,12 @@
   </row>
   <row>
     <index>175</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.508603045154007</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4524840164905164</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.916</photom-A_IMAGE>
@@ -17770,7 +18826,7 @@
     <pz-ceers-ZPEAK>5.184892156900729</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.590000000000002</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.830000000000004</pz-ceers-ZU95>
-    <specz-catalogue>b'\x00\x00\xb0?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x00\x0001D0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -17778,6 +18834,12 @@
   </row>
   <row>
     <index>176</index>
+    <matched-donnan22-v2-id>b'120880'</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>10.79</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'23602'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>10.53999999999982</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b'CEERS1-881'</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>10.6</matched-finkelstein22c-z>
     <photom-APCORR>1.6273181360186568</photom-APCORR>
     <photom-APCORR_APER_0P3>1.7487389237428543</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.265</photom-A_IMAGE>
@@ -17871,7 +18933,7 @@
     <pz-ceers-ZPEAK>10.61433514350782</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>11.019999999999957</pz-ceers-ZU68>
     <pz-ceers-ZU95>11.409999999999949</pz-ceers-ZU95>
-    <specz-catalogue>b'0?\x15\x0c\x01\x00\x00\x000?'</specz-catalogue>
+    <specz-catalogue>b'p2D0\x01\x00\x00\x00\xb03'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -17879,6 +18941,12 @@
   </row>
   <row>
     <index>177</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'23636'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.319999999999931</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.5609131878468274</photom-APCORR>
     <photom-APCORR_APER_0P3>1.4772120741954915</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.3</photom-A_IMAGE>
@@ -17972,7 +19040,7 @@
     <pz-ceers-ZPEAK>5.4297471967258275</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>5.590000000000002</pz-ceers-ZU68>
     <pz-ceers-ZU95>5.770000000000003</pz-ceers-ZU95>
-    <specz-catalogue>b'\x00\x00\xb0?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x00\x000DD0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -17980,6 +19048,12 @@
   </row>
   <row>
     <index>178</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'23637'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>5.289999999999932</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.2645703899077698</photom-APCORR>
     <photom-APCORR_APER_0P3>1.36432168344701</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>3.101</photom-A_IMAGE>
@@ -18073,7 +19147,7 @@
     <pz-ceers-ZPEAK>4.845602203336601</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>4.869999999999996</pz-ceers-ZU68>
     <pz-ceers-ZU95>4.899999999999996</pz-ceers-ZU95>
-    <specz-catalogue>b'0?\x15\x0c\x01\x00\x00\x00\xb0?'</specz-catalogue>
+    <specz-catalogue>b'pED0\x01\x00\x00\x00\xb0F'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -18081,6 +19155,12 @@
   </row>
   <row>
     <index>179</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b''</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.0</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>1.4301499813927063</photom-APCORR>
     <photom-APCORR_APER_0P3>1.563127873113673</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>2.174</photom-A_IMAGE>
@@ -18174,7 +19254,7 @@
     <pz-ceers-ZPEAK>8.033895548873751</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>8.200000000000017</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.440000000000012</pz-ceers-ZU95>
-    <specz-catalogue>b'\x01\x00\x00\x00\xb0?\x15\x0c\x01'</specz-catalogue>
+    <specz-catalogue>b'\x01\x00\x00\x00\xf0[D0\x01'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>
@@ -18182,6 +19262,12 @@
   </row>
   <row>
     <index>180</index>
+    <matched-donnan22-v2-id>b''</matched-donnan22-v2-id>
+    <matched-donnan22-v2-z>0.0</matched-donnan22-v2-z>
+    <matched-finkelstein22a-id>b'24747'</matched-finkelstein22a-id>
+    <matched-finkelstein22a-z>0.9100000000000006</matched-finkelstein22a-z>
+    <matched-finkelstein22c-id>b''</matched-finkelstein22c-id>
+    <matched-finkelstein22c-z>0.0</matched-finkelstein22c-z>
     <photom-APCORR>3.5924638369438133</photom-APCORR>
     <photom-APCORR_APER_0P3>19.30956811476648</photom-APCORR_APER_0P3>
     <photom-A_IMAGE>7.161</photom-A_IMAGE>
@@ -18275,7 +19361,7 @@
     <pz-ceers-ZPEAK>6.635593466460961</pz-ceers-ZPEAK>
     <pz-ceers-ZU68>7.930000000000021</pz-ceers-ZU68>
     <pz-ceers-ZU95>8.350000000000014</pz-ceers-ZU95>
-    <specz-catalogue>b'\x15\x0c\x01\x00\x00\x00\xb0?\x15\x0c'</specz-catalogue>
+    <specz-catalogue>b'F0\x01\x00\x00\x00\xf0*F0'</specz-catalogue>
     <specz-quality>0.0</specz-quality>
     <specz-z>0.0</specz-z>
     <spurious>0.0</spurious>

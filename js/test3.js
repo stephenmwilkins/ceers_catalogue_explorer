@@ -135,12 +135,30 @@ function initialise(idlist) {
     table += "</table></td>";
 
 
+    // matched table
+
+    table += "<td><b>Matches</b><br><table>";
+
+    const catalogues = ["finkelstein22a", "donnan22-v2", "finkelstein22c"]
+    catalogues.forEach(function (item, index) {
+
+      id2 = x[i].getElementsByTagName("matched-"+item+"-id")[0].childNodes[0].nodeValue
+
+      if (id2 != "b''") {
+        table += "<tr><td>" + item + "</td>";
+        z = x[i].getElementsByTagName("matched-"+item+"-z")[0].childNodes[0].nodeValue
+        table += "<td>" + id2 + "</td>";
+        table += "<td>" + precise(parseFloat(z), 3)+ "</td>";
+        table += "</tr>";
+      }
+    });
+
+    table += "</table></td>";
+
+
     // JWST photom table
 
     table += "<td><b>JWST Photometry</b><br><table>";
-
-
-
 
     const photomarray = ["115", "150", "200", "277", "356", "410", "444"]
     photomarray.forEach(function (item, index) {
